@@ -1,0 +1,601 @@
+[0] INTERIM FINANCIAL STATEMENTS
+[1] th
+[2] For the Nine Months Ended 30 September 2025
+[3] National Savings Bank Group Posts Strong 3Q 2025 Growth with 3 0 % Surge in Profit Before
+[4] Tax to Rs. 3 4 . 8 billion
+[5] • Total deposits increased to Rs 1.6 trillion
+[6] • Stage 3 loan ratio reduced to 2.63%
+[7] • Capital Adequacy ratio at 24%
+[8] National Savings Bank Group (NSB) reported a solid performance for the nine months ended 30
+[9] September 2025, delivering sharp improvements in profitability, margins and asset quality
+[10] despite a moderating interest - rate environment. The state - owned savings gi ant recorded a Profit
+[11] Before Tax (PBT) of Rs. 3 4 . 8 billion, up 3 0 %, while Profit After Tax (PAT) surged 32% to Rs. 21.2
+[12] billion.
+[13] Chairman Dr. Harsha Cabral PC said the results highlight the Bank’s ability to uphold its dual
+[14] mandate of safeguarding nationa l savings and supporting state financing, while maintaining
+[15] strong profitability. General Manager/CEO Ms. Shashi Kandambi noted that disciplined balance -
+[16] sheet management, improved margins and sustained investments in technology and staff
+[17] contributed to the strong performance.
+[18] Strong growth in core earnings
+[19] Despite a slight moderation in total income due to lower market rates, core profitability
+[20] strengthened significantly. A 1 5.8 % reduction in interest expenses, driven by active liability
+[21] management, led to an 1 6.8 % increase in Net Interest Income (NII) to Rs. 6 4.4 billion. The Net
+[22] Interest Margin improved to 4.7 1 %. Furthermore, net fee and commission income grew by 26. 3 %,
+[23] and other non - interest income rose by nearly 62.5 %, contributing to a 1 8 .4% expansion i n total
+[24] operating income compared to the same period last year .
+[25] Disciplined Cost Management and Improved Asset Quality Drive Profit Growth
+[26] Operating expenses increased due to wage adjustments and digital investments, but the cost - to -
+[27] income ratio remained steady at 3 8.28 %, demonstrating solid cost control. After absorbing
+[28] financial service levies of Rs. 10. 6 billion (VAT and SSCL) and an income tax expense of Rs. 13. 6
+[29] billion that rose in line with higher earnings, NSB delivered a Profit After Tax (PAT) of Rs. 21.2 billion
+[30] a strong year - on - year increase of over 32%.
+[31] This robust bottom - line performance was supported by a dramatic improvement in asset quality
+[32] and an exceptionally fortified capital base. The Stage 3 impaired loan (NPL) ratio more than
+[33] halved, falling sharply to 2.63% from 5.18% at the end of 2024. At the same time, the Stage 3
+[34] impairment coverage ratio increased to 59.36% (2024: 44.50%), underscoring the Bank’s
+[35] conservative provisioning stance and resilience against potential credit sh ocks. Concurrently,
+[36] the Bank's capital buffers remained strong, with a Tier 1 Capital Ratio of 21.92 % and a Total
+[37] Capital Ratio of 23.89 %, both well above regulatory requirements. This reinforced financial
+[38] foundation directly translated into enhanced profi tability, with key metrics showing significant
+[39] improvement: the Return on Assets (before tax) rose to 2. 54 % from 1. 63 %, and the Return on
+[40] Equity increased substantially to 2 4.67 % from 18. 15 %, evidencing greater earnings generation.
+[41] 1
+[42] Strengthened balance s heet and sound liquidity
+[43] NSB’s total assets rose to Rs. 1.8 7 trillion, up 5.3 % from end - 2024, supported primarily by
+[44] increased investments in government securities. Loans and advances stood at Rs. 51 9 billion,
+[45] marginally lower due to selective lending effo rts.
+[46] Customer deposits increased to Rs. 1.59 trillion, reaffirming strong depositor confidence.
+[47] Liquidity remained a standout strength, with the Liquidity Coverage Ratio (LCR) exceeding 349%
+[48] and the Net Stable Funding Ratio (NSFR) at 195%, all far above re gulatory requirements.
+[49] Supporting the State and advancing national priorities
+[50] During the period, NSB contributed over Rs. 2 4.1 billion in taxes on financial services and income
+[51] tax, reinforcing its role as a key supporter of public finance , in addition to the Bank’s ongoing role
+[52] as a major investor in government securities and a conduit for funding to key state - owned
+[53] enterprises.
+[54] The Chairman , Dr Cabral noted that NSB will continue expanding access to financial services
+[55] through its island - wide branch network and over 4,000 postal banking outlets. The General
+[56] Manager/CEO , Ms Kandambi added that the strong 3Q performance provides a firm foundation
+[57] for the Bank’s continued focus on digital banking, sustainable growth and enhanced governance.
+[58] With stronger earnings, high liquidity, solid capital buffers and improving asset quality, NSB
+[59] enters the final quarter of 2025 in a robust position. The Bank remains c ommitted to its national
+[60] mandate protecting public savings, supporting government funding needs and driving inclusive,
+[61] sustainable financial progress across Sri Lanka.
+[62] 2
+[63] INCOME STATEMENT
+[64] FOR THE NINE MONTHS ENDED 30TH SEPTEMBER
+[65] Bank Group
+[66] 2025 2024 2025 2024
+[67] Rs. '000 Rs. '000 Rs. '000 Rs. '000
+[68] Income 151,952,137 157,790,713 156,079,335 161,746,991
+[69] Interest income 148,110,677 154,852,146 151,411,470 158,504,462
+[70] Interest expenses (84,914,947) (101,631,249) (87,026,280) (103,403,468)
+[71] Net interest income 63,195,730 53,220,897 64,385,190 55,100,994
+[72] Fee and commission income 1,951,688 1,565,793 1,953,079 1,571,503
+[73] Fee and commission expenses (301,358) (263,255) (301,626) (263,551)
+[74] Net fee and commission income 1,650,330 1,302,538 1,651,453 1,307,952
+[75] Net gains/(losses) from trading 774,961 738,600 1,297,426 1,023,754
+[76] Net fair value gains/(losses) on:
+[77] financial assets at fair value through profit or loss - - - -
+[78] financial liabilities at fair value through profit or loss - - - -
+[79] Net gains/(losses) on derecognition of financial assets :
+[80] at fair value through profit or loss - - - -
+[81] at amortised cost - - - -
+[82] at fair value through other comprehensive income 511,840 442,273 511,840 442,273
+[83] Net other operating income 602,971 191,901 905,520 204,999
+[84] Total operating income 66,735,832 55,896,209 68,751,429 58,079,972
+[85] Impairment charges 2,710,688 (24,704) 2,731,493 (5,892)
+[86] Net operating income 69,446,520 55,871,505 71,482,922 58,074,080
+[87] Personnel expenses (18,003,616) (15,842,553) (18,103,608) (16,135,922)
+[88] Depreciation and amortisation expenses (1,685,613) (1,160,378) (1,697,070) (1,171,233)
+[89] Other expenses (6,177,129) (5,238,963) (6,328,043) (5,347,921)
+[90] Operating profit/(loss) before VAT & SSCL on financial services 43,580,162 33,629,611 45,354,201 35,419,004
+[91] Value Added Tax (VAT) on financial services (9,046,855) (7,263,967) (9,289,296) (7,571,182)
+[92] Social Security Contribution Levy (SSCL) on financial services (1,256,508) (1,008,884) (1,289,997) (1,051,553)
+[93] Operating profit/(loss) after VAT & SSCL on financial services
+[94] 33,276,799 25,356,760 34,774,908 26,796,269
+[95] Share of profits of associates and joint ventures - - - -
+[96] Profit/(loss) before tax 33,276,799 25,356,760 34,774,908 26,796,269
+[97] Income tax expenses (13,167,886) (10,175,126) (13,574,298) (10,712,839)
+[98] Profit/(loss) for the period 20,108,913 15,181,634 21,200,610 16,083,430
+[99] Profit attributable to:
+[100] Equity holders of the Bank 20,108,913 15,181,634 21,200,610 16,083,430
+[101] Non-controlling interests - - - -
+[102] Earnings per share on profit
+[103] Basic earnings per ordinary share (Rs.) 21.39 16.15 22.55 17.11
+[104] Diluted earnings per ordinary share (Rs.) 21.39 16.15 22.55 17.11
+[105] 3
+[106] STATEMENT OF COMPREHENSIVE INCOME
+[107] FOR THE NINE MONTHS ENDED 30TH SEPTEMBER
+[108] Bank Group
+[109] 2025 2024 2025 2024
+[110] Rs. '000 Rs. '000 Rs. '000 Rs. '000
+[111] Profit/(Loss) for the period 20,108,913 15,181,634 21,200,610 16,083,430
+[112] Items that will be reclassified to Income Statement
+[113] Exchange differences on translation of foreign operations - - - -
+[114] Net gains/(losses) on cash flow hedges - - - -
+[115] Net gains/(losses) on investments in debt instruments measured at fair
+[116] value through other comprehensive income - - - -
+[117] Share of profits of associates and joint ventures - - - -
+[118] Debt instruments at fair value through other comprehensive Income 233,486 622,313 200,374 631,188
+[119] Net gains/(losses) on investment in debt instruments transferred to income
+[120] statement (511,840) (442,273) (511,840) (442,273)
+[121] Deferred tax effect on the above 83,506 (54,012) 93,440 (56,674)
+[122] Total other comprehensive income to be reclassified to Income
+[123] Statement
+[124] (194,848) 126,028 (218,026) 132,241
+[125] Items that will not to be reclassified to Income Statement
+[126] Change in fair value on investments in equity instruments designated at
+[127] fair value through other comprehensive income 1,515,402 602,511 1,251,784 637,101
+[128] Change in the fair value attributable to change in the Bank's own credit risk
+[129] on financial liabilities designated at fair value through profit or loss
+[130] - - - -
+[131] Re-measurement of post-employment benefit obligations - - 1,724 (3,120)
+[132] Deferred tax effect on the above - - (1,502) 936
+[133] Re-measurement of post-employment benefit obligations (net of taxes) - - 222 (2,184)
+[134] Change in revaluation reserve - - - -
+[135] Deferred tax effect on the above - - - -
+[136] Changes in revaluation surplus (net of taxes) - - - -
+[137] Share of profits of associates and joint ventures - - - -
+[138] Total other comprehensive income not to be reclassified to Income
+[139] Statement 1,515,402 602,511 1,252,006 634,917
+[140] 1,320,554 728,539 1,033,980 767,158
+[141] Total other comprehensive income(OCI) for the period, net of taxes
+[142] Total comprehensive income for the period 21,429,467 15,910,173 22,234,590 16,850,588
+[143] Attributable to:
+[144] Equity holders of the Bank 21,429,467 15,910,173 22,234,590 16,850,588
+[145] Non-controlling interests - - - -
+[146] Explanatory Notes :-
+[147] 1. There are no changes to the accounting policies and methods of computation since the publication of annual accounts for the year 2024.
+[148] 2. The comparable information is re-classified as wherever necessary to compare with the current year's classification in order to provide a better
+[149] presentation.
+[150] 3. Impairment Assessment
+[151] Individual impairment assessment were done for the customers who have exceeded the threshold limit. They were assessed individually based
+[152] on their historical payment patterns, economic recession impact to their sectors and expected recovery of the sector, financial strength of the
+[153] entity and other holistic factors. The portfolio level impairment assessment was carried out for the other borrowers. Based on the assessment
+[154] some borrowers were moved from stage one to stage two and some borrowers were moved from stage two to stage three (due to expected
+[155] cashflow impairment) despite of their past due status. The Bank closely monitors and considers the impact of economy to business operations
+[156] and performance. In order to capture the expected losses from loans and advances due to prevalent economic conditions, the Bank adjusted the
+[157] economic factor adjustment.
+[158] 4
+[159] STATEMENT OF FINANCIAL POSITION
+[160] AS AT
+[161] Bank Group
+[162] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[163] Rs. '000 Rs. '000 Rs. '000 Rs. '000
+[164] (Audited) (Audited)
+[165] Assets
+[166] Cash and cash equivalents 9,309,830 8,358,742 9,362,311 8,544,416
+[167] Balances with central banks 157,711 357,054 157,761 357,117
+[168] Placements with banks 20,258,883 14,794,637 20,258,883 14,794,637
+[169] Derivative financial instruments 8,136 9,131 8,136 54,892
+[170] Financial assets recognized through profit or loss
+[171] measured at fair value 12,384,424 21,086,781 57,179,091 46,749,528
+[172] designated at fair value - - - -
+[173] Financial assets at amortised cost
+[174] Loans and advances 518,428,099 532,379,013 519,048,470 527,715,322
+[175] Debt and other instruments 1,137,279,853 1,039,034,572 1,140,559,528 1,048,965,769
+[176] Financial assets measured at fair value through other comprehensive
+[177] income 47,898,535 53,469,178 52,811,252 55,306,512
+[178] Investments in subsidiaries 7,311,000 7,311,000 - -
+[179] Investments in associates and joint ventures - - - -
+[180] Property, plant and equipment 17,264,662 17,415,792 18,402,209 18,556,112
+[181] Right of use assets 1,232,464 1,041,185 1,254,568 1,066,014
+[182] Investment properties - - 349,000 349,000
+[183] Goodwill and intangible assets 2,365,290 2,183,860 2,368,565 2,185,087
+[184] Deferred tax assets 5,026,157 4,995,021 5,026,157 4,995,021
+[185] Other assets 47,288,270 50,002,248 47,369,697 50,127,502
+[186] Total assets 1,826,213,314 1,752,438,214 1,874,155,628 1,779,766,929
+[187] Liabilities
+[188] Due to banks 152,874 487,521 10,371,257 487,521
+[189] Derivative financial instruments 712 258,409 712 258,409
+[190] Financial liabilities recognized through profit or loss
+[191] measured at fair value - - - -
+[192] designated at fair value through profit or loss - - - -
+[193] Financial liabilities at amortised cost
+[194] due to depositors 1,591,924,665 1,556,270,863 1,592,325,905 1,556,681,918
+[195] due to debt securities holders - - - -
+[196] due to other borrowers 54,980,412 48,190,057 90,059,934 66,049,093
+[197] Lease liability 1,474,574 1,281,561 1,505,305 1,314,177
+[198] Debt securities issued 16,762,343 16,966,482 16,835,101 17,039,651
+[199] Retirement benefit obligations 19,318,710 17,489,868 19,333,451 17,597,407
+[200] Current tax liabilities 8,281,449 3,648,729 8,607,268 4,054,844
+[201] Deferred tax liabilities - - 51,744 61,869
+[202] Other provisions - - - -
+[203] Other liabilities 19,117,401 9,002,109 12,134,858 9,387,245
+[204] Due to subsidiaries - - - -
+[205] Total liabilities 1,712,013,140 1,653,595,599 1,751,225,535 1,672,932,134
+[206] Equity
+[207] Stated capital/Assigned capital 9,400,000 9,400,000 9,400,000 9,400,000
+[208] Statutory reserve fund 6,097,055 5,694,877 6,233,926 5,810,742
+[209] OCI reserve 5,533,856 4,213,302 5,600,182 4,566,424
+[210] Retained earnings 42,172,070 28,462,305 48,317,212 33,771,814
+[211] Other reserves 50,997,193 51,072,131 53,378,773 53,285,815
+[212] Total shareholders' equity 114,200,174 98,842,615 122,930,093 106,834,795
+[213] Non-controlling interests - - - -
+[214] Total equity 114,200,174 98,842,615 122,930,093 106,834,795
+[215] Total equity and liabilities 1,826,213,314 1,752,438,214 1,874,155,628 1,779,766,929
+[216] Contingent liabilities and commitments 13,058,567 15,042,447 13,066,875 15,050,755
+[217] Memorandum Information
+[218] Number of Employees 4,219 4,212
+[219] Number of Branches 262 262
+[220] Note: Amounts stated are in net of impairment and depreciation.
+[221] 5
+[222] STATEMENT OF CHANGES IN EQUITY - BANK
+[223] In Rupees Thousand
+[224] Stated Capital / Statutory Cash Flow
+[225] Revaluation OCI Retained Other
+[226] FOR THE NINE MONTHS ENDED 30TH SEPTEMBER 2024 Assigned Reserve Hedging Total Equity
+[227] Reserve Reserve Earnings Reserve
+[228] Capital Fund Reserve
+[229] Balance as at 1st January 2024 9,400,000 5,369,172 7,946,216 1,286,463 - 14,408,118 42,964,284 81,374,253
+[230] Total comprehensive income for the period
+[231] Net profit for the period - - - - - 15,181,634 - 15,181,634
+[232] Other comprehensive income net of tax - - - - - - - -
+[233] Net change in fair value of debt instrument of Fair Value
+[234] through Other Comprehensive Income - - - 126,028 - - - 126,028
+[235] Net change in fair value of equity instrument of Fair Value
+[236] through Other Comprehensive Income - - - 602,511 - - - 602,511
+[237] Net change in Revaluation Reserve - - - - - - - -
+[238] Total comprehensive income for the period - - - 728,539 - 15,181,634 - 15,910,173
+[239] Transactions with equity holders, recognised directly in equity
+[240] Transfers to unclaimed deposits reserve / issued share capital - - - - - - (140,472) (140,472)
+[241] Contribution to the consolidated fund-Dividend/Levy - - - - - - - -
+[242] Transfers during the period - 306,700 - - - (306,700) - -
+[243] Total transactions with equity holders - 306,700 - - - (306,700) (140,472) (140,472)
+[244] Balance as at 30th September 2024 9,400,000 5,675,872 7,946,216 2,015,002 - 29,283,052 42,823,812 97,143,954
+[245] In Rupees Thousand
+[246] Stated Capital / Statutory Cash Flow
+[247] Revaluation OCI Retained Other
+[248] FOR THE NINE MONTHS ENDED 30TH SEPTEMBER 2025 Assigned Reserve Hedging Total Equity
+[249] Reserve Reserve Earnings Reserve
+[250] Capital Fund Reserve
+[251] Balance as at 1st January 2025 9,400,000 5,694,877 7,946,216 4,213,302 - 28,462,305 43,125,915 98,842,615
+[252] Total comprehensive income for the period
+[253] Net profit for the period - - - - - 20,108,913 - 20,108,913
+[254] Other comprehensive income net of tax - - - - - - - -
+[255] Net change in fair value of debt instrument of Fair Value
+[256] through Other Comprehensive Income - - - (194,848) - - - (194,848)
+[257] Net change in fair value of equity instrument of Fair Value
+[258] through Other Comprehensive Income - - - 1,515,402 - - - 1,515,402
+[259] Net change in Revaluation Reserve - - - - - - - -
+[260] Total comprehensive income for the period - - - 1,320,554 - 20,108,913 - 21,429,467
+[261] Transactions with equity holders, recognised directly in equity
+[262] Transfers to unclaimed deposits reserve / issued share capital - - - - - - (71,908) (71,908)
+[263] Contribution to the consolidated fund-Dividend/Levy - - - - - (6,000,000) - (6,000,000)
+[264] Surplus/(reversals) on revaluation of property - - (3,030) - 3,030 - -
+[265] Transfers during the period - 402,178 - - - (402,178) - -
+[266] Total transactions with equity holders - 402,178 (3,030) - - (6,399,148) (71,908) (6,071,908)
+[267] Balance as at 30th September 2025 9,400,000 6,097,055 7,943,186 5,533,856 - 42,172,070 43,054,007 114,200,174
+[268] 6
+[269] STATEMENT OF CHANGES IN EQUITY - GROUP
+[270] In Rupees Thousand
+[271] Stated Capital / Statutory Cash Flow
+[272] Revaluation OCI Retained Other
+[273] FOR THE NINE MONTHS ENDED 30TH SEPTEMBER 2024 Assigned Reserve Hedging Total Equity
+[274] Reserve Reserve Earnings Reserve
+[275] Capital Fund Reserve
+[276] Balance as at 1st January 2024 9,400,000 5,464,218 8,642,884 1,433,850 - 18,605,719 44,241,756 87,788,427
+[277] Total comprehensive income for the period
+[278] Net profit for the period - - - - - 16,083,430 - 16,083,430
+[279] Other comprehensive income net of tax - - - - - (2,184) - (2,184)
+[280] Net change in fair value of debt instrument of Fair Value -
+[281] through Other Comprehensive Income - - - 132,241 - - - 132,241
+[282] Net change in fair value of equity instrument of Fair Value -
+[283] through Other Comprehensive Income - - - 637,101 - - - 637,101
+[284] Net change in Revaluation Reserve - - - - - - - -
+[285] Total comprehensive income for the period - - - 769,342 - 16,081,246 - 16,850,588
+[286] Transactions with equity holders, recognised directly in equity
+[287] Transfers to unclaimed deposits reserve / issued share capital - - - - - - (140,472) (140,472)
+[288] Contribution to the consolidated fund-Dividend/Levy - - - - - - - -
+[289] Transfers during the period - 323,338 - - - (465,598) 142,260 -
+[290] Total transactions with equity holders - 323,338 - - - (465,598) 1,788 (140,472)
+[291] Balance as at 30th September 2024 9,400,000 5,787,556 8,642,884 2,203,192 - 34,221,367 44,243,544 104,498,543
+[292] In Rupees Thousand
+[293] Stated Capital / Statutory Cash Flow
+[294] Revaluation OCI Retained Other
+[295] FOR THE NINE MONTHS ENDED 30TH SEPTEMBER 2025 Assigned Reserve Hedging Total Equity
+[296] Reserve Reserve Earnings Reserve
+[297] Capital Fund Reserve
+[298] Balance as at 1st January 2025 9,400,000 5,810,742 8,642,884 4,566,424 - 33,771,814 44,642,931 106,834,795
+[299] Prior year Adjustments - - - - - (67,384) - (67,384)
+[300] Re- stated opening balance 9,400,000 5,810,742 8,642,884 4,566,424 - 33,704,430 44,642,931 106,767,411
+[301] Total comprehensive income for the period
+[302] Net profit for the period - - - - - 21,200,610 - 21,200,610
+[303] Other comprehensive income net of tax - - - - - 222 - 222
+[304] Net change in fair value of debt instrument of Fair Value
+[305] through Other Comprehensive Income - - - (218,026) - - - (218,026)
+[306] Net change in fair value of equity instrument of Fair Value
+[307] through Other Comprehensive Income - - - 1,251,784 - - - 1,251,784
+[308] Net change in Revaluation Reserve - - - - - - - -
+[309] Total comprehensive income for the period - - - 1,033,758 - 21,200,832 - 22,234,590
+[310] Transactions with equity holders, recognised directly in equity
+[311] Transfers to unclaimed deposits reserve / issued share capital - - - - - - (71,908) (71,908)
+[312] Contribution to the consolidated fund-Dividend/Levy - - - - - (6,000,000) - (6,000,000)
+[313] Surplus/(reversals) on revaluation of property - - (3,030) - 3,030 - -
+[314] Transfers during the period - 423,184 - - - (591,080) 167,896 -
+[315] Total transactions with equity holders - 423,184 (3,030) - - (6,588,050) 95,988 (6,071,908)
+[316] Balance as at 30th September 2025 9,400,000 6,233,926 8,639,854 5,600,182 - 48,317,212 44,738,919 122,930,093
+[317] 7
+[318] CASH FLOW STATEMENT
+[319] FOR THE NINE MONTHS ENDED 30TH SEPTEMBER
+[320] Bank Group
+[321] 2025 2024 2025 2024
+[322] Rs.'000 Rs.'000 Rs.'000 Rs.'000
+[323] Cash flows from operating activities
+[324] Interest receipts 144,531,158 163,192,825 147,596,431 166,751,709
+[325] Interest payments (84,754,083) (114,665,892) (86,584,786) (116,197,969)
+[326] Net commission receipts 1,650,330 1,302,538 1,651,453 1,307,952
+[327] Trading income 750,434 1,099,539 1,361,064 1,538,022
+[328] Payment to employees (16,793,738) (14,376,297) (16,894,229) (14,666,779)
+[329] VAT & SSCL on financial services (9,819,986) (7,188,598) (10,101,063) (7,545,311)
+[330] Receipts from other operating activities 384,289 184,022 690,164 197,120
+[331] Payment on other operating activities (5,869,470) (4,392,155) (6,038,297) (4,400,264)
+[332] Operating profit before change in operating assets & liabilities 30,078,934 25,155,982 31,680,737 26,984,480
+[333] (Increase) / decrease in operating assets
+[334] Placement with banks (5,466,977) 5,654,879 (5,466,977) 6,620,660
+[335] Derivative financial Instruments 257,697 (7,929) 303,458 2,378
+[336] Financial assets at FVPL 8,944,786 (8,244,831) (9,837,451) (12,977,768)
+[337] Financial assets at amortised cost – loans & advances 17,115,964 15,660,122 11,853,457 9,886,305
+[338] Financial assets at amortised cost - debt & other Instruments (88,084,352) (69,838,725) (88,941,110) (70,367,067)
+[339] Proceeds from the sale and maturity of financial investments - - - -
+[340] Other assets 2,005,398 6,410,360 2,044,640 6,396,329
+[341] (65,227,484) (50,366,124) (90,043,983) (60,439,163)
+[342] Increase / (decrease) in operating liabilities
+[343] Due to banks - (8,750,000) 10,213,135 (15,135,067)
+[344] Derivative financial Instruments (257,697) 24,811 (257,697) 25,576
+[345] Financial liabilities at amortised cost – due to depositors 38,547,421 37,545,984 38,538,234 37,537,729
+[346] Financial liabilities at amortised cost – due to debt securities holders - - - -
+[347] Financial liabilities at amortised cost – due to other borrowers 5,134,106 (25,936,498) 22,078,581 (9,854,015)
+[348] Debt securities issued - (6,323,000) (293) (6,323,000)
+[349] Other liabilities 2,154,157 (3,162,815) 1,927,710 (3,112,701)
+[350] 45,577,987 (6,601,518) 72,499,670 3,138,522
+[351] 10,429,437 (31,811,660) 14,136,424 (30,316,161)
+[352] Net cash generated from operating activities before income tax
+[353] Income tax paid (8,430,288) (447,000) (8,985,065) (906,968)
+[354] Net cash (used in)/from operating activities 1,999,149 (32,258,660) 5,151,359 (31,223,129)
+[355] Cash flows from investing activities
+[356] Purchase of property, plant and equipment (502,125) (465,706) (508,135) (468,641)
+[357] Proceeds from the sale of property, plant and equipment 4,595 6,812 4,825 6,812
+[358] Net (increase)/decrease in finance instruments at fair value through
+[359] 6,513,368 36,597,576 3,237,037 35,667,780
+[360] other comprehensive income
+[361] Net purchase/ improvement to investment properties - - - -
+[362] Proceeds from the sale and maturity of financial investments - - - -
+[363] Net purchase of intangible assets (479,905) (348,654) (483,092) (348,654)
+[364] Net cash flow from acquisition of investment in subsidiaries and
+[365] associates
+[366] - - - -
+[367] Dividends received from investment in subsidiaries and associates - - - -
+[368] Net cash (used in)/from investing activities 5,535,933 35,790,028 2,250,635 34,857,297
+[369] Cash flows from financing activities
+[370] Net proceeds from the issue of ordinary share capital - - - -
+[371] Net proceeds from the issue of subordinated debt - - - -
+[372] Repayment of subordinated debt - - - -
+[373] Interest paid on subordinated debt (1,449,023) (2,934,372) (1,449,141) (2,934,372)
+[374] Contribution to consolidated fund-dividend/levy (5,000,000) - (5,000,000) -
+[375] Net cash (used in)/from financing activities (6,449,023) (2,934,372) (6,449,141) (2,934,372)
+[376] Net increase/(decrease) in cash & cash equivalents 1,086,059 596,996 952,853 699,796
+[377] Cash and cash equivalents at the beginning of the year 8,228,822 9,564,741 8,414,559 9,603,169
+[378] Exchange difference in respect of cash & cash equivalents - - - -
+[379] Cash and cash equivalents at the end of the period 9,314,881 10,161,737 9,367,412 10,302,965
+[380] 8
+[381] ANALYSIS OF LOANS & ADVANCES AND IMPAIRMENT
+[382] Bank Group
+[383] In Rupees Thousand As at As at As at As at
+[384] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[385] (Audited) (Audited)
+[386] Product-wise Gross loans and advances
+[387] By product - Domestic currency
+[388] Lease rental and hire purchase receivable - - - 25,911
+[389] Term loans 356,808,320 380,863,516 358,233,488 382,389,974
+[390] Pawning 143,306,255 119,692,775 143,306,284 119,692,803
+[391] Other loans
+[392] Loan to Government - - - -
+[393] Securities purchased under resale agreements 23,625,799 40,930,913 23,863,670 35,762,112
+[394] Staff loans 16,673,742 16,307,926 16,954,435 16,648,714
+[395] Sub Total 540,414,116 557,795,130 542,357,877 554,519,514
+[396] By product - Foreign currency
+[397] Term loans 3,607,364 3,518,569 3,607,364 3,518,569
+[398] Gross loans & advances 544,021,480 561,313,699 545,965,241 558,038,083
+[399] Less: Accumulated impairment under stage 1 (4,024,239) (4,700,749) (4,026,827) (4,703,623)
+[400] Accumulated impairment under stage 2 (1,626,373) (2,129,055) (1,628,366) (2,133,932)
+[401] Accumulated impairment under stage 3 (19,942,769) (22,104,882) (21,261,578) (23,485,206)
+[402] Net value of loans & advances 518,428,099 532,379,013 519,048,470 527,715,322
+[403] Movement of Impairment during the period
+[404] Under Stage 1
+[405] Opening balance 4,700,749 4,426,656 4,703,623 4,435,168
+[406] Charge/(Write back) to Income Statement (676,510) 274,093 (676,796) 268,455
+[407] Closing balance at 4,024,239 4,700,749 4,026,827 4,703,623
+[408] Under Stage 2
+[409] Opening balance 2,129,055 3,501,809 2,133,932 3,525,267
+[410] Charge/(Write back) to Income Statement (502,682) (1,372,754) (505,566) (1,391,335)
+[411] Closing balance at 1,626,373 2,129,055 1,628,366 2,133,932
+[412] Under Stage 3
+[413] Opening balance 22,104,882 14,448,907 23,485,206 15,826,569
+[414] Charge/(Write back) to Income Statement (2,124,686) 7,698,282 (2,142,317) 7,710,325
+[415] Write-off during the period (37,427) (42,307) (73,559) (42,307)
+[416] Other movements - - (7,752) (9,381)
+[417] Closing balance at 19,942,769 22,104,882 21,261,578 23,485,206
+[418] Total Impairment 25,593,381 28,934,686 26,916,771 30,322,761
+[419] ANALYSIS OF DEPOSITS
+[420] Bank Group
+[421] In Rupees Thousand As at As at As at As at
+[422] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[423] (Audited) (Audited)
+[424] By product - Domestic currency
+[425] Demand deposits (current accounts) - - - -
+[426] Savings deposits 323,188,505 296,756,417 323,273,845 296,848,996
+[427] Fixed deposits 1,239,729,253 1,233,892,594 1,240,045,153 1,234,211,070
+[428] Sub total 1,562,917,758 1,530,649,011 1,563,318,998 1,531,060,066
+[429] By product - Foreign currency
+[430] Demand deposits (current accounts) - - - -
+[431] Savings deposits 6,612,361 5,788,396 6,612,361 5,788,396
+[432] Fixed deposits 22,394,546 19,833,456 22,394,546 19,833,456
+[433] Sub total 29,006,907 25,621,852 29,006,907 25,621,852
+[434] Total 1,591,924,665 1,556,270,863 1,592,325,905 1,556,681,918
+[435] ANALYSIS OF CONTINGENT LIABILITIES AND COMMITMENTS
+[436] Bank Group
+[437] In Rupees Thousand As at As at As at As at
+[438] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[439] (Audited) (Audited)
+[440] By product – Domestic currency
+[441] Undrawn credit facilities 2,565,404 3,459,333 2,565,404 3,459,333
+[442] Documentary credit 127,799 - 127,799 -
+[443] Bank guarantees 1,444,610 990,116 1,444,610 990,116
+[444] Forward exchange contracts 6,858,675 8,331,516 6,858,675 8,331,516
+[445] Other Commitments 159,696 25,519 168,004 33,827
+[446] Sub total 11,156,184 12,806,484 11,164,492 12,814,792
+[447] By product – Foreign currency
+[448] Undrawn credit facilities - - - -
+[449] Documentary credit - - - -
+[450] Bank guarantees 314,922 305,652 314,922 305,652
+[451] Forward exchange contracts 453,808 292,875 453,808 292,875
+[452] Other Commitments 1,133,653 1,637,436 1,133,653 1,637,436
+[453] Sub total 1,902,383 2,235,963 1,902,383 2,235,963
+[454] Grand Total 13,058,567 15,042,447 13,066,875 15,050,755
+[455] 9
+[456] ANALYSIS OF FINANCIAL INSTRUMENTS ON MEASUREMENT BASIS
+[457] a. Bank - as at 30.09.2025
+[458] In Rupees Thousand AC FVPL FVOCI Total
+[459] ASSETS
+[460] Cash and cash equivalents 9,309,830 - - 9,309,830
+[461] Balances with central banks 157,711 - - 157,711
+[462] Placements with banks 20,258,883 - - 20,258,883
+[463] Derivative financial instruments - 8,136 - 8,136
+[464] Loans and advances 518,428,099 - - 518,428,099
+[465] Debt instruments 1,137,279,853 11,031,368 40,814,300 1,189,125,521
+[466] Equity instruments - 1,353,056 7,084,235 8,437,291
+[467] Total financial assets 1,685,434,376 12,392,560 47,898,535 1,745,725,471
+[468] In Rupees Thousand AC FVPL Total
+[469] LIABILITIES
+[470] Due to banks 152,874 - 152,874
+[471] Derivative financial instruments - 712 712
+[472] Financial liabilities
+[473] - due to depositors 1,591,924,665 - 1,591,924,665
+[474] - due to debt securities holders - - -
+[475] - due to other borrowers 54,980,412 - 54,980,412
+[476] Debt securities issued 16,762,343 - 16,762,343
+[477] Total financial liabilities 1,663,820,294 712 1,663,821,006
+[478] b. Bank - as at 31.12.2024 - (Audited)
+[479] In Rupees Thousand AC FVPL FVOCI
+[480] Total
+[481] ASSETS
+[482] Cash and cash equivalents 8,358,742 - - 8,358,742
+[483] Balances with central banks 357,054 - - 357,054
+[484] Placements with banks 14,794,637 - - 14,794,637
+[485] Derivative financial instruments - 9,131 - 9,131
+[486] Loans and advances 532,379,013 - - 532,379,013
+[487] Debt instruments 1,039,034,572 20,874,049 47,900,345 1,107,808,966
+[488] Equity instruments - 212,732 5,568,833 5,781,565
+[489] Total financial assets 1,594,924,018 21,095,912 53,469,178 1,669,489,108
+[490] AC FVPL
+[491] In Rupees Thousand Total
+[492] LIABILITIES
+[493] Due to banks 487,521 - 487,521
+[494] Derivative financial instruments - 258,409 258,409
+[495] Financial liabilities -
+[496] - due to depositors 1,556,270,863 - 1,556,270,863
+[497] - due to debt securities holders - - -
+[498] - due to other borrowers 48,190,057 - 48,190,057
+[499] Debt securities issued 16,966,482 - 16,966,482
+[500] Total financial liabilities 1,621,914,923 258,409 1,622,173,332
+[501] AC - Financial assets / liabilities measured at amortised cost
+[502] FVPL - Financial assets / liabilities measured at fair value through profit or loss
+[503] FVOCI - Financial assets measured at fair value through other comprehensive income
+[504] 10
+[505] ANALYSIS OF FINANCIAL INSTRUMENTS ON MEASUREMENT BASIS
+[506] c. Group - as at 30.09.2025
+[507] In Rupees Thousand AC FVPL FVOCI Total
+[508] ASSETS
+[509] Cash and cash equivalents 9,362,311 - - 9,362,311
+[510] Balances with central banks 157,761 - - 157,761
+[511] Placements with banks 20,258,883 - - 20,258,883
+[512] Derivative financial instruments - 8,136 - 8,136
+[513] Loans and advances 519,048,470 - - 519,048,470
+[514] Debt instruments 1,140,559,528 55,826,035 45,716,060 1,242,101,623
+[515] Equity instruments - 1,353,056 7,095,192 8,448,248
+[516] Total financial assets 1,689,386,953 57,187,227 52,811,252 1,799,385,432
+[517] In Rupees Thousand AC FVPL Total
+[518] LIABILITIES
+[519] Due to banks 10,371,257 - 10,371,257
+[520] Derivative financial instruments - 712 712
+[521] Financial liabilities
+[522] - due to depositors 1,592,325,905 - 1,592,325,905
+[523] - due to debt securities holders - - -
+[524] - due to other borrowers 90,059,934 - 90,059,934
+[525] Debt securities issued 16,835,101 - 16,835,101
+[526] Total financial liabilities 1,709,592,197 712 1,709,592,909
+[527] d. Group - as at 31.12.2024 - (Audited)
+[528] In Rupees Thousand AC FVPL FVOCI Total
+[529] ASSETS
+[530] Cash and cash equivalents 8,544,416 - - 8,544,416
+[531] Balances with central banks 357,117 - - 357,117
+[532] Placements with banks 14,794,637 - - 14,794,637
+[533] Derivative financial instruments - 54,892 - 54,892
+[534] Loans and advances 527,715,322 - - 527,715,322
+[535] Debt instruments 1,048,965,769 46,536,796 49,366,765 1,144,869,330
+[536] Equity instruments - 212,732 5,939,747 6,152,479
+[537] Total financial assets 1,600,377,261 46,804,420 55,306,512 1,702,488,193
+[538] In Rupees Thousand AC FVPL Total
+[539] LIABILITIES
+[540] Due to banks 487,521 - 487,521
+[541] Derivative financial instruments - 258,409 258,409
+[542] Financial liabilities -
+[543] - due to depositors 1,556,681,918 1,556,681,918
+[544] - due to debt securities holders - - -
+[545] - due to other borrowers 66,049,093 - 66,049,093
+[546] Debt securities issued 17,039,651 - 17,039,651
+[547] Total financial liabilities 1,640,258,183 258,409 1,640,516,592
+[548] AC - Financial assets / liabilities measured at amortised cost
+[549] FVPL - Financial assets / liabilities measured at fair value through profit or loss
+[550] FVOCI - Financial assets measured at fair value through other comprehensive income
+[551] 11
+[552] SELECTED PERFORMANCE INDICATORS / KEY FINANCIAL DATA (BASED ON REGULATORY REPORTING)
+[553] Bank Group
+[554] As at As at As at As at
+[555] Item 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[556] Regulatory Capital Adequacy (LKR in Millions)
+[557] Common Equity Tier 1 54,560 63,454 66,874 75,395
+[558] Tier 1 Capital 59,560 68,454 71,874 80,395
+[559] Total Regulatory Capital 66,108 75,660 78,343 87,519
+[560] Regulatory Capital Ratios (%)
+[561] Common Equity Tier 1 Capital (%)(Minimum Requirement - 7%) 17.513 21.707 20.395 25.032
+[562] Tier 1 Capital Ratio (%) (Minimum Requirement - 8.5%) 19.118 23.418 21.920 26.692
+[563] Total Capital Ratio (%) (Minimum Requirement - 12.5%) 21.220 25.883 23.892 29.058
+[564] 6.53
+[565] Basel III Leverage Ratio (Minimum Requirement - 3.00%) 8.00 7.07 8.85
+[566] Regulatory Liquidity Requirement
+[567] Liquidity Coverage Ratio (%) - (Minimum Requirement - 100%)
+[568] Rupee (%) 356.36 351.33 NR NR
+[569] All Currency (%)
+[570] 349.52 344.55 NR NR
+[571] Net Stable Funding Ratio (%) - (Minimum Requirement - 100%) 195.09 193.53 NR NR
+[572] Assets Quality
+[573] Impaired Loans (Stage 3) to Total Loans, Ratio (%)* 2.63 5.18 NR NR
+[574] Impairment (Stage 3) to Stage 3 Loans, Ratio (%)*
+[575] 59.36 44.50 NR NR
+[576] Income and Profitability
+[577] Net Interest Margin (%) 4.72 4.23 4.71 4.31
+[578] Return on Assets (before tax) (%) 2.49 1.54 2.54 1.63
+[579] Return on Equity (%) 25.24 18.07 24.67 18.15
+[580] Cost to Income Ratio (%) 39.03 38.72 38.28 38.04
+[581] Memorandum Information
+[582] Credit Rating (LRA) AAA AAA NR NR
+[583] Number of Employees 4,219 4,212 4,240 4,331
+[584] Number of Branches 262 262 265 265
+[585] * Including undrawn portion of credit
+[586] Note : NR - Not Relevant
+[587] CERTIFICATION :
+[588] I certify that the above Financial Statements give a true and fair view of the State of Affairs of the Bank and its subsidiaries as at 30th
+[589] September 2025 and the profits for the period then ended.
+[590] sgd . Ajith Akmeemana
+[591] Deputy General Manager (Finance, Planning & MIS) / CFO
+[592] We, the undersigned, being the Chairman and the General Manager / Chief Executive Officer of National Savings Bank jointly certify that:-
+[593] (a) The above statements have been prepared in compliance with the format and definitions prescribed by the Central Bank of Sri Lanka;
+[594] (b) The information contained in these statements has been extracted from the unaudited Financial Statements of the Bank and its
+[595] subsidiary companies, unless indicated as audited.
+[596] sgd. Dr. Harsha Cabral, PC sgd. Shashi Kandambi
+[597] Chairman General Manager/CEO
+[598] Colombo, Sri Lanka
+[599] 20 November 2025
+[600] 12

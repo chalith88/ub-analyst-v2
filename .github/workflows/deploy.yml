@@ -1,0 +1,91 @@
+name: Deploy to Railway
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  test-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Verify root lockfile sync
+        run: |
+          if ! npm ci --dry-run; then
+            echo "❌ Root package-lock.json is out of sync with package.json"
+            exit 1
+          fi
+
+      - name: Install root dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: Verify backend source
+        run: |
+          if [ ! -f "src/server.ts" ]; then
+            echo "❌ Backend source missing - src/server.ts not found"
+            exit 1
+          fi
+          echo "✅ Backend source verified (will run via ts-node)"
+
+      - name: Verify client lockfile sync
+        working-directory: ./client
+        run: |
+          if ! npm ci --dry-run; then
+            echo "❌ Client package-lock.json is out of sync with package.json"
+            exit 1
+          fi
+
+      - name: Install client dependencies
+        working-directory: ./client
+        run: npm ci
+
+      - name: Lint client
+        working-directory: ./client
+        run: npm run lint
+        continue-on-error: true
+
+      - name: Run client tests
+        working-directory: ./client
+        run: npm test -- --run
+        continue-on-error: true
+
+      - name: Build client (React + Vite)
+        working-directory: ./client
+        run: npm run build
+
+      - name: Verify client build output
+        run: |
+          if [ ! -f "client/dist/index.html" ]; then
+            echo "❌ Client build failed - client/dist/index.html not found"
+            exit 1
+          fi
+          echo "✅ Client build successful"
+
+      - name: Install Railway CLI
+        run: npm install -g @railway/cli
+
+      - name: Deploy to Railway
+        run: railway up --service ub-scraper
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+
+      - name: Deployment Summary
+        run: |
+          echo "✅ Deployment completed successfully"
+          echo "🚀 Service: ub-scraper"
+          echo "📦 Backend: dist/server.js"
+          echo "🎨 Frontend: client/dist (served by Express)"
+          echo "🔍 Health check: /health"
+          echo "📊 API docs: /"

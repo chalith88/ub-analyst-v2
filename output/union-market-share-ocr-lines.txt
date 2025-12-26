@@ -1,0 +1,1019 @@
+[0] INTERIM FINANCIAL STATEMENTS
+[1] For the period ended 30 September 2025
+[2] Classification: Public
+[3] Union Bank Delivers LKR 1.2 Bn PBT for 9M 2025
+[4] 2 9 October 2025 , Colombo, Sri Lanka
+[5] Union Bank reported an impressive financial performance for the nine months ended 30
+[6] September 2025, reaffirming its position as one of Sri Lanka ’ s fastest - growing private commercial
+[7] banks. The Bank posted a Profit Before All Taxes (PBT) of LKR 1,178 million, an impressive 52%
+[8] increase compared to the corresponding period of 2024. Profit After Tax (PAT) rose by an
+[9] exceptional 194% to LKR 343 million , underscoring the Bank ’ s successful strategic execution and
+[10] prudent financial management.
+[11] The Bank ’ s Gross Income rose by 7% to LKR 13,199 million, reflecting continued business
+[12] expansion and improved earnings from both core and non - core activities. Net Interest Income (NII)
+[13] increased by a healthy 11% to LKR 3,981 million, supported by strong loan growt h and effective
+[14] margin management. Complementing this performance, Net Fee and Commission Income
+[15] recorded an outstanding 39% growth to LKR 1,133 million, driven by higher transactional volumes,
+[16] digital channel utilization, and trade - related services. As a result, Net Operating Income increased
+[17] by 19% to LKR 5,705 million.
+[18] Union Bank ’ s Results from Operating Activities improved significantly by 41% to LKR 1,106 million,
+[19] despite a 14% rise in operating expenses, reflecting continued investments in digital infrastructure
+[20] and capacity building. This demonstrates enhanced operational effic iency and earnings quality.
+[21] Meanwhile, the Non - Performing Loan (NPL) ratio was maintained at a stable level, reflecting the
+[22] Bank ’ s robust credit risk management framework and proactive portfolio oversight, which have
+[23] ensured high asset quality amidst a challenging operating environment. The Bank ’ s Capital
+[24] Adequacy Ratios remain within regulatory thresholds, reinforcing its prudent risk and capital
+[25] management practices. The Bank has also announced its intention to raise up to LKR 3 billion
+[26] through Tier II Basel III compliant debentures to reinforce its capital base and support future
+[27] business growth.
+[28] The Bank ’ s Total Assets grew by a robust 17% to LKR 171,864 million as of 30 September 2025,
+[29] reflecting solid balance sheet expansion. Loans and Advances increased by a remarkable 32% to
+[30] LKR 107,592 million, affirming Union Bank ’ s strengthened lending portfolio and continued support
+[31] for businesses and individuals. Meanwhile, Customer Deposits grew by 8% to LKR 111,895 million,
+[32] underscoring growing customer confidence and deepening relationships across market segments.
+[33] Total assets of the Group grew by 18% to LKR 182,946 million.
+[34] Key operational highlights included the expansion of the Bank ’ s product range with Junior Elite for
+[35] children, Power HER for women entrepreneurs, and the introduction of Gold Loans alongside
+[36] pawning. The Bank also leveraged its BizDirect cash management solution to grow SME business,
+[37] while Corporate Banking focused on enhancing customer profitability. Advancing its digital
+[38] agenda, the Bank upgraded its core banking infrastructure and mobile app, reaffirmed its PCI - DSS
+[39] certification, and partnered with Mastercard to enhance digital payment solutions.
+[40] Commenting on the results, Dilshan Rodrigo, Director/CEO, said:
+[41] “ Union Bank ’ s exceptional performance in the first nine months of 2025 is a testament to our
+[42] unwavering commitment to growth and customer centricity. We remain focused on leveraging
+[43] technology, innovation, and strong governance to deliver sustainable value. The significant
+[44] improvement in profitability and balance sheet strength reflects our disciplined strategy, the
+[45] agility of our teams, and the trust placed in us by our valued customers and stakeholders. ”
+[46] Chairman Dinesh Weerakkody added:
+[47] “ These results reflect the continued progress of Union Bank ’ s transformation journey and the
+[48] disciplined execution of its strategic priorities. Our focus remains on building a more
+[49] productive, technology - driven, and customer - centric institution that consistently delivers value
+[50] to shareholders, customers, and the broader economy. We will continue to pursue sustainable
+[51] growth and strategic partnerships that further strengthen Union Bank ’ s position in Sri Lanka ’ s
+[52] financial sector.”
+[53] Classification: Public
+[54] 1
+[55] INTERIM FINANCIAL STATEMENTS
+[56] STATEMENT OF PROFIT OR LOSS
+[57] Period ended 30 September 2025
+[58] BANK GROUP
+[59] For the quarter ended For the Nine months ended For the Nine months ended For the quarter ended
+[60] 30.09.2025 30.09.2024 Change 30.09.2025 30.09.2024 Change 30.09.2025 30.09.2024 Change 30.09.2025 30.09.2024 Change
+[61] LKR '000 LKR '000 % LKR '000 LKR '000 % LKR '000 LKR '000 % LKR '000 LKR '000 %
+[62] Gross Income 13,199,632 12,323,875 7 4,704,114 3,865,798 22 15,183,134 13,984,277 9 5,396,622 4,407,614 22
+[63] Interest income 10,938,999 10,572,411 3 3,835,571 3,255,571 18 12,682,071 12,043,919 5 4,447,231 3,733,809 19
+[64] Less: Interest expenses 6,957,524 6,999,495 (1) 2,433,972 2,226,274 9 7,798,627 7,924,238 (2) 2,718,097 2,495,336 9
+[65] Net interest income 3,981,475 3,572,916 11 1,401,599 1,029,297 36 4,883,444 4,119,681 19 1,729,134 1,238,473 40
+[66] Fee and commission income 1,471,991 1,101,991 34 611,978 392,266 56 1,613,811 1,205,486 34 662,691 431,223 54
+[67] Less: Fee and commission expenses 338,082 288,979 17 127,865 99,288 29 372,836 308,757 21 139,642 105,933 32
+[68] Net fee and commission income 1,133,909 813,012 39 484,113 292,978 65 1,240,975 896,729 38 523,049 325,290 61
+[69] Net fair value gains / (losses) on:
+[70] - financial assets at fair value through profit or loss 26,532 46,583 (43) (27,931) 8,996 (411) 34,351 56,858 (40) (25,533) 11,513 (322)
+[71] Net gains / (losses) on derecognition of financial assets:
+[72] - at fair value through profit or loss 187,561 398,248 (53) 94,265 132,573 (29) 187,561 398,333 (53) 94,265 132,742 (29)
+[73] - at fair value through other comprehensive income 374,512 219,884 70 107,188 62,420 72 374,512 219,884 70 107,189 62,250 72
+[74] Net other operating income 200,037 (15,241) 1412 83,043 13,973 494 290,828 59,798 386 110,779 36,077 207
+[75] Total operating income 5,904,026 5,035,401 17 2,142,277 1,540,236 39 7,011,671 5,751,282 22 2,538,883 1,806,345 41
+[76] Less: Impairment for loans and other losses 198,070 220,443 (10) 221,595 (142,049) 256 295,431 234,283 26 240,023 (122,992) 295
+[77] Net operating income 5,705,956 4,814,958 19 1,920,682 1,682,285 14 6,716,240 5,516,999 22 2,298,860 1,929,337 19
+[78] Less: Personnel expenses 2,002,730 1,791,267 12 665,919 629,115 6 2,370,864 2,064,343 15 798,114 728,849 10
+[79] Depreciation and amortisation 774,612 594,544 30 260,240 207,594 25 844,380 654,332 29 284,488 227,996 25
+[80] Other expenses 1,822,141 1,646,123 11 678,687 610,957 11 2,139,810 1,915,808 12 785,395 688,581 14
+[81] Total operating expenses 4,599,483 4,031,934 14 1,604,846 1,447,666 11 5,355,054 4,634,483 16 1,867,997 1,645,426 14
+[82] Results from operating activities 1,106,473 783,024 41 315,836 234,619 35 1,361,186 882,516 54 430,863 283,911 52
+[83] Share of profit of equity accounted investees, net of tax 71,681 (9,988) 818 28,158 11,426 146 - - - -
+[84] Profit before value added tax (VAT) & social security
+[85] contribution Levy (SSCL) on financial services 1,178,154 773,036 52 343,994 246,045 40 1,361,186 882,516 54 430,863 283,911 52
+[86] VAT on financial services 456,574 364,419 25 144,022 113,755 27 553,709 417,511 33 180,521 136,443 32
+[87] SSCL on financial services 63,413 50,614 25 20,003 15,914 26 75,922 57,988 31 25,072 19,065 32
+[88] Profit before tax 658,167 358,004 84 179,969 116,376 55 731,555 407,017 80 225,270 128,402 75
+[89] Less: Tax expenses 315,220 241,318 31 88,127 72,052 22 384,259 295,964 30 128,959 82,174 57
+[90] Profit after tax 342,947 116,686 194 91,842 44,324 107 347,296 111,053 213 96,311 46,228 108
+[91] Profit Attributable to:
+[92] Equity holders of the parent 342,947 116,686 194 91,842 44,324 107 337,132 110,549 205 91,846 44,344 107
+[93] Non-controlling interest - - - - - - 10,164 504 1915 4,465 1,884 137
+[94] Profit after tax 342,947 116,686 194 91,842 44,324 107 347,296 111,053 213 96,311 46,228 108
+[95] Earnings per share
+[96] Earnings per share - Basic 0.32 0.11 194 0.08 0.04 107 0.31 0.10 205 0.08 0.04 107
+[97] Earnings per share - Diluted 0.32 0.11 194 0.08 0.04 107 0.31 0.10 205 0.08 0.04 107
+[98] * NM- "Not meaningfull"
+[99] Classification: Public
+[100] 2
+[101] INTERIM FINANCIAL STATEMENTS INTERIM FINANCIAL STATEMENTS
+[102] STATEMENT OF COMPREHENSIVE INCOME
+[103] Period ended 30 September 2025
+[104] BANK GROUP
+[105] For the Nine months ended For the quarter ended For the quarter ended For the Nine months ended
+[106] 30.09.2025 30.09.2024 Change 30.09.2025 30.09.2024 Change 30.09.2025 30.09.2024 Change 30.09.2025 30.09.2024 Change
+[107] LKR '000 LKR '000 % LKR '000 LKR '000 % LKR '000 LKR '000 % LKR '000 LKR '000 %
+[108] Profit for the period 342,947 116,686 194 91,842 44,324 107 347,296 111,053 213 96,311 46,228 108
+[109] Other comprehensive income to be reclassified to profit or loss in subsequent
+[110] periods:
+[111] Net change in fair value during the period
+[112] 57,328 6,853 737 (85,393) (90,672) 6 57,328 6,853 737 (85,393) (90,672) 6
+[113] Reclassification to the income statement (242,912) (90,664) (168) (80,590) (33,819) (138) (242,912) (90,664) (168) (80,590) (33,819) (138)
+[114] Less: Tax effect on above
+[115] 55,675 25,143 121 49,795 37,347 33 55,675 25,143 121 49,795 37,347 33
+[116] Total items that will be reclassified to the statement of profit or loss (129,909) (58,668) (121) (116,188) (87,144) (33) (129,909) (58,668) (121) (116,188) (87,144) (33)
+[117] Other comprehensive income that will not be reclassified to profit or loss in
+[118] subsequent periods:
+[119] Actuarial gains and losses on defined benefit plans - - - - - - - 96 (100) - - -
+[120] Change in revaluation surplus 257,550 - NM - - - 257,550 - NM - - -
+[121] Revaluation gains/ (losses) on equity instruments at fair value through other
+[122] comprehensive income - - - - - 4,643 9,654 (52) - - -
+[123] Less: Tax effect on above (77,265) - NM - - - (77,265) (2,896) (2,568) - - -
+[124] Share of other comprehensive income of equity accounted investees, net of tax 4,176 6,164 (32) - - - - - - - - -
+[125] Total items that will not be reclassified to the statement of profit or loss 184,461 6,164 2,892 - - - 184,928 6,854 2,598 - - -
+[126] Other comprehensive income for the period, net of tax
+[127] 54,552 (52,504) 204 (116,188) (87,144) (33) 55,019 (51,814) 206 (116,188) (87,144) (33)
+[128] Total comprehensive income for the period, net of tax
+[129] 397,499 64,182 519 (24,346) (42,820) 43 402,315 59,239 579 (19,877) (40,916) 51
+[130] Attributable to:
+[131] Equity holders of the parent 397,499 64,182 519 (24,346) (42,820) 43 391,684 58,043 575 (24,342) (42,801) 43
+[132] Non-controlling interest - - - - - - 10,631 1,196 789 4,465 1,885 137
+[133] Total comprehensive income for the period, net of taxes 397,499 64,182 519 (24,346) (42,820) 43 402,315 59,239 579 (19,877) (40,916) 51
+[134] Classification: Public
+[135] 3
+[136] INTERIM FINANCIAL STATEMENTS
+[137] STATEMENT OF FINANCIAL POSITION
+[138] As at 30 September 2025
+[139] BANK GROUP
+[140] 30.09.2025 31.12.2024 Change 30.09.2025 31.12.2024 Change
+[141] LKR '000 LKR '000 % LKR '000 LKR '000 %
+[142] Audited Audited
+[143] Assets
+[144] Cash and cash equivalents 3,236,631 3,736,158 (13) 3,569,490 4,333,380 (18)
+[145] Balances with Central Bank of Sri Lanka 1,020,220 375,596 172 1,020,220 375,596 172
+[146] Placements with banks 954,662 1,135,072 (16) 954,579 1,135,072 (16)
+[147] Reverse repurchased agreements 1,564,617 562,470 178 1,564,617 562,470 178
+[148] Derivative financial instruments
+[149] 8,619 44,429 (81) 8,619 44,429 (81)
+[150] Financial assets recognised through profit or
+[151] loss - measured at fair value
+[152] 7,035,925 4,884,509 44 7,350,913 4,994,837 47
+[153] Financial assets at amortised cost - loans and
+[154] advances
+[155] 107,592,099 81,202,856 32 119,050,754 89,885,133 32
+[156] Financial assets at amortised cost - debt and
+[157] other instruments
+[158] 19,429,270 22,863,756 (15) 20,327,435 23,874,378 (15)
+[159] Financial assets measured at fair value through
+[160] other comprehensive income
+[161] 21,638,474 23,322,397 (7) 21,674,774 23,353,910 (7)
+[162] Investments in real estate - - - 30,093 46,225 (35)
+[163] Investments in subsidiaries
+[164] 3,116,848 3,043,405 2 - - -
+[165] Goodwill and intangible assets 1,317,606 1,615,188 (18) 1,650,550 1,941,454 (15)
+[166] Property, plant and equipment and right of use
+[167] assets 2,138,909 2,109,613 1 2,611,140 2,530,960 3
+[168] Deferred tax assets
+[169] 622,142 582,376 7 666,973 654,579 2
+[170] Other assets 2,188,217 1,713,847 28 2,466,540 1,861,798 32
+[171] Total assets
+[172] 171,864,239 147,191,673 17 182,946,697 155,594,221 18
+[173] Liabilities
+[174] Due to banks 15,386,919 7,996,693 92 16,309,383 8,215,859 99
+[175] Derivative financial instruments 21,282 22,162 (4) 21,282 22,162 (4)
+[176] Repurchased agreements 20,750,758 13,197,001 57 20,750,758 13,197,001 57
+[177] Financial liabilities at amortised cost - Due to
+[178] customers
+[179] 111,895,878 103,740,584 8 118,673,473 110,629,257 7
+[180] Financial liabilities at amortised cost - Other
+[181] borrowed funds
+[182] - - - 2,315,103 407,128 469
+[183] Current tax liabilities 349,890 34,978 900 385,459 36,285 962
+[184] Other liabilities
+[185] 3,221,311 2,359,897 37 3,879,752 2,877,701 35
+[186] Total liabilities
+[187] 151,626,038 127,351,315 19 162,335,210 135,385,393 20
+[188] Classification: Public
+[189] 4
+[190] INTERIM FINANCIAL STATEMENTS
+[191] STATEMENT OF FINANCIAL POSITION
+[192] As at 30 September 2025
+[193] 1,000
+[194] BANK GROUP
+[195] 30.09.2025 31.12.2024 Change 30.09.2025 31.12.2024 Change
+[196] LKR '000 LKR '000 % LKR '000 LKR '000 %
+[197] Audited Audited
+[198] Equity
+[199] Stated capital 16,334,782 16,334,782 - 16,334,782 16,334,782 -
+[200] Share warrants 65,484 65,484 - 65,484 65,484 -
+[201] Statutory reserve fund 309,299 292,152 6 338,905 319,758 6
+[202] FVOCI reserve 203,966 333,875 (39) 216,202 346,111 (38)
+[203] Retained earnings 3,144,385 2,771,202 13 3,054,079 2,537,465 20
+[204] Revaluation Reserve 180,285 - NM 180,285 - NM
+[205] ESOP reserve - 42,863 (100) - 42,863 (100)
+[206] Regulatory Loss Allowance Reserve - - - 50,442 201,688 (75)
+[207] Total equity attributable to equity holders of the
+[208] 20,238,201 19,840,358 2 20,240,179 19,848,151 2
+[209] bank
+[210] Non-controlling interests - - 371,308 360,677 3
+[211] Total equity 20,238,201 19,840,358 2 20,611,487 20,208,828 2
+[212] 17 18
+[213] Total equity and liabilities 171,864,239 147,191,673 182,946,697 155,594,221
+[214] 47,167,562 37,395,156 26 47,167,562 37,270,156 27
+[215] Contingent liabilities and commitments
+[216] Net asset value per share ( LKR ) 18.68 18.31 18.68 18.32
+[217] Memorandum information
+[218] Number of Employees 1,192 1,189
+[219] Number of Branches 61 61
+[220] CERTIFICATION:
+[221] We, the undersigned, being the Chairman, Director/ Chief Executive Officer and Chief Financial Officer of Union Bank of Colombo PLC certify
+[222] jointly that:
+[223] (a) the above statements have been prepared in compliance with the format and definitions prescribed by the Central Bank of Sri Lanka;
+[224] (b) the information contained in these statements have been extracted from the unaudited financial statements of the Bank and the Group unless
+[225] indicated as audited.
+[226] (c) the above statements have been prepared in compliance with the requirements of the Companies Act No. 7 of 2007.
+[227] Sgd.
+[228] ……………………………………..
+[229] Shanka Abeywardene
+[230] Chief Financial Officer
+[231] Sgd.
+[232] Sgd.
+[233] …………………………………….. ……………………………………..
+[234] Dilshan Rodrigo Dinesh Weerakkody
+[235] Director / Chief Executive Officer Chairman
+[236] Date: 29 October 2025
+[237] Classification: Public
+[238] 5
+[239] INTERIM FINANCIAL STATEMENTS
+[240] STATEMENT OF CHANGES IN EQUITY
+[241] As at 30 September 2025
+[242] Statutory Reserve Revaluation Total
+[243] FVOCI ESOP
+[244] Stated Capital Share Warrants
+[245] Fund Retained Earnings Reserve Equity
+[246] BANK Reserve Reserve
+[247] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[248] Balance as at 1 January 2024 16,334,782 65,484 277,142 83,899 2,461,628 - 41,091 19,264,026
+[249] Total comprehensive income for the period
+[250] Net profit for the period - - - - 116,686 - - 116,686
+[251] Other comprehensive Income - - - (58,668) 6,164 - - (52,504)
+[252] Total comprehensive Income - - - (58,668) 122,850 - - 64,182
+[253] Transactions with equity holders, recognised directly in equity
+[254] Share based payment expense - - - - - - 1,329 1,329
+[255] Transfers during the period - - 5,834 - (5,834) - - -
+[256] Balance as at 30 September 2024 16,334,782 65,484 282,976 25,231 2,578,644 - 42,420 19,329,537
+[257] Balance as at 1 January 2025 16,334,782 65,484 292,152 333,875 2,771,202 - 42,863 19,840,358
+[258] Total comprehensive income for the period
+[259] Net profit for the period - - - - 342,947 - - 342,947
+[260] Other comprehensive Income - - - (129,909) 4,176 180,285 - 54,552
+[261] Total comprehensive Income - - - (129,909) 347,123 180,285 - 397,499
+[262] Transactions with equity holders, recognised directly in equity
+[263] Share based payment expense - - - - - - 344 344
+[264] Transfers during the period - - 17,147 - 26,060 - (43,207) -
+[265] Balance as at 30 September 2025 16,334,782 65,484 309,299 203,966 3,144,385 180,285 - 20,238,201
+[266] Statutory Reserve FVOCI Revaluation ESOP Regulatory Loss Non-controlling Total
+[267] Stated Capital Fund Reserve Retained Earnings Reserve Reserve Allowance Reserve Interest Equity
+[268] GROUP Share Warrants Total
+[269] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[270] Balance as at 1 January 2024 16,334,782 65,484 304,748 96,135 2,203,461 - 41,091 228,647 19,274,348 332,095 19,606,443
+[271] Total comprehensive income for the period
+[272] Net profit for the period - - - - 110,549 - - - 110,549 504 111,053
+[273] Other comprehensive Income - - - (58,668) 6,164 - - - (52,504) 690 (51,814)
+[274] Total comprehensive Income - - - (58,668) 116,713 - - - 58,045 1,194 59,239
+[275] Transactions with equity holders, recognised directly in equity
+[276] Share based payment expense - - - - - - 1,329 - 1,329 - 1,329
+[277] New share rights issued - - - - - - - - 25,576 25,576
+[278] Transfers during the period - - 5,834 - (5,834) - - - - - -
+[279] Transfer to Regulatory Loss Allowance Reserve - - - - (43,525) - - 43,525 - - -
+[280] Balance as at 30 September 2024 16,334,782 65,484 310,582 37,467 2,270,815 - 42,420 272,172 19,333,722 358,865 19,692,587
+[281] Balance as at 1 January 2025 16,334,782 65,484 319,758 346,111 2,537,465 - 42,863 201,688 19,848,151 360,677 20,208,828
+[282] Total comprehensive income for the period
+[283] Net profit for the period - - - - 337,132 - - - 337,132 10,164 347,296
+[284] Other comprehensive Income - - - (129,909) 4,176 180,285 - - 54,552 467 55,019
+[285] Total comprehensive Income - - - (129,909) 341,308 180,285 - - 391,684 10,631 402,315
+[286] Transactions with equity holders, recognised directly in equity
+[287] Share based payment expense - - - - - - 344 - 344 - 344
+[288] Transfers during the period - - 19,147 - 24,060 - (43,207) - - - -
+[289] Transfer to Regulatory Loss Allowance Reserve - - - - 151,246 - - (151,246) - - -
+[290] Balance as at 30 September 2025 16,334,782 65,484 338,905 216,202 3,054,079 180,285 - 50,442 20,240,179 371,308 20,611,487
+[291] Classification: Public
+[292] 6
+[293] INTERIM FINANCIAL STATEMENTS
+[294] STATEMENT OF CASH FLOWS
+[295] Period ended 30 September 2025
+[296] BANK GROUP
+[297] 30.09.2025 30.09.2024 30.09.2025 30.09.2024
+[298] LKR '000 LKR '000 LKR '000 LKR '000
+[299] Cash flow from operating activities
+[300] Interest received 10,804,417 9,990,121 12,574,859 11,521,934
+[301] Fees and commission receipts 1,133,908 813,012 1,240,975 896,729
+[302] Interest paid (6,593,875) (8,407,874) (7,409,021) (10,164,769)
+[303] Receipts from Other operating activities 774,774 765,153 873,387 850,553
+[304] Payments on Other operating activities (4,474,639) (3,952,463) (5,251,012) (4,397,022)
+[305] Operating cash flow before changes in operating assets & liabilities
+[306] 1,644,585 (792,051) 2,029,188 (1,292,575)
+[307] (Increase)/decrease in operating assets:
+[308] Balance with Central Bank of Sri Lanka (644,624) (755,519) (644,624) (755,519)
+[309] Funds advanced to customers (26,174,817) (13,238,314) (29,117,828) (14,249,257)
+[310] Others (474,372) 230,988 (604,740) 199,283
+[311] (27,293,813) (13,762,845) (30,367,192) (14,805,493)
+[312] Increase /(decrease) in operating liabilities:
+[313] Due to other customers 9,223,637 12,224,729 9,357,329 12,441,361
+[314] Repurchased agreements 7,468,718 (10,015,933) 7,468,718 (10,015,933)
+[315] Other liabilities 912,430 1,045,994 1,036,119 1,076,738
+[316] 17,604,785 3,254,790 17,862,166 3,502,166
+[317] Net cash from/(used in) operating activities before income tax (8,044,443) (11,300,106) (10,475,837) (12,595,902)
+[318] Retirement benefit obligation paid (65,040) (62,793) (70,993) (62,793)
+[319] Income tax paid (131,416) (394,775) (132,149) (394,774)
+[320] Net cash from/ (used in) operating activities (8,240,899) (11,757,674) (10,678,980) (13,053,470)
+[321] Cash flow from/(used in) investing activities
+[322] Net financial investment at fair value through profit or loss (2,130,564) 2,831,261 (2,302,649) 2,831,487
+[323] Net financial assets at amortised cost - Debt and other instruments 3,300,828 1,626,397 3,413,285 3,131,409
+[324] Net financial investment at fair value through other comprehensive income 1,460,832 858,979 1,456,045 849,325
+[325] Net investment in real estates - - (16,132) (12,755)
+[326] Purchase of property & equipment (160,474) (537,312) (265,173) (618,079)
+[327] Purchase of intangible assets (29,204) (108,606) (39,752) (109,281)
+[328] Net cash from/ (used in) investing activities 2,441,418 4,670,719 2,245,624 6,072,106
+[329] Cash flow from/(used in) financing activities
+[330] Increase in borrowings 6,258,181 1,117,504 7,923,374 951,095
+[331] New share rights issued - - - 25,576
+[332] Net cash from/ (used in) financing activities 6,258,181 1,117,504 7,923,374 976,671
+[333] Net increase/(decrease) in cash and cash equivalents 458,700 (5,969,451) (509,982) (6,004,693)
+[334] Cash and cash equivalents at beginning of the year 5,224,670 9,766,679 5,603,664 9,849,960
+[335] Cash and cash equivalents at end of the period 5,683,370 3,797,228 5,093,682 3,845,267
+[336] Reconciliation of cash and cash equivalents
+[337] Cash in hand and at banks 3,236,631 3,358,827 3,569,490 3,522,262
+[338] Reverse repurchased agreements 1,564,617 68,718 1,564,617 68,718
+[339] Placements with banks 953,724 413,876 953,641 413,066
+[340] Due to banks - Unfavorable balances with banks (71,602) (44,193) (994,066) (158,779)
+[341] 5,683,370 3,797,228 5,093,682 3,845,267
+[342] Classification: Public
+[343] 7
+[344] INTERIM FINANCIAL STATEMENTS
+[345] STATEMENT OF CASH FLOWS
+[346] Period ended 30 September 2025
+[347] Reconciliation of liabilities arising from financing activities
+[348] Non cash change -
+[349] Foreign exchange
+[350] Cash change
+[351] For the period ended 30 September 2025 30 Sep 2025 1 Jan 2025
+[352] movement
+[353] - Cash flow
+[354] LKR '000 LKR '000 LKR '000 LKR '000
+[355] BANK
+[356] Due to banks 10,592,203 6,215,368 - 4,376,835
+[357] Less : Unfavorable balances with banks (71,602) 136,489 - (208,091)
+[358] Less : Interest payable (107,412) (93,676) - (13,736)
+[359] 10,413,189 6,258,181 - 4,155,008
+[360] GROUP
+[361] Due to banks 11,514,668 6,918,668 - 4,596,000
+[362] Other borrowed funds 2,315,103 1,907,975 - 407,128
+[363] Less : Unfavorable balances with banks (994,066) (566,810) - (427,257)
+[364] Less : Interest payable (351,897) (336,459) - (15,438)
+[365] 12,483,806 7,923,373 - 4,560,433
+[366] Non cash change -
+[367] Cash change Foreign exchange
+[368] For the period ended 30 September 2024 30 Sep 2024
+[369] 1 Jan 2024
+[370] - Cash flow movement
+[371] LKR '000 LKR '000 LKR '000 LKR '000
+[372] BANK
+[373] Due to banks 3,018,935 1,183,089 - 1,835,847
+[374] Less : Unfavorable balances with banks (44,193) (22,174) - (22,019)
+[375] Less : Interest payable (53,775) (43,411) - (10,364)
+[376] 2,920,966 1,117,504 - 1,803,463
+[377] GROUP
+[378] Due to banks 3,033,408 1,131,266 - 1,902,143
+[379] Less : Unfavorable balances with banks (158,779) (136,760) - (22,019)
+[380] Less : Interest payable (53,777) (43,411) - (10,365)
+[381] 2,820,852 951,095 - 1,869,758
+[382] Classification: Public
+[383] 8
+[384] INTERIM FINANCIAL STATEMENTS
+[385] EXPLANATORY NOTES
+[386] As at 30 September 2025
+[387] 1 There are no changes to the accounting policies and methods of computation since the publication of the annual financial statements for the year 2024.
+[388] 2 In accordance with the Statement of Alternative Treatment (SoAT) issued by the Institute of Chartered Accountants of Sri Lanka on the reclassification of the debt portfolio, the Bank has
+[389] classified LKR 18,893 Mn of the debt portfolio from Fair Value through Other Comprehensive Income to Amortised Cost category on 30 June 2022 as holding these instruments in the
+[390] fair value through other comprehensive income category was not commercially viable in the current economic environment. The cumulative losses from these instruments previously
+[391] recognised in Other Comprehensive Income has been removed from equity and adjusted against the fair value of the financial asset at the reclassification date. Accordingly, the
+[392] reclassified assets have been measured at the reclassification date as if they had always been measured at Amortised Cost. The cumulative losses and the fair value as at 30 September
+[393] 2025 if the assets have continued to be measured at Fair Value through Other Comprehensive Income amounts to LKR 32 Mn and LKR 2,487 Mn respectively.
+[394] 3 The Bank had issued 218,281,250 warrants to be exercised within a period of 6 years at a price of LKR 16 per warrant. Given the Bank does not have an immediate need for new capital,
+[395] with the request of Culture Financial Holdings, the Board of Directors of the Bank decided to extend the exercise period of the warrants until 31 March 2025 and revise the exercise price
+[396] to a price that is equivalent to the average closing price per share for the five day period that immediately precedes the exercise of warrants. The Bank has obtained the concurrence of the
+[397] Central Bank of Sri Lanka and the Securities and Exchange Commission of Sri Lanka for the extension of the warrants’ exercise period and the revision to the exercise price, as described
+[398] above.Further extension has been given by the letter dated 13 December 2024 by the Central Bank of Sri Lanka to extend the period until 31 December 2025. By the letter dated 28
+[399] March 2025, the Securities and Exchange Commission has granted approval to extend the exercise period of warrants only up to the extent of the shortfall of LKR 500Mn to meet the
+[400] minimum capital requirment of LKR 20Bn and the rest of the warrants deemed to have been expired on 31 March 2025.
+[401] 4 There are no material changes during the period in the composition of assets, liabilities and contingent liabilities. All known expenditure items have been provided for.
+[402] 5 These Interim financial statements are presented in accordance with LKAS 34 - "Interim Financial Reporting" and provide the information as required in terms of Rule 7.4 of the
+[403] Colombo Stock Exchange.
+[404] 6 The Group financial statements comprises of consolidation of the financial statements of the Bank and its subsidiaries, National Asset Management Limited & UB Finance PLC.
+[405] 7 No material events have been taken place subsequent to the reporting period that require disclosures or/ and adjustment in the Financial Statements.
+[406] 8 Information on Ordinary Shares
+[407] Market Value 30.09.2025 30.09.2024
+[408] LKR LKR
+[409] Last traded price 15.60 9.50
+[410] Highest price for the quarter 16.20 9.80
+[411] Lowest price for the quarter 10.50 8.50
+[412] Classification: Public
+[413] 9
+[414] INTERIM FINANCIAL STATEMENTS
+[415] NOTES TO THE FINANCIAL STATEMENTS
+[416] As at 30 September 2025
+[417] 9. ANALYSIS OF LOANS & ADVANCES TO CUSTOMERS AND IMPAIRMENT
+[418] 9.1 Product-wise Gross Loans & Advances
+[419] BANK GROUP
+[420] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[421] LKR '000 LKR '000 LKR '000 LKR '000
+[422] Audited Audited
+[423] Term loans 67,287,406 54,819,313 72,713,410
+[424] 58,858,518
+[425] Overdrafts 13,458,857 8,828,241 13,458,857 8,828,241
+[426] Trade finance 7,603,355 5,368,247 7,603,355 5,368,247
+[427] Lease and hire purchase 4,856,176 1,197,339 9,443,942 4,881,083
+[428] Factoring 405,274 402,501 633,793
+[429] 632,663
+[430] Pawning & Gold loans 4,636,850 2,117,924 6,715,804 3,706,909
+[431] Credit cards 3,827,608 3,818,427 3,827,608 3,818,427
+[432] Staff loans 1,160,658 1,042,436 1,204,861
+[433] 1,072,134
+[434] By Product - Local Currency 103,236,184 77,594,428 115,601,630 87,166,222
+[435] Term loans 5,490,569 4,385,314 5,490,569 4,385,314
+[436] Overdrafts 587,154 495,819 587,154 495,819
+[437] Trade finance 5,355,906 5,788,972 5,355,906
+[438] 5,788,972
+[439] By Product - Foreign Currency 11,433,629 10,670,105 11,433,629 10,670,105
+[440] Total Loans and Receivables 114,669,813 88,264,533 127,035,259 97,836,327
+[441] 9.2 Stage -wise impairment on loans & advances to customers
+[442] BANK GROUP
+[443] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[444] LKR '000 LKR '000 LKR '000 LKR '000
+[445] Audited Audited
+[446] Gross loans and advances (Note 9.1) 114,669,813 88,264,533 127,035,259 97,836,327
+[447] Less: Accumulated impairment under stage 1 (1,312,096) (873,007) (1,386,307) (956,860)
+[448] Accumulated impairment under stage 2 (327,378) (503,095) (381,525) (547,156)
+[449] (5,438,240) (5,685,575) (6,216,673) (6,447,178)
+[450] Accumulated impairment under stage 3
+[451] 107,592,099 81,202,856 119,050,754 89,885,133
+[452] Net value of loans and advances
+[453] 9.3 Movement of impairment during the period for Loans and Advances to customers
+[454] Stage 1 Stage 2 Stage 3 Total
+[455] LKR '000 LKR '000 LKR '000 LKR '000
+[456] BANK
+[457] 873,007 503,095 5,685,575 7,061,677
+[458] Opening balance as at 1 January 2025
+[459] Charge/(reversal) to statement of profit or loss 439,089 (175,717) (139,373) 123,999
+[460] - - (107,962) (107,962)
+[461] Net write-off during the period
+[462] Closing Balance as at 30 September 2025 1,312,096 327,378 5,438,240 7,077,714
+[463] GROUP
+[464] 956,860 547,156 6,447,178 7,951,194
+[465] Opening balance as at 1 January 2025
+[466] Charge/(reversal) to statement of profit or loss 429,447 (165,631) (58,547) 205,269
+[467] Net write-off during the period - - (171,958) (171,958)
+[468] Closing Balance as at 30 September 2025 1,386,307 381,525 6,216,673 7,984,505
+[469] BANK - (Audited)
+[470] Opening balance as at 1 January 2024 454,376 1,124,029 5,357,137 6,935,544
+[471] Charge/(reversal) to statement of profit or loss 418,631 (620,935) 348,696 146,392
+[472] Net write-off during the year - - (20,259) (20,259)
+[473] Closing Balance as at 31 December 2024 873,007 503,095 5,685,575 7,061,677
+[474] GROUP - (Audited)
+[475] Opening balance as at 1 January 2024 532,272 1,200,700 6,143,318 7,876,290
+[476] Charge/(reversal) to statement of profit or loss 424,589 (653,544) 414,366 185,411
+[477] Net write-off during the year - - (110,506) (110,506)
+[478] Closing Balance as at 31 December 2024 956,860 547,156 6,447,178 7,951,194
+[479] 10.
+[480] ANALYSIS OF DUE TO CUSTOMERS
+[481] BANK GROUP
+[482] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[483] LKR '000 LKR '000 LKR '000 LKR '000
+[484] Audited Audited
+[485] Local Currency Deposits
+[486] Demand deposits 7,871,827 7,515,342 7,868,727 7,514,826
+[487] Savings deposits 20,352,298 13,810,697 20,291,611 13,808,697
+[488] Fixed deposits 64,471,357 64,522,114 71,312,739 71,413,303
+[489] Other deposits 1,269,578 1,250,326 1,269,578 1,250,326
+[490] Total 93,965,060 87,098,479 100,742,655 93,987,152
+[491] Foreign Currency Deposits
+[492] Demand deposits 306,520 477,462 306,520
+[493] 477,462
+[494] Savings deposits 4,299,340 4,332,919 4,299,340 4,332,919
+[495] Fixed deposits 13,324,958 11,831,724 13,324,958 11,831,724
+[496] Total 17,930,818 16,642,105 17,930,818 16,642,105
+[497] Total Deposits 111,895,878 103,740,584 118,673,473 110,629,257
+[498] Classification: Public
+[499] 10
+[500] INTERIM FINANCIAL STATEMENTS
+[501] NOTES TO THE FINANCIAL STATEMENTS
+[502] As at 30 September 2025
+[503] 11.
+[504] ANALYSIS OF COMMITMENTS, CONTINGENCIES AND IMPAIRMENT
+[505] 11.1 Product-wise Commitments and Contingencies
+[506] BANK GROUP
+[507] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[508] LKR '000 LKR '000 LKR '000 LKR '000
+[509] Audited Audited
+[510] Undrawn loan commitments 11,789,227 10,184,300 11,789,227 10,059,300
+[511] Guarantees 5,740,292 6,449,889
+[512] 5,740,292 6,449,889
+[513] Documentary credit 30,500 2,441,961 30,500 2,441,961
+[514] Forward contracts 11,213,278 10,290,065 11,213,278 10,290,065
+[515] Spot contracts 90,771 54,689 90,771 54,689
+[516] Acceptances 219,762 2,016,840
+[517] 219,762 2,016,840
+[518] Forward borrowing - 216,302 - 216,302
+[519] Other contingent items 789,670 1,199,032 789,670 1,199,032
+[520] By Product - Local Currency 29,873,500 32,853,078 29,873,500 32,728,078
+[521] Undrawn loan commitments 218,252 18,192 218,252 18,192
+[522] Guarantees 5,562,935 3,126,491 5,562,935 3,126,491
+[523] Documentary credit 6,338,744 1,196,843 6,338,744 1,196,843
+[524] Forward contracts 1,587,913 -
+[525] 1,587,913 -
+[526] Spot contracts 124,834 - 124,834 -
+[527] Acceptances 2,805,226 90,534 2,805,226 90,534
+[528] Other contingent items 656,158 110,019 656,158 110,019
+[529] By Product - Foreign Currency 17,294,062 4,542,079 17,294,062 4,542,079
+[530] 47,167,562 37,395,156 47,167,562 37,270,156
+[531] Commitments and Contingencies
+[532] 11.2 Stage -wise impairment on Commitment and Contingencies
+[533] BANK GROUP
+[534] 30.09.2025 31.12.2024 30.09.2025
+[535] 31.12.2024
+[536] LKR '000 LKR '000 LKR '000 LKR '000
+[537] Audited Audited
+[538] Gross Commitments and Contingencies (Note 11.1) 47,167,562 37,395,156 47,167,562 37,270,156
+[539] Less: Accumulated impairment under stage 1 (189,798) (118,672) (189,798) (116,608)
+[540] Accumulated impairment under stage 2 (2,384) (1,563) (2,384) (1,563)
+[541] Accumulated impairment under stage 3 (474) (764) (474) (764)
+[542] 46,974,906 37,274,158 46,974,906 37,151,221
+[543] Net value of commitments and contingencies
+[544] 11.3 Movement of impairment during the period for Commitments & Contingencies
+[545] Total
+[546] Stage 1 Stage 2 Stage 3
+[547] LKR '000 LKR '000 LKR '000 LKR '000
+[548] BANK
+[549] Opening balance as at 1 January 2025 118,672 1,563 764 120,999
+[550] Charge/(reversal) to statement of profit or loss 71,127 821 (290) 71,658
+[551] 189,798 2,384 474 192,656
+[552] Closing Balance as at 30 September 2025
+[553] GROUP
+[554] Opening balance as at 1 January 2025 116,608 1,563 764 118,935
+[555] 73,190 821 (290) 73,721
+[556] Charge/(reversal) to statement of profit or loss
+[557] Closing Balance as at 30 September 2025 189,798 2,384 474 192,656
+[558] BANK - (Audited)
+[559] 101,583 26,652 1,149 129,384
+[560] Opening balance as at 1 January 2024
+[561] Charge/(reversal) to statement of profit or loss 17,089 (25,088) (385) (8,384)
+[562] Closing Balance as at 31 December 2024 118,672 1,563 764 120,999
+[563] GROUP - (Audited)
+[564] Opening balance as at 1 January 2024 95,881 30,151 15,745 141,777
+[565] Charge/(reversal) to statement of profit or loss 20,727 (28,587) (14,981) (22,841)
+[566] Closing Balance as at 31 December 2024 116,608 1,563 764 118,936
+[567] Classification: Public
+[568] 11
+[569] INTERIM FINANCIAL STATEMENTS
+[570] NOTES TO THE FINANCIAL STATEMENTS
+[571] Period ended 30 September 2025
+[572] Treasury Other Other Group Companies Total Corporate SME Retail
+[573] 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024
+[574] Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000 Rs.'000
+[575] For the period ended 30th September 2025
+[576] Net Interest Income 573,603 574,913 916,721 449,742 1,225,584 1,081,261 287,982 282,847 964,562 1,180,540 914,992 550,378 4,883,444 4,119,681
+[577] Other Income 259,571 262,188 291,108 201,998 610,212 452,749 735,230 524,361 3,847 22,193 228,259 168,112 2,128,227 1,631,601
+[578] Total Net Income 833,174 837,101 1,207,829 651,740 1,835,796 1,534,010 1,023,212 807,208 968,409 1,202,733 1,143,251 718,490 7,011,671 5,751,282
+[579] Less : Expenses including impairments (235,424) 238,367 785,831 663,578 1,831,581 1,308,617 131,233 41,705 2,263,317 1,999,828 873,947 616,670 5,650,485 4,868,764
+[580] Impairment (335,467) 130,715 127,438 44,208 403,868 43,695 - - 2,413 2,825 97,179 12,840 295,431 234,283
+[581] Depreciation & amortisation 662 682 1,140 909 19,205 18,636 979 818 752,626 573,499 69,768 59,788 844,380 654,332
+[582] Other expenses 99,381 106,970 657,253 618,461 1,408,508 1,246,286 130,254 117,107 1,508,278 1,423,504 707,000 467,824 4,510,674 3,980,151
+[583] Segmental Results 1,068,598 598,734 421,998 (11,838) 4,215 225,393 891,979 765,503 (1,294,908) (797,095) 269,304 101,819 1,361,186 882,516
+[584] Less: VAT and SSCL on Financial Services 629,631 475,499
+[585] Less: Taxation 384,259 295,964
+[586] Profit after Taxation 347,296 111,053
+[587] As at 30th September 2025
+[588] Other Information
+[589] Segment Assets 41,095,631 38,295,302 38,722,280 27,023,910 32,229,426 16,420,586 50,336,330 50,101,537 - - 13,137,737 10,998,001 175,521,403 142,839,336
+[590] Unallocated 7,425,294 7,348,817
+[591] Consolidated Total Assets 182,946,697 150,188,153
+[592] -
+[593] Segment Liabilities 13,319,192 10,979,891 22,415,076 19,978,507 78,071,773 67,672,558 31,295,097 15,576,629 - - 12,968,862 11,766,038 158,070,000 125,973,622
+[594] Unallocated 4,265,210 4,521,944
+[595] Consolidated Total Liabilities 162,335,210 130,495,566
+[596] For the period ended 30th September
+[597] Cash flow from operating activities (1,024,550) (2,100,439) (1,485,261) (1,635,335) (2,257,469) (1,058,126) (1,258,238) (2,025,431) (1,190,847) (3,017,877) (3,462,615) (3,216,262) (10,678,980) (13,053,470)
+[598] Cash flow from investing activities (22,539) (94,013) (32,674) (73,196) (49,662) (172,282) 2,603,416 5,225,981 337,194 976,761 (590,111) 208,855 2,245,624 6,072,106
+[599] Cash flow from financing activities - - - - - - 6,639,497 999,862 - - 1,283,877 (23,192) 7,923,374 976,670
+[600] Classification: Public
+[601] 12
+[602] INTERIM FINANCIAL STATEMENTS
+[603] INFORMATION ON ORDINARY SHARES OF THE BANK
+[604] As at 30 September 2025
+[605] TOP 20 SHAREHOLDERS
+[606] No. of shares
+[607] Name % holding
+[608] as at 30.09.2025
+[609] 1 Culture Financial Holdings Ltd 767,558,888 70.84%
+[610] 2 Vista Knowledge Pte Ltd 64,677,973 5.97%
+[611] 3 Associated Electrical Corporation Ltd 28,446,137 2.63%
+[612] 4 Sampath Bank PLC / Yaden Capital (Pvt)Ltd 25,881,430 2.39%
+[613] 5 Mr. D.A.J. Warnakulasuriya 19,862,730 1.83%
+[614] 6 Mr. C.P.A. Wijeyesekera 18,375,314 1.70%
+[615] 7 Mrs. P. D. A. S Beruwalage 9,513,410 0.88%
+[616] 8 0.86%
+[617] Seylan Bank PLC /Sarath Kumara Wijekoon 9,270,176
+[618] 9 People's Leasing & Finance PLC/L.P. Hapangama 7,793,668 0.72%
+[619] 10 Ashyaki Holdings (Pvt) Ltd 7,792,806 0.72%
+[620] 11 Mr.S.P Khattar 7,323,365 0.68%
+[621] 12 Mr. A.I.T.Hettiarachchi 3,848,735 0.36%
+[622] 13 Ajita De Zoysa & Company Limited 3,110,183 0.29%
+[623] 14 0.29%
+[624] Sampath Bank PLC / Andaradeniya Estate (Pvt) Ltd 3,099,273
+[625] 15 Commercial Agencies (Ceylon) Ltd 2,973,748 0.27%
+[626] 16 Mr. P. Brahmanage 2,825,000 0.26%
+[627] 17 Mrs. H.K.S.R. Perera 2,800,000 0.26%
+[628] 18 Peoples Leasing & Finance PLC /L.H.L.M.P.Haradasa 2,376,932 0.22%
+[629] 19 Assetline Finance Ltd / S. K Wijekoon 2,087,055 0.19%
+[630] 20 Mr. A.M. Weerasinghe 2,009,220 0.19%
+[631] 91.55%
+[632] 991,626,043
+[633] Other shareholders 91,932,295 8.45%
+[634] Total 1,083,558,338 100.00%
+[635] As at 30 September 2025
+[636] Number of shares in public holding 315,988,950
+[637] Number of public shareholders 27,594
+[638] Percentage of public holding 29.16%
+[639] Market capitalisation (LKR) 16,903,510,073
+[640] Float adjusted market capitalisation 4,929,435,414
+[641] Required minimum public holding percentage under option 4 of rule 7.13.1 (a)
+[642] of the Listing Rules of Colombo Stock Exchange 10%
+[643] DIRECTORS' INDIVIDUAL HOLDING IN SHARES
+[644] No. of shares held
+[645] Name
+[646] as at 30.09.2025
+[647] Mr. Dinesh Weerakkody None
+[648] Mr. Nirvana Kumar Chaudhary None
+[649] Mr. Dilshan Peter Nirosh Rodrigo None
+[650] Ms. Dilshani Wijayawardana None
+[651] Mr. Ahamed Sabry Ibrahim None
+[652] Mr. Sanjay Pokhrel None
+[653] Dr. Dharmasri Kumaratunge None
+[654] Mr. W.P. C. Mahesh Nanayakkara None
+[655] Mr. Gyanendra Dhungana None
+[656] The Minimum Public Holding of Union Bank of Colombo PLC as at 30 September 2025 complied with option 4 of rule 7.13.1 (a) of
+[657] the Listing Rules of the Colombo Stock Exchange.
+[658] Classification: Public
+[659] 13
+[660] INTERIM FINANCIAL STATEMENTS
+[661] NOTES TO THE FINANCIAL STATEMENTS
+[662] As at 30 September 2025
+[663] MEASUREMENT OF FINANCIAL INSTRUMENTS
+[664] 1,000
+[665] Bank - As at 30 September 2025
+[666] Fair Value Fair Value
+[667] Amortised cost Total
+[668] through P&L through OCI
+[669] LKR '000 LKR '000 LKR '000 LKR '000
+[670] ASSETS
+[671] Cash and cash equivalents - - 3,236,631 3,236,631
+[672] Balances with Central Bank of Sri Lanka - - 1,020,220 1,020,220
+[673] Placements with banks - - 954,662 954,662
+[674] Reverse repurchased agreements - - 1,564,617 1,564,617
+[675] Derivative financial instruments 8,619 - - 8,619
+[676] Financial assets recognised through profit or loss - measured at fair value 7,035,925 - - 7,035,925
+[677] Financial assets at amortised cost - loans and advances - - 107,592,099 107,592,099
+[678] Financial assets at amortised cost - debt and other instruments - - 19,429,270 19,429,270
+[679] Financial assets measured at fair value through other comprehensive income - 21,638,474 - 21,638,474
+[680] Other financial assets - - 63,182 63,182
+[681] Total financial assets 7,044,544 21,638,474 133,860,681 162,543,699
+[682] Fair Value
+[683] Total
+[684] Amortised cost
+[685] through P&L
+[686] LKR '000 LKR '000 LKR '000
+[687] LIABILITIES
+[688] Due to banks - 15,386,919 15,386,919
+[689] Derivative financial instruments 21,282 - 21,282
+[690] Repurchased agreements - 20,750,758 20,750,758
+[691] Financial liabilities at amortised cost - Due to customers - 111,895,878 111,895,878
+[692] Other financial liabilities - 1,375,702 1,375,702
+[693] 21,282 149,409,257 149,430,539
+[694] Total financial liabilities
+[695] Bank - As at 31 December 2024 (Audited)
+[696] Fair Value Fair Value
+[697] Amortised cost Total
+[698] through P&L through OCI
+[699] LKR '000 LKR '000 LKR '000 LKR '000
+[700] ASSETS
+[701] Cash and cash equivalents - - 3,736,158 3,736,158
+[702] Balances with Central Bank of Sri Lanka - - 375,596 375,596
+[703] Placements with banks - - 1,135,072 1,135,072
+[704] Reverse repurchased agreements - - 562,470 562,470
+[705] Derivative financial instruments 44,429 - - 44,429
+[706] Financial assets recognised through profit or loss - measured at fair value 4,884,509 - - 4,884,509
+[707] Financial assets at amortised cost - loans and advances - - 81,202,856 81,202,856
+[708] Financial assets at amortised cost - debt and other instruments - - 22,863,756 22,863,756
+[709] Financial investments at fair value through other comprehensive income - 23,322,397 - 23,322,397
+[710] Other financial assets - - 36,493 36,493
+[711] Total financial assets 4,928,938 23,322,397 109,912,401 138,163,736
+[712] Fair Value
+[713] Amortised cost Total
+[714] through P&L
+[715] LKR '000 LKR '000 LKR '000
+[716] LIABILITIES
+[717] Due to banks - 7,996,693 7,996,693
+[718] Derivative financial instruments 22,162 - 22,162
+[719] Repurchased agreements - 13,197,001 13,197,001
+[720] Financial liabilities at amortised cost - Due to customers - 103,740,584 103,740,584
+[721] Other financial liabilities - 1,375,702 1,375,702
+[722] Total financial liabilities 22,162 126,309,980 126,332,142
+[723] Classification: Public
+[724] 14
+[725] INTERIM FINANCIAL STATEMENTS
+[726] NOTES TO THE FINANCIAL STATEMENTS
+[727] As at 30 September 2025
+[728] MEASUREMENT OF FINANCIAL INSTRUMENTS
+[729] Group - As at 30 September 2025
+[730] Fair Value Fair Value
+[731] Amortised Cost Total
+[732] through P&L through OCI
+[733] LKR '000 LKR '000 LKR '000 LKR '000
+[734] ASSETS
+[735] Cash and cash equivalents - - 3,569,490 3,569,490
+[736] Balances with Central Bank of Sri Lanka - - 1,020,220 1,020,220
+[737] Placements with banks - - 954,579 954,579
+[738] Reverse repurchased agreements - - 1,564,617 1,564,617
+[739] Derivative financial instruments 8,619 - - 8,619
+[740] Financial assets recognised through profit or loss - measured at fair value 7,350,913 - - 7,350,913
+[741] Financial assets at amortised cost - loans and advances - - 119,050,754 119,050,754
+[742] - - 20,327,435 20,327,435
+[743] Financial assets at amortised cost - debt and other instruments
+[744] - 21,674,774 - 21,674,774
+[745] Financial assets measured at fair value through other comprehensive income
+[746] - -
+[747] Other financial assets 68,953 68,953
+[748] Total financial assets 7,359,532 21,674,774 146,556,048 175,590,354
+[749] Fair Value
+[750] Amortised Cost Total
+[751] through P&L
+[752] LKR '000 LKR '000 LKR '000
+[753] LIABILITIES
+[754] Due to banks - 16,309,383 16,309,383
+[755] Derivative financial instruments 21,282 - 21,282
+[756] Repurchased agreements - 20,750,758 20,750,758
+[757] Financial liabilities at amortised cost - Due to customers - 118,673,473 118,673,473
+[758] Financial liabilities at amortised cost - Other borrowed funds - 2,315,103 2,315,103
+[759] - 1,877,323 1,877,323
+[760] Other financial liabilities
+[761] Total financial liabilities
+[762] 21,282 159,926,040 159,947,322
+[763] Group - As at 31 December 2024 (Audited)
+[764] Fair Value Fair Value
+[765] Amortised Cost Total
+[766] through P&L through OCI
+[767] LKR '000 LKR '000 LKR '000 LKR '000
+[768] ASSETS
+[769] Cash and cash equivalents - - 4,333,380 4,333,380
+[770] Balances with Central Bank of Sri Lanka - - 375,596 375,596
+[771] Placements with banks - - 1,135,072 1,135,072
+[772] Reverse repurchased agreements - - 562,470 562,470
+[773] Derivative financial instruments 44,429 - - 44,429
+[774] Financial assets recognised through profit or loss - measured at fair value 4,994,837 - - 4,994,837
+[775] Financial assets at amortised cost - loans and advances - - 89,885,133 89,885,133
+[776] Financial assets at amortised cost - debt and other instruments - - 23,874,378 23,874,378
+[777] Financial assets measured at fair value through other comprehensive income - 23,353,910 - 23,353,910
+[778] Other financial assets - - 58,141 58,141
+[779] Total financial assets 5,039,266 23,353,910 120,224,170 148,617,346
+[780] Fair Value
+[781] Amortised Cost Total
+[782] through P&L
+[783] LKR '000 LKR '000 LKR '000
+[784] LIABILITIES
+[785] Due to banks - 8,215,859 8,215,859
+[786] Derivative financial instruments 22,162 - 22,162
+[787] Repurchased agreements - 13,197,001 13,197,001
+[788] Financial liabilities at amortised cost - Due to customers - 110,629,257 110,629,257
+[789] Financial liabilities at amortised cost - Other borrowed funds - 407,128 407,128
+[790] Other financial liabilities - 1,797,256 1,797,256
+[791] Total financial liabilities
+[792] 22,162 134,246,501 134,268,663
+[793] Classification: Public
+[794] 15
+[795] INTERIM FINANCIAL STATEMENTS
+[796] NOTES TO THE FINANCIAL STATEMENTS
+[797] As at 30 September 2025
+[798] FAIR VALUE OF ASSETS AND LIABILITIES
+[799] All financial assets and liabilities for which fair value is measured or disclosed in the financial statements are categorised within the fair value hierarchy, as discribed
+[800] below;
+[801] Fair values are determined according to the following hierarchy:
+[802] Level 1 – quoted market price (unadjusted): financial instruments with quoted prices in active markets.
+[803] Level 2 – valuation technique using observable inputs: financial instruments with quoted prices for similar instruments in active markets or quoted prices for identical or similar
+[804] instruments in inactive markets and financial instruments are valued using models where all significant inputs are observable.
+[805] Level 3 – valuation technique with significant unobservable inputs: This category includes all instruments valued using valuation techniques where
+[806] one or more significant inputs are unobservable.
+[807] The following table provides an analysis of assets and liabilities measured at fair value as at the reporting date, by the level in the fair value hierarchy into which the fair
+[808] value measurement is categorised. These amounts were based on the values recognised in the Statement of Financial Position:
+[809] Assets and liabilities recorded at fair value
+[810] Bank - As at 30 September 2025
+[811] Level 1 Level 2 Level 3 Total
+[812] LKR '000 LKR '000 LKR '000 LKR '000
+[813] Financial assets measured at fair value
+[814] Derivative financial instruments - 8,619 - 8,619
+[815] Financial assets recognised through profit or loss - measured at fair value
+[816] 7,035,925 - - 7,035,925
+[817] Financial assets measured at fair value through other comprehensive income 21,635,944 - 2,530 21,638,474
+[818] Total financial assets 28,671,869 8,619 2,530 28,683,018
+[819] Financial liabilities measured at fair value
+[820] Derivative financial instruments
+[821] - 21,282 - 21,282
+[822] - 21,282 - 21,282
+[823] Total financial liabilities
+[824] Bank - As at 31 December 2024 (Audited)
+[825] Level 1 Level 2 Level 3 Total
+[826] LKR '000 LKR '000 LKR '000 LKR '000
+[827] Financial assets measured at fair value
+[828] Derivative financial instruments - 44,429 - 44,429
+[829] Financial assets recognised through profit or loss - measured at fair value 4,884,509 - - 4,884,509
+[830] Financial assets measured at fair value through other comprehensive income 23,319,867 - 2,530 23,322,397
+[831] 28,204,375 44,429 2,530 28,251,335
+[832] Total financial assets
+[833] Financial liabilities measured at fair value
+[834] Derivative financial instruments - 22,162 - 22,162
+[835] Total financial liabilities - 22,162 - 22,162
+[836] Group - As at 30 September 2025
+[837] Level 1 Level 2 Level 3 Total
+[838] LKR '000 LKR '000 LKR '000 LKR '000
+[839] Financial assets measured at fair value
+[840] Derivative financial instruments
+[841] - 8,619 - 8,619
+[842] Financial assets recognised through profit or loss - measured at fair value 7,350,913 - - 7,350,913
+[843] Financial assets measured at fair value through other comprehensive income 21,635,944 - 38,830 21,674,774
+[844] Total financial assets 28,986,856 8,619 38,830 29,034,306
+[845] Financial liabilities measured at fair value
+[846] Derivative financial instruments - 21,282 - 21,282
+[847] Total financial liabilities - 21,282 - 21,282
+[848] Group - As at 31 December 2024 (Audited)
+[849] Level 1 Level 2 Level 3 Total
+[850] LKR '000 LKR '000 LKR '000 LKR '000
+[851] Financial assets measured at fair value
+[852] Derivative financial instruments - 44,429 - 44,429
+[853] Financial assets recognised through profit or loss - measured at fair value 4,994,837 - - 4,994,837
+[854] Financial assets measured at fair value through other comprehensive income
+[855] 23,319,867 - 34,043 23,353,910
+[856] 28,314,704 44,429 34,043 28,393,176
+[857] Total financial assets
+[858] Financial liabilities measured at fair value
+[859] Derivative financial instruments - 22,162 - 22,162
+[860] Total financial liabilities - 22,162 - 22,162
+[861] Classification: Public
+[862] 16
+[863] INTERIM FINANCIAL STATEMENTS
+[864] NOTES TO THE FINANCIAL STATEMENTS
+[865] As at 30 September 2025
+[866] FAIR VALUE OF ASSETS AND LIABILITIES
+[867] Fair value of financial assets and liabilities not carried at fair value
+[868] Bank - As at 30 September 2025
+[869] Carrying Fair Value
+[870] Level 1 Level 2 Level 3 Total Value Value
+[871] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[872] Financial assets
+[873] Financial assets at amortised cost - loans and advances - 115,112,448 - 115,112,448 114,669,813
+[874] Financial assets at amortised cost - debt and other instruments 19,425,076 - - 19,425,076 19,429,270
+[875] Total 19,425,076 115,112,448 - 134,537,524 134,099,083
+[876] Financial liabilities
+[877] Due to Banks - 15,386,919 - 15,386,919 15,386,919
+[878] Due to customers - 79,124,259 - 79,124,259 79,065,893
+[879] Total - 94,511,179 - 94,511,179 94,452,812
+[880] Bank - As at 31 December 2024 (Audited)
+[881] Carrying Fair Value
+[882] Level 1 Level 2 Level 3 Total Value Value
+[883] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[884] Financial assets
+[885] Financial assets at amortised cost - loans and advances
+[886] - 87,285,436 - 87,285,436 88,264,533
+[887] Financial assets at amortised cost - debt and other instruments 23,143,525 - - 23,143,525 22,863,756
+[888] Total 23,143,525 87,285,436 - 110,428,961 111,128,289
+[889] Financial liabilities
+[890] Due to Banks
+[891] - 7,996,693 - 7,996,693 7,996,693
+[892] Due to customers - 77,728,425 - 77,728,425 77,604,164
+[893] Total - 85,725,118 - 85,725,118 85,600,857
+[894] Group - As at 30 September 2025
+[895] Fair Value
+[896] Carrying
+[897] Level 1 Level 2 Level 3 Total Value Value
+[898] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[899] Financial assets
+[900] Financial assets at amortised cost - loans and advances - 127,069,763 - 127,069,763 127,035,259
+[901] Financial assets at amortised cost - debt and other instruments 20,207,791 - - 20,207,791 20,327,435
+[902] 20,207,791 127,069,763 - 147,277,554 147,362,694
+[903] Total
+[904] Financial liabilities
+[905] Due to Banks - 16,309,383 - 16,309,383 16,309,383
+[906] Due to customers
+[907] - 86,143,774 - 86,143,774 85,907,275
+[908] Other borrowed funds - 1,964,292 - 1,964,292 2,315,103
+[909] Total - 104,417,449 - 104,417,449 104,531,761
+[910] Group - As at 31 December 2024 (Audited)
+[911] Carrying Fair Value
+[912] Level 1 Level 2 Level 3 Total Value Value
+[913] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[914] Financial assets
+[915] Financial assets at amortised cost - loans and advances - 96,426,592 - 96,426,592 97,836,327
+[916] Financial assets at amortised cost - debt and other instruments 24,154,147 - - 24,154,147 23,874,378
+[917] 24,154,147 96,426,592 - 120,580,739 121,710,705
+[918] Total
+[919] Financial liabilities
+[920] Due to Banks - 8,214,285 - 8,214,285 8,215,859
+[921] Due to customers
+[922] - 84,824,282 - 84,824,282 84,495,353
+[923] Other borrowed funds - 350,322 - 350,322 407,128
+[924] Total - 93,388,889 - 93,388,889 93,118,340
+[925] For financial assets and financial liabilities that have short term maturity, it is assumed that carrying amounts approximates their fair value. This assumption is applied for following assets
+[926] and liabilities which are short-term maturity or re-price to current market rates.
+[927] Assets Liabilities
+[928] 4 Cash and cash equivalents 4 Repurchased agreements
+[929] 4 Balances with Central Bank of Sri Lanka 4 Savings and demand deposits in “Financial liabilities at amortised cost - Due to customers”
+[930] 4 Placements with banks 4 Other financial liabilities
+[931] 4 Reverse repurchased agreements
+[932] 4 Other financial assets
+[933] Classification: Public
+[934] 17
+[935] INTERIM FINANCIAL STATEMENTS
+[936] SELECTED PERFORMANCE INDICATORS
+[937] BANK GROUP
+[938] Item
+[939] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[940] Regulatory Capital Adequacy - LKR '000
+[941] Common Equity Tier 1 14,788,269 14,775,811 17,218,786 17,100,703
+[942] Tier 1 Capital 14,788,269 14,775,811 17,218,786 17,100,703
+[943] Total Regulatory Capital 16,053,150 15,742,925 18,570,137 18,132,523
+[944] Regulatory Capital Ratios (%)
+[945] Common Equity Tier 1 Capital Ratio
+[946] (Minimum Requirement as per Basel III - 7%)
+[947] 12.2% 15.6% 13.3% 16.9%
+[948] Tier 1 Capital Ratio
+[949] (Minimum Requirement as per Basel III - 8.5%)
+[950] 12.2% 15.6% 13.3% 16.9%
+[951] Total Capital Ratio
+[952] (Minimum Requirement as per Basel III - 12.5%)
+[953] 13.2% 16.6% 14.3% 17.9%
+[954] Basel III Leverage Ratio
+[955] 6.9% 8.3% 7.5% 9.1%
+[956] (Minimum Requirement - 3%)
+[957] Regulatory Liquidity
+[958] Liquidity Coverage Ratio (%), Rupee
+[959] (Minimum Requirement - 100% ) 328.8% 565.9%
+[960] Liquidity Coverage Ratio (%), All Currency
+[961] (Minimum Requirement - 100% ) 228.3% 486.6%
+[962] Net Stable Funding Ratio (%)
+[963] (Minimum Requirement - 100% ) 134.0% 136.0%
+[964] Assets Quality (Quality of Loan Portfolio)
+[965] Impaired Loans (Stage 3) to Total Loans, Ratio (%)
+[966] 12.3%
+[967] 8.9%
+[968] Impairment (Stage 3) to Stage 3 Loans, Ratio (%) 32.0%
+[969] 32.6%
+[970] Profitability
+[971] Net Interest Margin, % 3.3% 3.4%
+[972] Return on Assets (Before Tax), % 0.6% 0.5%
+[973] Return on Equity (After Tax), % 2.3% 1.5%
+[974] Cost to Income Ratio, % 77.9% 80.4%
+[975] Memorandum Information
+[976] Credit Rating BBB-(lka) BBB-(lka)
+[977] Number of Employees 1,192 1,189
+[978] Number of Branches 61 61
+[979] Classification: Public
+[980] 18
+[981] INTERIM FINANCIAL STATEMENTS
+[982] CORPORATE INFORMATION
+[983] Name of Company
+[984] Union Bank of Colombo PLC
+[985] Legal Form
+[986] A Public Limited Liability Company incorporated in Sri Lanka under the Companies Act No. 17 of 1982.
+[987] Re-registered under the Companies Act No. 7 of 2007. Listed as a public quoted Company at the Colombo Stock Exchange.
+[988] A Licensed Commercial Bank under the Banking Act No. 30 of 1988.
+[989] Date of Incorporation
+[990] February 2nd, 1995
+[991] Company Registration Number
+[992] PB 676 PQ
+[993] Accounting Year-end
+[994] December-31
+[995] Subsidiary Companies
+[996] National Asset Management Ltd
+[997] UB Finance PLC
+[998] Tax Payer Identity Number (TIN)
+[999] 134005610
+[1000] VAT Registration Number
+[1001] 134005610-7000
+[1002] Credit Rating
+[1003] Fitch : BBB- (lka) ( Nagative watch)
+[1004] Registered Office & Principal Place of Business
+[1005] No. 64, Galle Road,
+[1006] Colombo 03, Sri Lanka.
+[1007] Telephone : +94 11 2374100
+[1008] Fax: +94 11 2370971
+[1009] E-mail: ubc@unionb.com
+[1010] Web Address: www.unionb.com
+[1011] Auditor
+[1012] M/s. Ernst & Young
+[1013] Chartered Accountants,
+[1014] Rotunda Towers,
+[1015] Galle Road,
+[1016] Colombo 03.
+[1017] Classification: Public
+[1018] 19

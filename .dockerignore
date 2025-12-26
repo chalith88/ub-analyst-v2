@@ -1,0 +1,67 @@
+# Build artifacts (will be built inside Docker)
+dist
+client/dist
+*.tsbuildinfo
+client/*.tsbuildinfo
+
+# Dependencies (will be installed inside Docker)
+node_modules
+client/node_modules
+
+# Development files
+.git
+.github
+.vscode
+.editorconfig
+
+# Test and coverage
+coverage
+client/coverage
+test-results
+client/test-results
+playwright-report
+client/playwright-report
+**/*.spec.ts
+**/*.test.ts
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp
+*.tmp
+*.temp
+
+# Documentation (keep README.md for reference)
+*.md
+!README.md
+
+# Work directories
+work_dfcc
+work_sampath
+ocr
+
+# PowerShell scripts (development only)
+*.ps1
+
+# Output directory (will be created in container)
+# BUT keep placeholder JSON files needed for client build
+# AND market share data files for Railway deployment
+output
+!output/combank.json
+!output/seylan.json
+!output/market-share-aggregated.json
+!output/*-market-share-ocr.json

@@ -1,0 +1,324 @@
+{
+  "totalMarketSize": 8390000000,
+  "totalCoverage": 9550624778,
+  "coveragePercentage": 113.83343001191895,
+  "extractedAt": "2025-12-10T16:07:55.804Z",
+  "banks": [
+    {
+      "bank": "Bank of Ceylon",
+      "shortName": "BOC",
+      "assetBookSize": 1705124546,
+      "segments": {
+        "housing": 66148403,
+        "personal": 363605520
+      },
+      "previousYear": {
+        "assetBookSize": 1607455600,
+        "segments": {
+          "housing": 67997632,
+          "personal": 344020059
+        },
+        "date": "2024-12-31"
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "Bank of Ceylon Q3 2025 Interim Financial Statements - Product-wise Gross Loans",
+      "extractedAt": "2025-12-10T16:06:39.712Z",
+      "confidence": "high"
+    },
+    {
+      "bank": "People's Bank",
+      "shortName": "People's",
+      "assetBookSize": 1475191228,
+      "segments": {
+        "housing": 0,
+        "personal": 0
+      },
+      "previousYear": {
+        "assetBookSize": 1350046255,
+        "segments": {
+          "housing": 0,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "People's Bank September 2025 Interim Financial Statements - Product-wise Gross loans & advances",
+      "extractedAt": "2025-12-10T16:06:42.006Z",
+      "confidence": "high"
+    },
+    {
+      "bank": "Commercial Bank of Ceylon",
+      "shortName": "ComBank",
+      "assetBookSize": 1386435733,
+      "segments": {
+        "housing": 82060753,
+        "personal": 47812663
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "Commercial Bank of Ceylon PLC Q3 2025 Interim Financials - Gross loans and advances (By product - Domestic Currency)",
+      "extractedAt": "2025-12-10T16:06:46.930Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 1093621178,
+        "segments": {
+          "housing": 75887230,
+          "personal": 39288071
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "Hatton National Bank",
+      "shortName": "HNB",
+      "assetBookSize": 1185878005,
+      "segments": {
+        "housing": 66125339,
+        "personal": 0
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "HNB Q3 2025 Interim Financial Report - Product-wise Gross loans and advances",
+      "extractedAt": "2025-12-10T16:06:51.510Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 1257268461,
+        "segments": {
+          "housing": 55731372,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "Seylan Bank",
+      "shortName": "Seylan",
+      "assetBookSize": 533755460,
+      "segments": {
+        "housing": 0,
+        "personal": 0
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "Seylan Bank Q3-2025 Interim Financial Statements - Analysis of Gross Loans and Advances",
+      "extractedAt": "2025-12-10T16:07:01.800Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 462950751,
+        "segments": {
+          "housing": 0,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "Sampath Bank",
+      "shortName": "Sampath",
+      "assetBookSize": 986201298,
+      "segments": {
+        "housing": 52862290,
+        "personal": 0
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "Sampath Bank PLC Q3 2025 Interim Financial Statements - Product-wise Loans & Advances - Local currency",
+      "extractedAt": "2025-12-10T16:07:07.913Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 822816575,
+        "segments": {
+          "housing": 49894932,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "National Development Bank",
+      "shortName": "NDB",
+      "assetBookSize": 456179007,
+      "segments": {
+        "housing": 16893114,
+        "personal": 57919078
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "National Development Bank PLC Q3 2025 - Product wise Gross Loans and Receivables (Domestic Currency)",
+      "extractedAt": "2025-12-10T16:07:13.642Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 390267428,
+        "segments": {
+          "housing": 16885775,
+          "personal": 46510957
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "DFCC Bank",
+      "shortName": "DFCC",
+      "assetBookSize": 459129541,
+      "segments": {
+        "housing": 0,
+        "personal": 0
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "DFCC Bank Q3 2025 Interim Financial Statements",
+      "extractedAt": "2025-12-10T16:07:17.454Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 383260618,
+        "segments": {
+          "housing": 0,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "National Savings Bank",
+      "shortName": "NSB",
+      "assetBookSize": 540414116,
+      "segments": {
+        "housing": 0,
+        "personal": 0
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "NSB Q3 2025 Interim Financial Statements",
+      "extractedAt": "2025-12-10T16:07:21.641Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 557795130,
+        "segments": {
+          "housing": 0,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "Nations Trust Bank",
+      "shortName": "NTB",
+      "assetBookSize": 330872972,
+      "segments": {
+        "housing": 0,
+        "personal": 0
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "Nations Trust Bank Q3 2025 Interim Financial Statements",
+      "extractedAt": "2025-12-10T16:07:27.404Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 244570820,
+        "segments": {
+          "housing": 0,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "Union Bank",
+      "shortName": "Union Bank",
+      "assetBookSize": 103236184,
+      "segments": {
+        "housing": 0,
+        "personal": 0
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "Union Bank Q3 2025 Interim Financial Statements",
+      "extractedAt": "2025-12-10T16:07:35.456Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 77594428,
+        "segments": {
+          "housing": 0,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "Amana Bank",
+      "shortName": "Amana",
+      "assetBookSize": 140338010,
+      "segments": {
+        "housing": 0,
+        "personal": 0
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "Amana Bank Q3 2025 Interim Financial Statements",
+      "extractedAt": "2025-12-10T16:07:37.844Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 108807844,
+        "segments": {
+          "housing": 0,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "Cargills Bank",
+      "shortName": "Cargills",
+      "assetBookSize": 59744013,
+      "segments": {
+        "housing": 1537711,
+        "personal": 3562280,
+        "lap": 1785515
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "Cargills Bank Q3 2025 Interim Financial Statements - Product wise Gross Loans and Advances",
+      "extractedAt": "2025-12-10T16:07:51.549Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 45896077,
+        "segments": {
+          "housing": 1081084,
+          "personal": 2920334
+        },
+        "date": "2024-12-31"
+      }
+    },
+    {
+      "bank": "Pan Asia Banking Corporation",
+      "shortName": "PABC",
+      "assetBookSize": 188124665,
+      "segments": {
+        "housing": 0,
+        "personal": 0
+      },
+      "reportType": "Q3-2025",
+      "lastUpdated": "2025-09-30",
+      "source": "Pan Asia Banking Corporation Q3 2025 Interim Financial Statements - Loans and Advances by Product (Domestic Currency)",
+      "extractedAt": "2025-12-10T16:07:54.789Z",
+      "confidence": "high",
+      "previousYear": {
+        "assetBookSize": 152576986,
+        "segments": {
+          "housing": 0,
+          "personal": 0
+        },
+        "date": "2024-12-31"
+      }
+    }
+  ],
+  "summary": {
+    "totalBanks": 14,
+    "successfulScrapes": 14,
+    "failedScrapes": 0,
+    "withHousingData": 6,
+    "withPersonalData": 4
+  }
+}

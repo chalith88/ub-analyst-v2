@@ -1,0 +1,22 @@
+{
+  "bank": "Hatton National Bank",
+  "shortName": "HNB",
+  "assetBookSize": 1185878005,
+  "segments": {
+    "housing": 66125339,
+    "personal": 0
+  },
+  "reportType": "Q3-2025",
+  "lastUpdated": "2025-09-30",
+  "source": "HNB Q3 2025 Interim Financial Report - Product-wise Gross loans and advances",
+  "extractedAt": "2025-12-10T16:06:51.510Z",
+  "confidence": "high",
+  "previousYear": {
+    "assetBookSize": 1257268461,
+    "segments": {
+      "housing": 55731372,
+      "personal": 0
+    },
+    "date": "2024-12-31"
+  }
+}

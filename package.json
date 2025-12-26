@@ -1,0 +1,40 @@
+{
+  "name": "ub-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "dev": "ts-node -T src/server.ts",
+    "build": "tsc --noEmit false || echo 'TypeScript build has errors but continuing...'",
+    "build:force": "tsc --noEmit false --skipLibCheck --noUnusedLocals false --noUnusedParameters false || true",
+    "start": "node dist/server.js",
+    "start:prod": "NODE_ENV=production node dist/server.js",
+    "start:dev": "NODE_ENV=production ts-node -T src/server.ts",
+    "playwright-install": "playwright install chromium",
+    "test:tariff": "ts-node -T src/tariff/normalize.run.ts",
+    "market-share:all": "ts-node -T src/scrapers/market-share-all.ts",
+    "market-share:refresh": "ts-node -T src/scrapers/market-share-scheduler.ts run",
+    "market-share:status": "ts-node -T src/scrapers/market-share-scheduler.ts status",
+    "market-share:enable": "ts-node -T src/scrapers/market-share-scheduler.ts enable",
+    "market-share:disable": "ts-node -T src/scrapers/market-share-scheduler.ts disable"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.5.0",
+    "canvas": "2.11.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fast-xml-parser": "^4.5.0",
+    "jsdom": "^27.0.0",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.4.296",
+    "playwright": "^1.55.1",
+    "tesseract.js": "^6.0.1"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "^24.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}

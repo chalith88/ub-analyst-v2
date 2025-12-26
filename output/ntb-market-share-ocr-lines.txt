@@ -1,0 +1,1117 @@
+[0] TRUST IN BETTER.
+[1] Interim Financial Statements Interim Financial Statements
+[2] For the nine months ended 30 September 2025
+[3] Company Registration Number: P Q 118
+[4] NATIONS TRUST BANK PLC
+[5] INCOME STATEMENT
+[6] Group Bank
+[7] Quarter ended 30 September Nine Months Ended 30 September Nine Months Ended 30 September Quarter ended 30 September
+[8] 2025 2024 Change 2025 2024 Change 2025 2024 Change 2025 2024 Change
+[9] L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%)
+[10] Gross I ncome 62, 747, 576 57, 527, 760 9 21, 869, 731 18, 339, 869 19 62, 924, 707 57, 692, 148 9 21, 927, 226 18, 385, 665 19
+[11] Interest Income 51,745,729 48,061,082 8 18,088,345 15,443,324 17 51,746,384 48,062,715 8 18,088,550 15,443,652 17
+[12] Less: Interest Expense (23,139,131) (21,603,093) (7) (8,368,513) (6,911,989) (21) (22,921,546) (21,423,437) (7) (8,300,087) (6,859,236) (21)
+[13] N et I nt erest I ncome 28, 606, 598 26, 457, 989 8 9, 719, 832 8, 531, 335 14 28, 824, 838 26, 639, 278 8 9, 788, 463 8, 584, 416 14
+[14] 
+[15] Fee and Commission Income 7,541,266 6,788,512 11 2,730,837 2,292,428 19 7,717,742 6,951,049 11 2,788,127 2,337,678 19
+[16] Less: Fee and Commission Expense (1,286,219) (1,047,781) (23) (452,979) (363,574) (25) (1,286,219) (1,047,781) (23) (452,979) (363,574) (25)
+[17] 
+[18] N et F ee and Commission I ncome 6, 255, 047 5, 740, 731 9 2, 277, 858 1, 928, 854 18 6, 431, 523 5, 903, 268 9 2, 335, 148 1, 974, 104 18
+[19] 
+[20] Net Gains/(Losses) from Trading 2,844,073 (2,968,798) 196 791,055 (942,371) 184 2,844,073 (2,968,798) 196 791,055 (942,371) 184
+[21] Net Fair Value Gains/(Losses) on Financial Assets at Fair
+[22] 
+[23] Value through Profit or Loss (746,004) (124,493) (499) (227,011) 59,071 (484) (746,004) (124,493) (499) (227,011) 59,071 (484)
+[24] Net Fair Value Gains/(Losses) on Financial Liabilities at
+[25] 
+[26] Fair Value through Profit or Loss
+[27] - - - - - - - - - - - -
+[28] Net Gains/(Losses) on Derecognition of Financial Assets at
+[29] 
+[30] Fair Value through Profit or Loss 1,692,301 1,376,139 23 333,309 (67,688) 592 1,692,301 1,376,139 23 333,309 (67,688) 592
+[31] Net Gains/(Losses) on Derecognition of Financial Assets at
+[32] Fair Value through Other Comprehensive Income 847,130 (142,458) 695 309,943 - 100 847,130 (142,458) 695 309,943 - 100
+[33] Net Gains/(Losses) on Derecognition of Financial Assets at
+[34] Amortised cost
+[35] - - - - - - - - - - - -
+[36] Net Other Operating Income/(Loss) (1,176,919) 4,537,776 (126) (156,747) 1,555,105 (110) (1,176,919) 4,537,994 (126) (156,747) 1,555,323 (110)
+[37] Total Operating Income 38,322,226 34,876,886 10 13,048,239 11,064,306 18 38,716,942 35,220,930 10 13,174,160 11,162,855 18
+[38] (355,670) 376,739 194 (945,205) (601,556) 57 (355,670) 376,739 194 (945,205) (601,556) 57
+[39] Impairment Charges/(Reversals)
+[40] Net Operating Income 38,677,896 34,500,147 12 13,993,444 11,665,862 20 39,072,612 34,844,191 12 14,119,365 11,764,411 20
+[41] Less: Operating Expenses
+[42] Personnel Expenses 6,855,999 6,094,069 (13) 2,537,811 2,160,337 (17) 6,884,122 6,118,827 (13) 2,547,271 2,168,664 (17)
+[43] Depreciation of Property, Plant and Equipment 188,755 147,126 (28) 80,106 49,979 (60) 230,563 179,926 (28) 94,036 60,911 (54)
+[44] Depreciation of Right of Use (ROU) Assets 441,430 358,096 (23) 148,062 116,803 (27) 309,484 290,201 (7) 104,066 94,172 (11)
+[45] Amortisation of Intangible Assets 233,518 254,779 8 81,807 81,209 (1) 233,623 254,872 8 81,842 81,240 (1)
+[46] Other Operating Expenses 4,188,460 4,006,828 (5) 1,341,147 1,126,256 (19) 4,218,873 4,023,845 (5) 1,353,300 1,132,920 (19)
+[47] Total Operating Expenses 11,908,162 10,860,898 (10) 4,188,933 3,534,584 (19) 11,876,665 10,867,671 (9) 4,180,515 3,537,907 (18)
+[48] Operating profit/(loss) before VAT & SSCL on
+[49] 26,769,734 23,639,249 13 9,804,511 8,131,278 21 27,195,947 23,976,520 13 9,938,850 8,226,504 21
+[50] financial services
+[51] Less: Value Added Tax (VAT) on financial services 4,632,498 4,406,097 (5) 1,488,994 1,519,781 2 4,633,973 4,407,701 (5) 1,489,493 1,520,313 2
+[52] Less: Social Security Contribution Levy (SSCL) on financial
+[53] services 651,649 619,521 (5) 209,517 213,974 2 651,649 619,521 (5) 209,517 213,974 2
+[54] Operating profit/(loss) after VAT & SSCL on
+[55] financial services
+[56] 21,485,587 18,613,631 15 8,106,000 6,397,523 27 21,910,325 18,949,298 16 8,239,840 6,492,217 27
+[57] Share of profits of associates and joint ventures - - - - - - - - - - - -
+[58] Profit / (loss) before Income Tax 21,485,587 18,613,631 15 8,106,000 6,397,523 27 21,910,325 18,949,298 16 8,239,840 6,492,217 27
+[59] Less: Income Tax Expense 6,868,802 6,666,094 (3) 2,079,665 2,318,333 10 6,999,629 6,782,074 (3) 2,121,843 2,350,808 10
+[60] Profit / (loss) for the Period 14,616,785 11,947,537 22 6,026,335 4,079,190 48 14,910,696 12,167,224 23 6,117,997 4,141,409 48
+[61] Profit Attributable to:
+[62] Equity Holders of the Bank 14,616,785 11,947,537 22 6,026,335 4,079,190 48 14,910,696 12,167,224 23 6,117,997 4,141,409 48
+[63] Non-Controlling Interest - - - - - - - - - - - -
+[64] Earnings per share on profit
+[65] Basic Earning Per Share (LKR) 44.21 36.13 22 18.23 12.34 48 45.10 36.80 23 18.50 12.53 48
+[66] Diluted earnings per ordinary share (LKR) 44.21 36.13 22 18.23 12.34 48 45.10 36.80 23 18.50 12.53 48
+[67] Classification: Internal
+[68] NATIONS TRUST BANK PLC
+[69] INCOME STATEMENT
+[70] Group Bank
+[71] Quarter ended 30 September Nine Months Ended 30 September Nine Months Ended 30 September Quarter ended 30 September
+[72] 2025 2024 Change 2025 2024 Change 2025 2024 Change 2025 2024 Change
+[73] L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%)
+[74] Gross I ncome 62, 747, 576 57, 527, 760 9 21, 869, 731 18, 339, 869 19 62, 924, 707 57, 692, 148 9 21, 927, 226 18, 385, 665 19
+[75] Interest Income 51,745,729 48,061,082 8 18,088,345 15,443,324 17 51,746,384 48,062,715 8 18,088,550 15,443,652 17
+[76] Less: Interest Expense (23,139,131) (21,603,093) (7) (8,368,513) (6,911,989) (21) (22,921,546) (21,423,437) (7) (8,300,087) (6,859,236) (21)
+[77] N et I nt erest I ncome 28, 606, 598 26, 457, 989 8 9, 719, 832 8, 531, 335 14 28, 824, 838 26, 639, 278 8 9, 788, 463 8, 584, 416 14
+[78] Fee and Commission Income 7,541,266 6,788,512 11 2,730,837 2,292,428 19 7,717,742 6,951,049 11 2,788,127 2,337,678 19
+[79] Less: Fee and Commission Expense (1,286,219) (1,047,781) (23) (452,979) (363,574) (25) (1,286,219) (1,047,781) (23) (452,979) (363,574) (25)
+[80] N et F ee and Commission I ncome 6, 255, 047 5, 740, 731 9 2, 277, 858 1, 928, 854 18 6, 431, 523 5, 903, 268 9 2, 335, 148 1, 974, 104 18
+[81] Net Gains/(Losses) from Trading 2,844,073 (2,968,798) 196 791,055 (942,371) 184 2,844,073 (2,968,798) 196 791,055 (942,371) 184
+[82] Net Fair Value Gains/(Losses) on Financial Assets at Fair
+[83] Value through Profit or Loss (746,004) (124,493) (499) (227,011) 59,071 (484) (746,004) (124,493) (499) (227,011) 59,071 (484)
+[84] Net Fair Value Gains/(Losses) on Financial Liabilities at
+[85] Fair Value through Profit or Loss
+[86] - - - - - - - - - - - -
+[87] Net Gains/(Losses) on Derecognition of Financial Assets at
+[88] Fair Value through Profit or Loss 1,692,301 1,376,139 23 333,309 (67,688) 592 1,692,301 1,376,139 23 333,309 (67,688) 592
+[89] Net Gains/(Losses) on Derecognition of Financial Assets at
+[90] Fair Value through Other Comprehensive Income 847,130 (142,458) 695 309,943 - 100 847,130 (142,458) 695 309,943 - 100
+[91] Net Gains/(Losses) on Derecognition of Financial Assets at
+[92] Amortised cost
+[93] - - - - - - - - - - - -
+[94] Net Other Operating Income/(Loss) (1,176,919) 4,537,776 (126) (156,747) 1,555,105 (110) (1,176,919) 4,537,994 (126) (156,747) 1,555,323 (110)
+[95] Total Operating Income 38,322,226 34,876,886 10 13,048,239 11,064,306 18 38,716,942 35,220,930 10 13,174,160 11,162,855 18
+[96] (355,670) 376,739 194 (945,205) (601,556) 57 (355,670) 376,739 194 (945,205) (601,556) 57
+[97] Impairment Charges/(Reversals)
+[98] Net Operating Income 38,677,896 34,500,147 12 13,993,444 11,665,862 20 39,072,612 34,844,191 12 14,119,365 11,764,411 20
+[99] Less: Operating Expenses
+[100] Personnel Expenses 6,855,999 6,094,069 (13) 2,537,811 2,160,337 (17) 6,884,122 6,118,827 (13) 2,547,271 2,168,664 (17)
+[101] Depreciation of Property, Plant and Equipment 188,755 147,126 (28) 80,106 49,979 (60) 230,563 179,926 (28) 94,036 60,911 (54)
+[102] Depreciation of Right of Use (ROU) Assets 441,430 358,096 (23) 148,062 116,803 (27) 309,484 290,201 (7) 104,066 94,172 (11)
+[103] Amortisation of Intangible Assets 233,518 254,779 8 81,807 81,209 (1) 233,623 254,872 8 81,842 81,240 (1)
+[104] Other Operating Expenses 4,188,460 4,006,828 (5) 1,341,147 1,126,256 (19) 4,218,873 4,023,845 (5) 1,353,300 1,132,920 (19)
+[105] Total Operating Expenses 11,908,162 10,860,898 (10) 4,188,933 3,534,584 (19) 11,876,665 10,867,671 (9) 4,180,515 3,537,907 (18)
+[106] Operating profit/(loss) before VAT & SSCL on
+[107] 26,769,734 23,639,249 13 9,804,511 8,131,278 21 27,195,947 23,976,520 13 9,938,850 8,226,504 21
+[108] financial services
+[109] Less: Value Added Tax (VAT) on financial services 4,632,498 4,406,097 (5) 1,488,994 1,519,781 2 4,633,973 4,407,701 (5) 1,489,493 1,520,313 2
+[110] Less: Social Security Contribution Levy (SSCL) on financial
+[111] services 651,649 619,521 (5) 209,517 213,974 2 651,649 619,521 (5) 209,517 213,974 2
+[112] Operating profit/(loss) after VAT & SSCL on
+[113] financial services
+[114] 21,485,587 18,613,631 15 8,106,000 6,397,523 27 21,910,325 18,949,298 16 8,239,840 6,492,217 27
+[115] Share of profits of associates and joint ventures - - - - - - - - - - - -
+[116] Profit / (loss) before Income Tax 21,485,587 18,613,631 15 8,106,000 6,397,523 27 21,910,325 18,949,298 16 8,239,840 6,492,217 27
+[117] Less: Income Tax Expense 6,868,802 6,666,094 (3) 2,079,665 2,318,333 10 6,999,629 6,782,074 (3) 2,121,843 2,350,808 10
+[118] Profit / (loss) for the Period 14,616,785 11,947,537 22 6,026,335 4,079,190 48 14,910,696 12,167,224 23 6,117,997 4,141,409 48
+[119] Profit Attributable to:
+[120] Equity Holders of the Bank 14,616,785 11,947,537 22 6,026,335 4,079,190 48 14,910,696 12,167,224 23 6,117,997 4,141,409 48
+[121] Non-Controlling Interest - - - - - - - - - - - -
+[122] Earnings per share on profit
+[123] Basic Earning Per Share (LKR) 44.21 36.13 22 18.23 12.34 48 45.10 36.80 23 18.50 12.53 48
+[124] Diluted earnings per ordinary share (LKR) 44.21 36.13 22 18.23 12.34 48 45.10 36.80 23 18.50 12.53 48
+[125] Classification: Internal
+[126] NATIONS TRUST BANK PLC
+[127] INCOME STATEMENT
+[128] NATIONS TRUST BANK PLC
+[129] Group Bank
+[130] INCOME STATEMENT
+[131] Quarter ended 30 September Nine Months Ended 30 September Nine Months Ended 30 September Quarter ended 30 September
+[132] 2025 2024 2025 2024 2025 2024 2025 2024
+[133] Change Change Change Change
+[134] Group Bank
+[135] L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%)
+[136] Quarter ended 30 September Nine Months Ended 30 September Nine Months Ended 30 September Quarter ended 30 September
+[137] 2025 2024 2025 2024 2025 2024 2025 2024
+[138] Change Change Change Change
+[139] Gross I ncome 62, 747, 576 57, 527, 760 9 21, 869, 731 18, 339, 869 19 62, 924, 707 57, 692, 148 9 21, 927, 226 18, 385, 665 19
+[140] L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%)
+[141] Interest Income 51,745,729 48,061,082 8 18,088,345 15,443,324 17 51,746,384 48,062,715 8 18,088,550 15,443,652 17
+[142] Gross I ncome 62, 747, 576 57, 527, 760 9 21, 869, 731 18, 339, 869 19 62, 924, 707 57, 692, 148 9 21, 927, 226 18, 385, 665 19
+[143] Less: Interest Expense (23,139,131) (21,603,093) (7) (8,368,513) (6,911,989) (21) (22,921,546) (21,423,437) (7) (8,300,087) (6,859,236) (21)
+[144] N et I nt erest I ncome 28, 606, 598 26, 457, 989 8 9, 719, 832 8, 531, 335 14 28, 824, 838 26, 639, 278 8 9, 788, 463 8, 584, 416 14
+[145] Interest Income 51,745,729 48,061,082 8 18,088,345 15,443,324 17 51,746,384 48,062,715 8 18,088,550 15,443,652 17
+[146] Less: Interest Expense (23,139,131) (21,603,093) (7) (8,368,513) (6,911,989) (21) (22,921,546) (21,423,437) (7) (8,300,087) (6,859,236) (21)
+[147] Fee and Commission Income 7,541,266 6,788,512 11 2,730,837 2,292,428 19 7,717,742 6,951,049 11 2,788,127 2,337,678 19
+[148] N et I nt erest I ncome 28, 606, 598 26, 457, 989 8 9, 719, 832 8, 531, 335 14 28, 824, 838 26, 639, 278 8 9, 788, 463 8, 584, 416 14
+[149] Less: Fee and Commission Expense (1,286,219) (1,047,781) (23) (452,979) (363,574) (25) (1,286,219) (1,047,781) (23) (452,979) (363,574) (25)
+[150] N et F ee and Commission I ncome 6, 255, 047 5, 740, 731 9 2, 277, 858 1, 928, 854 18 6, 431, 523 5, 903, 268 9 2, 335, 148 1, 974, 104 18
+[151] Fee and Commission Income 7,541,266 6,788,512 11 2,730,837 2,292,428 19 7,717,742 6,951,049 11 2,788,127 2,337,678 19
+[152] Less: Fee and Commission Expense (1,286,219) (1,047,781) (23) (452,979) (363,574) (25) (1,286,219) (1,047,781) (23) (452,979) (363,574) (25)
+[153] Net Gains/(Losses) from Trading 2,844,073 (2,968,798) 196 791,055 (942,371) 184 2,844,073 (2,968,798) 196 791,055 (942,371) 184
+[154] N et F ee and Commission I ncome 6, 255, 047 5, 740, 731 9 2, 277, 858 1, 928, 854 18 6, 431, 523 5, 903, 268 9 2, 335, 148 1, 974, 104 18
+[155] Net Fair Value Gains/(Losses) on Financial Assets at Fair
+[156] Value through Profit or Loss
+[157] (746,004) (124,493) (499) (227,011) 59,071 (484) (746,004) (124,493) (499) (227,011) 59,071 (484)
+[158] Net Gains/(Losses) from Trading 2,844,073 (2,968,798) 196 791,055 (942,371) 184 2,844,073 (2,968,798) 196 791,055 (942,371) 184
+[159] Net Fair Value Gains/(Losses) on Financial Liabilities at
+[160] Net Fair Value Gains/(Losses) on Financial Assets at Fair
+[161] Fair Value through Profit or Loss - - - - - - - - - - - -
+[162] Value through Profit or Loss
+[163] (746,004) (124,493) (499) (227,011) 59,071 (484) (746,004) (124,493) (499) (227,011) 59,071 (484)
+[164] Net Gains/(Losses) on Derecognition of Financial Assets at
+[165] Net Fair Value Gains/(Losses) on Financial Liabilities at
+[166] Fair Value through Profit or Loss
+[167] 1,692,301 1,376,139 23 333,309 (67,688) 592 1,692,301 1,376,139 23 333,309 (67,688) 592
+[168] Fair Value through Profit or Loss - - - - - - - - - - - -
+[169] Net Gains/(Losses) on Derecognition of Financial Assets at
+[170] Net Gains/(Losses) on Derecognition of Financial Assets at
+[171] Fair Value through Profit or Loss
+[172] 1,692,301 1,376,139 23 333,309 (67,688) 592 1,692,301 1,376,139 23 333,309 (67,688) 592
+[173] Fair Value through Other Comprehensive Income
+[174] 847,130 (142,458) 695 309,943 - 100 847,130 (142,458) 695 309,943 - 100
+[175] Net Gains/(Losses) on Derecognition of Financial Assets at
+[176] Net Gains/(Losses) on Derecognition of Financial Assets at
+[177] Fair Value through Other Comprehensive Income 847,130 (142,458) 695 309,943 - 100 847,130 (142,458) 695 309,943 - 100
+[178] Amortised cost - - - - - - - - - - - -
+[179] Net Gains/(Losses) on Derecognition of Financial Assets at
+[180] Net Other Operating Income/(Loss) (1,176,919) 4,537,776 (126) (156,747) 1,555,105 (110) (1,176,919) 4,537,994 (126) (156,747) 1,555,323 (110)
+[181] Amortised cost - - - - - - - - - - - -
+[182] Total Operating Income 38,322,226 34,876,886 10 13,048,239 11,064,306 18 38,716,942 35,220,930 10 13,174,160 11,162,855 18
+[183] Net Other Operating Income/(Loss) (1,176,919) 4,537,776 (126) (156,747) 1,555,105 (110) (1,176,919) 4,537,994 (126) (156,747) 1,555,323 (110)
+[184] Total Operating Income 38,322,226 34,876,886 10 13,048,239 11,064,306 18 38,716,942 35,220,930 10 13,174,160 11,162,855 18
+[185] Impairment Charges/(Reversals) (355,670) 376,739 194 (945,205) (601,556) 57 (355,670) 376,739 194 (945,205) (601,556) 57
+[186] Net Operating Income 38,677,896 34,500,147 12 13,993,444 11,665,862 20 39,072,612 34,844,191 12 14,119,365 11,764,411 20
+[187] Impairment Charges/(Reversals) (355,670) 376,739 194 (945,205) (601,556) 57 (355,670) 376,739 194 (945,205) (601,556) 57
+[188] Net Operating Income 38,677,896 34,500,147 12 13,993,444 11,665,862 20 39,072,612 34,844,191 12 14,119,365 11,764,411 20
+[189] Less: Operating Expenses
+[190] Personnel Expenses 6,855,999 6,094,069 (13) 2,537,811 2,160,337 (17) 6,884,122 6,118,827 (13) 2,547,271 2,168,664 (17)
+[191] Less: Operating Expenses
+[192] Depreciation of Property, Plant and Equipment 188,755 147,126 (28) 80,106 49,979 (60) 230,563 179,926 (28) 94,036 60,911 (54)
+[193] Personnel Expenses 6,855,999 6,094,069 (13) 2,537,811 2,160,337 (17) 6,884,122 6,118,827 (13) 2,547,271 2,168,664 (17)
+[194] Depreciation of Right of Use (ROU) Assets 441,430 358,096 (23) 148,062 116,803 (27) 309,484 290,201 (7) 104,066 94,172 (11)
+[195] Depreciation of Property, Plant and Equipment 188,755 147,126 (28) 80,106 49,979 (60) 230,563 179,926 (28) 94,036 60,911 (54)
+[196] Amortisation of Intangible Assets 233,518 254,779 8 81,807 81,209 (1) 233,623 254,872 8 81,842 81,240 (1)
+[197] Depreciation of Right of Use (ROU) Assets 441,430 358,096 (23) 148,062 116,803 (27) 309,484 290,201 (7) 104,066 94,172 (11)
+[198] Other Operating Expenses 4,188,460 4,006,828 (5) 1,341,147 1,126,256 (19) 4,218,873 4,023,845 (5) 1,353,300 1,132,920 (19)
+[199] Amortisation of Intangible Assets 233,518 254,779 8 81,807 81,209 (1) 233,623 254,872 8 81,842 81,240 (1)
+[200] Total Operating Expenses 11,908,162 10,860,898 (10) 4,188,933 3,534,584 (19) 11,876,665 10,867,671 (9) 4,180,515 3,537,907 (18)
+[201] Other Operating Expenses 4,188,460 4,006,828 (5) 1,341,147 1,126,256 (19) 4,218,873 4,023,845 (5) 1,353,300 1,132,920 (19)
+[202] Total Operating Expenses 11,908,162 10,860,898 (10) 4,188,933 3,534,584 (19) 11,876,665 10,867,671 (9) 4,180,515 3,537,907 (18)
+[203] Operating profit/(loss) before VAT & SSCL on
+[204] 26,769,734 23,639,249 13 9,804,511 8,131,278 21 27,195,947 23,976,520 13 9,938,850 8,226,504 21
+[205] financial services
+[206] Operating profit/(loss) before VAT & SSCL on
+[207] 26,769,734 23,639,249 13 9,804,511 8,131,278 21 27,195,947 23,976,520 13 9,938,850 8,226,504 21
+[208] financial services
+[209] Less: Value Added Tax (VAT) on financial services 4,632,498 4,406,097 (5) 1,488,994 1,519,781 2 4,633,973 4,407,701 (5) 1,489,493 1,520,313 2
+[210] Less: Social Security Contribution Levy (SSCL) on financial
+[211] Less: Value Added Tax (VAT) on financial services 4,632,498 4,406,097 (5) 1,488,994 1,519,781 2 4,633,973 4,407,701 (5) 1,489,493 1,520,313 2
+[212] services
+[213] 651,649 619,521 (5) 209,517 213,974 2 651,649 619,521 (5) 209,517 213,974 2
+[214] Less: Social Security Contribution Levy (SSCL) on financial
+[215] services
+[216] 651,649 619,521 (5) 209,517 213,974 2 651,649 619,521 (5) 209,517 213,974 2
+[217] Operating profit/(loss) after VAT & SSCL on
+[218] financial services 21,485,587 18,613,631 15 8,106,000 6,397,523 27 21,910,325 18,949,298 16 8,239,840 6,492,217 27
+[219] Operating profit/(loss) after VAT & SSCL on
+[220] Share of profits of associates and joint ventures - - - - - - - - - - - -
+[221] financial services 21,485,587 18,613,631 15 8,106,000 6,397,523 27 21,910,325 18,949,298 16 8,239,840 6,492,217 27
+[222] Share of profits of associates and joint ventures - - - - - - - - - - - -
+[223] Profit / (loss) before Income Tax 21,485,587 18,613,631 15 8,106,000 6,397,523 27 21,910,325 18,949,298 16 8,239,840 6,492,217 27
+[224] Profit / (loss) before Income Tax 21,485,587 18,613,631 15 8,106,000 6,397,523 27 21,910,325 18,949,298 16 8,239,840 6,492,217 27
+[225] Less: Income Tax Expense 6,868,802 6,666,094 (3) 2,079,665 2,318,333 10 6,999,629 6,782,074 (3) 2,121,843 2,350,808 10
+[226] Less: Income Tax Expense 6,868,802 6,666,094 (3) 2,079,665 2,318,333 10 6,999,629 6,782,074 (3) 2,121,843 2,350,808 10
+[227] Profit / (loss) for the Period 14,616,785 11,947,537 22 6,026,335 4,079,190 48 14,910,696 12,167,224 23 6,117,997 4,141,409 48
+[228] Profit / (loss) for the Period 14,616,785 11,947,537 22 6,026,335 4,079,190 48 14,910,696 12,167,224 23 6,117,997 4,141,409 48
+[229] Profit Attributable to:
+[230] Equity Holders of the Bank 14,616,785 11,947,537 22 6,026,335 4,079,190 48 14,910,696 12,167,224 23 6,117,997 4,141,409 48
+[231] Profit Attributable to:
+[232] Non-Controlling Interest - - - - - - - - - - - -
+[233] Equity Holders of the Bank 14,616,785 11,947,537 22 6,026,335 4,079,190 48 14,910,696 12,167,224 23 6,117,997 4,141,409 48
+[234] Non-Controlling Interest - - - - - - - - - - - -
+[235] Earnings per share on profit
+[236] Basic Earning Per Share (LKR) 44.21 36.13 22 18.23 12.34 48 45.10 36.80 23 18.50 12.53 48
+[237] Earnings per share on profit
+[238] Diluted earnings per ordinary share (LKR) 44.21 36.13 22 18.23 12.34 48 45.10 36.80 23 18.50 12.53 48
+[239] Basic Earning Per Share (LKR) 44.21 36.13 22 18.23 12.34 48 45.10 36.80 23 18.50 12.53 48
+[240] Diluted earnings per ordinary share (LKR) 44.21 36.13 22 18.23 12.34 48 45.10 36.80 23 18.50 12.53 48
+[241] NATIONS TRUST BANK PLC
+[242] STATEMENT OF COMPREHENSIVE INCOME
+[243] Bank Group
+[244] Nine Months Ended 30 September Nine Months Ended 30 September Quarter ended 30 September Quarter ended 30 September
+[245] 2025 2024 Change 2025 2024 Change 2025 2024 Change 2025 2024 Change
+[246] L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000
+[247] (%) (%) (%) (%)
+[248] Profit for t he Period 14, 616, 785 11, 947, 537 22 6, 026, 335 4, 079, 190 48 14, 910, 696 12, 167, 224 23 6, 117, 997 4, 141, 409 48
+[249] Other Comprehensive Income/(Expense) that will be Reclassified to Profit or Loss
+[250] in Subsequent Periods;
+[251] Exchange differences on translation of foreign operations - - - - - - - - - - - -
+[252] Net gains/(losses) on cash flow hedges - - - - - - - - - - - -
+[253] Share of profits of associates and joint ventures - - - - - - - - - - - -
+[254] Net gains/(losses) on investments in debt instruments measured at fair value
+[255] through other comprehensive income 268,186 (237,606) 213 (1,474,612) (1,389,108) (6) 268,186 (237,606) 213 (1,474,612) (1,389,108) (6)
+[256] Less: Tax (Expenses) / Reversal relating to items that will be reclassified to income
+[257] statement
+[258] (80,456) 71,282 (213) 442,384 416,732 6 (80,456) 71,282 (213) 442,384 416,732 6
+[259] 187,730 (166,324) 213 (1,032,228) (972,376) (6) 187,730 (166,324) 213 (1,032,228) (972,376) (6)
+[260] Other Comprehensive Income/(Expense) that will not be Reclassified to Profit or
+[261] Loss in Subsequent Periods:
+[262] Change in fair value on investments in equity instruments designated at fair value
+[263] through other comprehensive income - - - - - - - - - - - -
+[264] Change in fair value attributable to change in the Bank’s own credit risk on
+[265] financial liabilities designated at fair value through profit or loss - - - - - - - - - - - -
+[266] Re-measurement of Post Employment Benefit Obligations - - - - - - - - - - - -
+[267] Changes in revaluation surplus - - - - - - - - - - - -
+[268] Share of profits of associates and joint ventures - - - - - - - - - - - -
+[269] Less: Tax Expenses Related to the items that will not be reclassified to income
+[270] statement
+[271] - - - - - - - - - - - -
+[272] - - - - - - - - - - - -
+[273] Other Comprehensive Income for the Period, Net of Tax 187,730 (166,324) 213 (1,032,228) (972,376) (6) 187,730 (166,324) 213 (1,032,228) (972,376) (6)
+[274] Total Comprehensive Income for the Period, Net of Tax 14,804,515 11,781,213 26 4,994,107 3,106,814 61 15,098,426 12,000,900 26 5,085,769 3,169,033 60
+[275] Attributable to:
+[276] Equity Holders of the Bank 14,804,515 11,781,213 26 4,994,107 3,106,814 61 15,098,426 12,000,900 26 5,085,769 3,169,033 60
+[277] Non-Controlling Interest - - - - - - - - - - - -
+[278] N A T I ON S T RUST BA N K PL C
+[279] ST A T E M E N T OF F I N A N CI A L POSI T I ON
+[280] N A T I ON S T RUST BA N K PL C
+[281] ST A T E M E N T OF F I N A N CI A L POSI T I ON
+[282] Bank Group
+[283] As at 30.09.2025 31.12.2024 Change 30.09.2025 31.12.2024 Change
+[284] Bank Group
+[285] L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%)
+[286] A s at 30.09.2025 31.12.2024 Change 30.09.2025 31.12.2024 Change
+[287] (Audited) (Audited)
+[288] L K R ' 000 L K R ' 000 (%) L K R ' 000 L K R ' 000 (%)
+[289] ASSETS
+[290] (Audited) (Audited)
+[291] ASSETS
+[292] 19,773,816 20,814,294 19,773,819 20,814,297 (5)
+[293] Cash and Cash Equivalents (5)
+[294] Balances with Central Bank of Sri Lanka 838,410 1,183,473 (29) 838,410 1,183,473 (29)
+[295] 19,773,816 20,814,294 19,773,819 20,814,297 (5)
+[296] Cash and Cash Equivalents (5)
+[297] Placements with banks 1,139,183 2,472,925 (54) 1,139,183 2,472,925 (54)
+[298] Balances with Central Bank of Sri Lanka 838,410 1,183,473 (29) 838,410 1,183,473 (29)
+[299] 456,907 2,389,147 456,907 2,389,147 (81)
+[300] Reverse Repurchase Agreements (81)
+[301] Placements with banks 1,139,183 2,472,925 (54) 1,139,183 2,472,925 (54)
+[302] Derivative Financial Instruments 510,891 224,298 128 510,891 224,298 128
+[303] Reverse Repurchase Agreements 456,907 2,389,147 (81) 456,907 2,389,147 (81)
+[304] Financial Assets Recognised through Profit or Loss - Measured at Fair Value 17,496,135 17,194,759 2 17,496,135 17,194,759 2
+[305] Derivative Financial Instruments 510,891 224,298 128 510,891 224,298 128
+[306] - - - - -
+[307] Financial Assets Recognised through Profit or Loss - Designated at Fair Value -
+[308] Financial Assets Recognised through Profit or Loss - Measured at Fair Value 17,496,135 17,194,759 2 17,496,135 17,194,759 2
+[309] 135,034,659 135,034,659 107,014,877 26
+[310] Financial Assets at Fair Value through Other Comprehensive Income 107,014,877 26
+[311] Financial Assets Recognised through Profit or Loss - Designated at Fair Value - - - - - -
+[312] Financial Assets at Amortised Cost - Debt Instruments 86,994,994 96,796,064 (10) 86,994,994 96,796,064 (10)
+[313] Financial Assets at Fair Value through Other Comprehensive Income 135,034,659 107,014,877 26 135,034,659 107,014,877 26
+[314] Financial Assets at Amortised Cost - Loans and Advances 417,906,579 287,362,553 45 417,906,579 287,362,553 45 86,994,994 86,994,994 96,796,064 (10)
+[315] Financial Assets at Amortised Cost - Debt Instruments 96,796,064 (10)
+[316] 2,020,460 2,484,475 2,036,753 2,493,084 (18)
+[317] Other Assets (19)
+[318] Financial Assets at Amortised Cost - Loans and Advances 417,906,579 287,362,553 45 417,906,579 287,362,553 45
+[319] 678,710 678,710 - - - -
+[320] Investments in Subsidiaries 2,020,460 2,484,475 2,036,753 2,493,084 (18)
+[321] Other Assets (19)
+[322] Investments in associates and joint ventures - - - - - -
+[323] 678,710 678,710 - - - -
+[324] Investments in Subsidiaries
+[325] Property, Plant & Equipment 3,882,606 3,018,207 29 4,905,785 4,083,195 20
+[326] Investments in associates and joint ventures - - - - - -
+[327] - - - - -
+[328] Investment properties - 3,882,606 3,018,207 4,905,785 4,083,195 20
+[329] Property, Plant & Equipment 29
+[330] 2,389,960 1,284,457 1,904,030 1,284,746 48
+[331] Right of Use (ROU) Assets 86 Investment properties - - - - - -
+[332] Goodwill & Intangible Assets 1,406,742 1,408,451 (0) 1,407,114 1,408,927 (0) 2,389,960 1,284,457 1,904,030 1,284,746 48
+[333] Right of Use (ROU) Assets 86
+[334] 1,001,431 1,114,316 751,967 863,450 (13)
+[335] Deferred Tax Assets (10) Goodwill & Intangible Assets 1,406,742 1,408,451 (0) 1,407,114 1,408,927 (0)
+[336] 27 27 1,001,431 1,114,316 751,967 863,450 (13)
+[337] T ot al A sset s 691, 531, 483 545, 441, 006 691, 157, 226 545, 585, 795 Deferred Tax Assets (10)
+[338] 27 27
+[339] T ot al A sset s 691, 531, 483 545, 441, 006 691, 157, 226 545, 585, 795
+[340] L I A BI L I T I E S
+[341] L I A BI L I T I E S
+[342] 71,372,297 27,403,357 160 71,372,297 27,403,357 160
+[343] Due to Banks
+[344] 71,372,297 27,403,357 160 71,372,297 27,403,357 160
+[345] Due to Banks
+[346] Derivative Financial Instruments 55,067 372,084 (85) 55,067 372,084 (85)
+[347] Derivative Financial Instruments 55,067 372,084 (85) 55,067 372,084 (85)
+[348] Financial Liabilities Recognised through Profit or Loss - Measured at Fair Value - - - - - -
+[349] - - - -
+[350] Financial Liabilities Recognised through Profit or Loss - Measured at Fair Value - -
+[351] - - - -
+[352] Financial Liabilities Recognised through Profit or Loss - Designated at Fair Value - -
+[353] Financial Liabilities Recognised through Profit or Loss - Designated at Fair Value - - - - - -
+[354] Financial Liabilities at Amortised Cost
+[355] Financial Liabilities at Amortised Cost
+[356] Due to Depositors 466,088,214 384,784,916 21 465,736,801 384,655,365 21
+[357] Due to Depositors 466,088,214 384,784,916 21 465,736,801 384,655,365 21
+[358] Due to debt securities holders - Repurchase Agreements 25,477,075 21,985,170 16 22,955,398 19,528,900 18
+[359] Due to debt securities holders - Repurchase Agreements 25,477,075 21,985,170 16 22,955,398 19,528,900 18
+[360] Due to Other Borrowers 10,636,118 9,111,275 17 10,131,338 9,118,377 11
+[361] Due to Other Borrowers 10,636,118 9,111,275 17 10,131,338 9,118,377 11
+[362] Debt Securities Issued 6,055,342 5,979,693 1 6,055,342 5,979,693 1
+[363] Debt Securities Issued 6,055,342 5,979,693 1 6,055,342 5,979,693 1
+[364] Retirement Benefit Obligations 1,643,481 1,457,883 13 1,656,503 1,469,319 13
+[365] Retirement Benefit Obligations 1,643,481 1,457,883 13 1,656,503 1,469,319 13
+[366] 6,211,158 4,590,390 35 6,281,081 4,640,244 35
+[367] Current Tax Liabilities
+[368] Current Tax Liabilities 6,211,158 4,590,390 35 6,281,081 4,640,244 35
+[369] Due to subsidiaries - - - - - -
+[370] Due to subsidiaries - - - - - -
+[371] Other Liabilities 13,520,848 12,869,931 5 13,556,837 12,941,381 5
+[372] Other Liabilities 13,520,848 12,869,931 5 13,556,837 12,941,381 5
+[373] T ot al L iabil it ies 601, 059, 600 468, 554, 699 28 597, 800, 664 466, 108, 720 28
+[374] T ot al L iabil it ies 601, 059, 600 468, 554, 699 28 597, 800, 664 466, 108, 720 28
+[375] E QUI T Y
+[376] E QUI T Y
+[377] 13,007,641 12,106,272 7 13,007,641 12,106,272 7
+[378] Stated Capital
+[379] 13,007,641 12,106,272 7 13,007,641 12,106,272 7
+[380] Stated Capital
+[381] 3,610,418 3,610,418 - 3,610,418 3,610,418 -
+[382] Statutory Reserve Fund
+[383] 3,610,418 3,610,418 - 3,610,418 3,610,418 -
+[384] Statutory Reserve Fund
+[385] Retained Earnings 66,403,633 53,907,156 23 68,706,919 55,916,531 23
+[386] Retained Earnings 66,403,633 53,907,156 23 68,706,919 55,916,531 23
+[387] OCI Reserve 6,389,451 6,201,721 3 6,389,451 6,201,721 3
+[388] 6,389,451 6,201,721 3 6,389,451 6,201,721 3
+[389] OCI Reserve
+[390] 1,060,740 1,060,740 - 1,642,133 1,642,133 -
+[391] Revaluation Reserve
+[392] Revaluation Reserve 1,060,740 1,060,740 - 1,642,133 1,642,133 -
+[393] 90, 471, 883 76, 886, 307 18 93, 356, 562 79, 477, 075 17
+[394] T ot al Sharehol ders' E quit y
+[395] 90, 471, 883 76, 886, 307 18 93, 356, 562 79, 477, 075 17
+[396] T ot al Sharehol ders' E quit y
+[397] N on- cont rol l ing int erest s - - - - - -
+[398] N on- cont rol l ing int erest s - - - - - -
+[399] 27 27
+[400] T ot al E quit y and L iabil it ies 691, 531, 483 545, 441, 006 691, 157, 226 545, 585, 795
+[401] 27 27
+[402] T ot al E quit y and L iabil it ies 691, 531, 483 545, 441, 006 691, 157, 226 545, 585, 795
+[403] 15 15
+[404] Cont ingent L iabil it ies and Commit ment s 466, 217, 777 405, 421, 234 466, 217, 777 405, 421, 234
+[405] 15 15
+[406] Cont ingent L iabil it ies and Commit ment s 466, 217, 777 405, 421, 234 466, 217, 777 405, 421, 234
+[407] M emorandum I nformat ion
+[408] M emorandum I nformat ion
+[409] 2,455 2,473
+[410] Number of Employees 2,483 2,501
+[411] 2,455 2,473
+[412] Number of Employees 2,483 2,501
+[413] 95 95
+[414] Number of Branches 91 91
+[415] 95 95
+[416] Number of Branches 91 91
+[417] Number of Off-Site ATMs and CRMs 23 22 23 22
+[418] Number of Off-Site ATMs and CRMs 23 22 23 22
+[419] Note: Amounts stated are net of impairment and depreciation.
+[420] Note: Amounts stated are net of impairment and depreciation.
+[421] CE RT I F I CA T I ON :
+[422] CE RT I F I CA T I ON :
+[423] I certify that these financial statements comply with the requirements of the Companies Act No. 07 of 2007.
+[424] I certify that these financial statements comply with the requirements of the Companies Act No. 07 of 2007.
+[425] Signed
+[426] Kushlani Allis
+[427] Kushlani Allis
+[428] Chief Financial Officer Chief Financial Officer
+[429] We, the undersigned being the Chairperson, Director and Executive Director/Chief Executive Officer of Nations Trust Bank PLC certify jointly that:
+[430] We, the undersigned being the Chairperson, Director and Executive Director/Chief Executive Officer of Nations Trust Bank PLC certify jointly that:
+[431] (a) the above financial statements have been prepared in compliance with the format and definitions prescribed by the Central Bank of Sri Lanka; (a) the above financial statements have been prepared in compliance with the format and definitions prescribed by the Central Bank of Sri Lanka;
+[432] (b) the information contained in these financial statements has been extracted from the unaudited financial statements of the Bank and the Group, unless indicated as audited.
+[433] (b) the information contained in these financial statements has been extracted from the unaudited financial statements of the Bank and the Group, unless indicated as audited.
+[434] Signed Signed Signed
+[435] Sherin Cader Coralie Pietersz Hemantha D Gunetilleke
+[436] Sherin Cader Coralie Pietersz Hemantha D Gunetilleke
+[437] Chairperson Executive Director/Chief Executive Officer Director
+[438] Chairperson Executive Director/Chief Executive Officer Director
+[439] 13 November 2025
+[440] ….. November 2025
+[441] Colombo
+[442] Colombo
+[443] 11,426,881,946 (557)
+[444] 12,106,279,922.84 (556.55)
+[445] NATIONS TRUST BANK PLC
+[446] STATEMENT OF CHANGES IN EQUITY
+[447] Stated Capital Retained Earnings Revaluation OCI Reserve Statutory Reserve Total
+[448] BANK
+[449] Reserve Fund
+[450] Voting
+[451] Non-Voting
+[452] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[453] As at 01 January 2024 8,053,768 3,373,114 2,783,805 39,879,971 3,908,263 946,133 58,945,054
+[454] Total Comprehensive Income for the Period
+[455] Profit/(loss) for the year (net of tax) - - - 11,947,537 - - 11,947,537
+[456] Other Comprehensive Income (net of tax) - - - - (166,324) - (166,324)
+[457] Total Comprehensive Income for the Period - - - 11,947,537 (166,324) - 11,781,213
+[458] Transactions with Equity Holders, Recognised Directly in Equity
+[459] Share issue/increase of assigned capital - - - - - - -
+[460] Share options exercised - - - - - - -
+[461] Bonus issue - - - - - - -
+[462] Rights issue - - - - - - -
+[463] Profit transferred to head office - - - - - - -
+[464] Gain/(loss) on revaluation of Property, Plant and
+[465] Equipment (if cost method is adopted) - - - - - - -
+[466] Dividend paid for 2023 587,210 92,188 - (1,597,825) - - (918,427)
+[467] Fractions of shares paid in cash for 2023 - - - (284) - - (284)
+[468] Conversion of Non-Voting Shares to Voting Shares 1,038 (1,038) - - - - -
+[469] Transfers to the Statutory Reserve Fund - - - - - - -
+[470] As at 30 September 2024 8,642,016 3,464,264 2,783,805 50,229,399 3,741,939 946,133 69,807,556
+[471] As at 01 January 2025 8,642,024 3,464,256 3,610,418 53,907,148 6,201,721 1,060,740 76,886,307
+[472] Total Comprehensive Income for the Period
+[473] Profit for the Period - - - 14,616,785 - - 14,616,785
+[474] Other Comprehensive Income - - - - 187,730 - 187,730
+[475] Total Comprehensive Income for the Period - - - 14,616,785 187,730 - 14,804,515
+[476] Transactions with Equity Holders, Recognised Directly in Equity
+[477] Share issue/increase of assigned capital - - - - - - -
+[478] Share options exercised - - - - - - -
+[479] Bonus issue - - - - - - -
+[480] Rights issue - - - - - - -
+[481] Profit transferred to head office - - - - - - -
+[482] Gain/(loss) on revaluation of Property, Plant and
+[483] Equipment (if cost method is adopted) - - - - - - -
+[484] Dividend paid for 2024 779,127 122,234 - (2,119,699) - - (1,218,338)
+[485] Fractions of shares paid in cash for 2024 - - - (601) - - (601)
+[486] Conversion of Non-Voting Shares to Voting Shares - - - - - - -
+[487] Transfers to the Statutory Reserve Fund - - - - - - -
+[488] As at 30 September 2025 9,421,151 3,586,490 3,610,418 66,403,633 6,389,451 1,060,740 90,471,883
+[489] Revaluation OCI Reserve Statutory Reserve Total Stated Capital Retained Earnings
+[490] GROUP
+[491] Reserve Fund
+[492] Voting
+[493] Non-Voting
+[494] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[495] As at 01 January 2024 8,053,768 3,373,114 2,783,805 41,623,436 3,908,263 1,383,751 61,126,137
+[496] Total Comprehensive Income for the Period
+[497] Profit for the Period - - - 12,167,224 - - 12,167,224
+[498] Other Comprehensive Income - - - - (166,324) - (166,324)
+[499] Total Comprehensive Income for the Period - - - 12,167,224 (166,324) - 12,000,900
+[500] Transactions with Equity Holders, Recognised Directly in Equity
+[501] Share issue/increase of assigned capital - - - - - - -
+[502] Share options exercised - - - - - - -
+[503] Bonus issue - - - - - - -
+[504] Rights issue - - - - - - -
+[505] Profit transferred to head office - - - - - - -
+[506] Gain/(loss) on revaluation of Property, Plant and
+[507] Equipment (if cost method is adopted) - - - - - - -
+[508] Dividend paid for 2023 587,210 92,188 - (1,597,825) - - (918,427)
+[509] Fractions of shares paid in cash for 2023 - - - (284) - - (284)
+[510] Conversion of Non-Voting Shares to Voting Shares 1,038 (1,038) - - - - -
+[511] Transfers to the Statutory Reserve Fund - - - - - - -
+[512] As at 30 September 2024 8,642,016 3,464,264 2,783,805 52,192,551 3,741,939 1,383,751 72,208,326
+[513] As at 01 January 2025 8,642,024 3,464,256 3,610,418 55,916,523 6,201,721 1,642,133 79,477,075
+[514] Total Comprehensive Income for the Period
+[515] Profit for the Period - - - 14,910,696 - - 14,910,696
+[516] Other Comprehensive Income - - - - 187,730 - 187,730
+[517] Total Comprehensive Income for the Period - - - 14,910,696 187,730 - 15,098,426
+[518] Transactions with Equity Holders, Recognised Directly in Equity
+[519] Share issue/increase of assigned capital - - - - - - -
+[520] Share options exercised - - - - - - -
+[521] Bonus issue - - - - - - -
+[522] Rights issue - - - - - - -
+[523] Profit transferred to head office - - - - - - -
+[524] Gain/(loss) on revaluation of Property, Plant and
+[525] Equipment (if cost method is adopted) - - - - - - -
+[526] Dividend paid for 2024 779,127 122,234 - (2,119,699) - - (1,218,338)
+[527] Fractions of shares paid in cash for 2024 - - - (601) - - (601)
+[528] Conversion of Non-Voting Shares to Voting Shares - - - - - - -
+[529] Transfers to the Statutory Reserve Fund - - - - - - -
+[530] As at 30 September 2025 9,421,151 3,586,490 3,610,418 68,706,919 6,389,451 1,642,133 93,356,562
+[531] N A T I ON S T RUST BA N K PL C
+[532] STATEMENT OF CASH FLOWS
+[533] N A T I ON S T RUST BA N K PL C
+[534] STATEMENT OF CASH FLOWS
+[535] Bank Group
+[536] Nine Months Ended 30 September Nine Months Ended 30 September
+[537] Bank Group
+[538] 2025 2024 2025 2024
+[539] Nine Months Ended 30 September Nine Months Ended 30 September
+[540] LKR '000 LKR '000 LKR '000 LKR '000
+[541] 2025 2024 2025 2024
+[542] LKR '000 LKR '000 LKR '000 LKR '000
+[543] Cash Flows from Operating Activities
+[544] Interest receipts 48,323,164 44,803,845 48,323,819 44,805,479
+[545] Cash Flows from Operating Activities
+[546] Interest payments (18,506,413) (22,561,550) (18,288,836) (22,381,894)
+[547] Interest receipts 48,323,164 44,803,845 48,323,819 44,805,479
+[548] Net commission receipts
+[549] 6,366,068 6,404,376 6,542,543 6,566,914
+[550] Interest payments (18,506,413) (22,561,550) (18,288,836) (22,381,894)
+[551] Trading income/(expense) 2,240,463 (1,521,388) 2,240,463 (1,521,388)
+[552] Net commission receipts 6,366,068 6,404,376 6,542,543 6,566,914
+[553] Gratuity Payments (112,828) (124,189) (112,829) (128,551)
+[554] Trading income/(expense) 2,240,463 (1,521,388) 2,240,463 (1,521,388)
+[555] Payments for VAT and SSCL on Financial Services (5,544,198) (4,719,074) (5,546,210) (4,720,684)
+[556] Gratuity Payments (112,828) (124,189) (112,829) (128,551)
+[557] Receipts from/ (payments) on other operating activities (11,318,065) (9,182,795) (11,275,881) (9,224,088)
+[558] Payments for VAT and SSCL on Financial Services (5,544,198) (4,719,074) (5,546,210) (4,720,684)
+[559] Operating profit before change in operating assets & liabilities 21,448,191 13,099,225 21,883,069 13,395,788
+[560] Receipts from/ (payments) on other operating activities (11,318,065) (9,182,795) (11,275,881) (9,224,088)
+[561] Operating profit before change in operating assets & liabilities 21,448,191 13,099,225 21,883,069 13,395,788
+[562] (Increase)/Decrease in Operating Assets
+[563] Balances with Central Bank of Sri Lanka 345,064 1,529,440 345,064 1,529,440
+[564] (Increase)/Decrease in Operating Assets
+[565] Placements with Banks 1,333,633 (410,483) 1,333,633 (410,483)
+[566] Balances with Central Bank of Sri Lanka 345,064 1,529,440 345,064 1,529,440
+[567] Reverse Repurchase Agreements 1,924,993 1,279,348 1,924,993 1,279,348
+[568] Placements with Banks 1,333,633 (410,483) 1,333,633 (410,483)
+[569] Financial Assets - At Amortised Cost - Debt Instruments 9,751,140 9,115,806 9,751,140 9,115,806
+[570] Reverse Repurchase Agreements 1,924,993 1,279,348 1,924,993 1,279,348
+[571] Financial Assets - At Amortised Cost - Loans & Advances (127,296,078) (27,476,220) (127,296,078) (27,476,220)
+[572] Financial Assets - At Amortised Cost - Debt Instruments 9,751,140 9,115,806 9,751,140 9,115,806
+[573] Other Assets 569,569 (1,104,245) 569,569 (1,104,245)
+[574] Financial Assets - At Amortised Cost - Loans & Advances (127,296,078) (27,476,220) (127,296,078) (27,476,220)
+[575] (Increase)/Decrease in Operating Assets (113,371,679) (17,066,354) (113,371,679) (17,066,354)
+[576] Other Assets 569,569 (1,104,245) 569,569 (1,104,245)
+[577] (Increase)/Decrease in Operating Assets (113,371,679) (17,066,354) (113,371,679) (17,066,354)
+[578] Increase/(Decrease) in Operating Liabilities
+[579] Financial Liabilities - At Amortised Cost - Due to Depositors
+[580] 73,997,196 31,626,585 73,775,334 33,371,875
+[581] Increase/(Decrease) in Operating Liabilities
+[582] Financial Liabilities - At Amortised Cost – Due to Debt Securities holders 3,478,037 2,900,787 3,412,630 870,893
+[583] Financial Liabilities - At Amortised Cost - Due to Depositors 73,997,196 31,626,585 73,775,334 33,371,875
+[584] Financial Liabilities - At Amortised Cost – Due to other borrowers 40,541,675 (22,644,467) 40,541,675 (22,644,467)
+[585] Financial Liabilities - At Amortised Cost – Due to Debt Securities holders 3,478,037 2,900,787 3,412,630 870,893
+[586] Other Liabilities 1,488,607 (2,305,160) 1,453,158 (2,310,231)
+[587] Financial Liabilities - At Amortised Cost – Due to other borrowers 40,541,675 (22,644,467) 40,541,675 (22,644,467)
+[588] Increase/(Decrease) in Operating Liabilities 119,505,515 9,577,745 119,182,797 9,288,070
+[589] Other Liabilities 1,488,607 (2,305,160) 1,453,158 (2,310,231)
+[590] Increase/(Decrease) in Operating Liabilities 119,505,515 9,577,745 119,182,797 9,288,070
+[591] Net Cash Generated from / Used in Operating Activities before Income
+[592] 27,582,027 5,610,616 27,694,187 5,617,504 Tax
+[593] Net Cash (Used in) Generated from / Operating Activities before Income
+[594] 27,582,027 5,610,616 27,694,187 5,617,504 Tax
+[595] Income Tax Paid (5,215,605) (6,314,687) (5,327,765) (6,417,133)
+[596] Net Cash (Used in)/from Operating Activities 22,366,422 (704,071) 22,366,422 (799,629)
+[597] Income Tax Paid (5,215,605) (6,314,687) (5,327,765) (6,417,133)
+[598] Net Cash (Used in)/from Operating Activities 22,366,422 (704,071) 22,366,422 (799,629)
+[599] Cash Flows from Investing Activities
+[600] Purchase of Property, Plant and Equipment (976,992) (314,047) (976,992) (314,049)
+[601] Cash Flows from Investing Activities
+[602] Proceeds from Sale of Property, Plant and Equipment 1,839 338 1,839 340
+[603] Purchase of Property, Plant and Equipment (976,992) (314,047) (976,992) (314,049)
+[604] Net Purchase and proceeds from sale and on maturities of
+[605] Proceeds from Sale of Property, Plant and Equipment 1,839 338 1,839 340
+[606] financial investments
+[607] (23,602,056) (1,393,305) (23,602,056) (1,393,305)
+[608] Net Purchase and proceeds from sale and on maturities of
+[609] Net purchase of intangible assets (276,683) (187,024) (276,683) (187,024)
+[610] financial investments (23,602,056) (1,393,305) (23,602,056) (1,393,305)
+[611] Net cash flow from acquisition of investment in subsidiaries, joint ventures
+[612] Net purchase of intangible assets (276,683) (187,024) (276,683) (187,024)
+[613] - - - - and associates
+[614] Net cash flow from acquisition of investment in subsidiaries, joint ventures
+[615] Net cash flow from disposal of subsidiaries, associates and joint ventures - - - -
+[616] - - - - and associates
+[617] Dividends received from investment in subsidiaries and associates - - - -
+[618] Net cash flow from disposal of subsidiaries, associates and joint ventures - - - -
+[619] Net Cash (Used in)/from Investing Activities (24,853,892) (1,894,038) (24,853,892) (1,894,038)
+[620] Dividends received from investment in subsidiaries and associates - - - -
+[621] Net Cash (Used in)/from Investing Activities (24,853,892) (1,894,038) (24,853,892) (1,894,038)
+[622] Cash Flows from Financing Activities
+[623] Net proceeds from the issue of ordinary share capital - - - -
+[624] Cash Flows from Financing Activities
+[625] Net proceeds from the issue of other equity instruments - - - -
+[626] Net proceeds from the issue of ordinary share capital - - - -
+[627] Net proceeds from the issue of subordinated debt - - - -
+[628] Net proceeds from the issue of other equity instruments - - - -
+[629] Repayment of Subordinated Debt - - - -
+[630] Net proceeds from the issue of subordinated debt - - - -
+[631] Interest Paid on Subordinated Debt (375,743) (370,754) (375,743) (370,754)
+[632] Repayment of Subordinated Debt - - - -
+[633] Dividend paid to non-controlling interest - - - -
+[634] Interest Paid on Subordinated Debt (375,743) (370,754) (375,743) (370,754)
+[635] Dividend paid to shareholders of the parent company (1,218,939) (918,710) (1,218,939) (918,710)
+[636] Dividend paid to non-controlling interest - - - -
+[637] Dividend paid to holders of other equity instruments - - - -
+[638] Dividend paid to shareholders of the parent company (1,218,939) (918,710) (1,218,939) (918,710)
+[639] Net proceeds from the Other Debt 653,996 1,018,598 653,996 1,018,598
+[640] Dividend paid to holders of other equity instruments - - - -
+[641] Net Repayment of Other Debt (373,189) (10,490,565) (373,189) (10,490,565)
+[642] Net proceeds from the Other Debt 653,996 1,018,598 653,996 1,018,598
+[643] Operating Lease Rentals Paid (664,445) (529,461) (664,445) (433,904)
+[644] Net Repayment of Other Debt (373,189) (10,490,565) (373,189) (10,490,565)
+[645] Net Cash (Used in)/from Financing Activities (1,978,320) (11,290,892) (1,978,320) (11,195,335)
+[646] Operating Lease Rentals Paid (664,445) (529,461) (664,445) (433,904)
+[647] Net Cash (Used in)/from Financing Activities (1,978,320) (11,290,892) (1,978,320) (11,195,335)
+[648] Net Increase/(Decrease) in Cash and Cash Equivalents (4,465,790) (13,889,001) (4,465,790) (13,889,002)
+[649] Cash and Cash Equivalents at the Beginning of the Period 20,299,441 39,545,578 20,299,444 39,545,581
+[650] Net Increase/(Decrease) in Cash and Cash Equivalents (4,465,790) (13,889,001) (4,465,790) (13,889,002)
+[651] Exchange difference in respect of cash & cash equivalents 286,609 (1,990,016) 286,609 (1,990,016)
+[652] Cash and Cash Equivalents at the Beginning of the Period 20,299,441 39,545,578 20,299,444 39,545,581
+[653] Cash and Cash Equivalents at the End of the Period 16,120,260 23,666,561 16,120,263 23,666,563
+[654] Exchange difference in respect of cash & cash equivalents 286,609 (1,990,016) 286,609 (1,990,016)
+[655] Cash and Cash Equivalents at the End of the Period 16,120,260 23,666,561 16,120,263 23,666,563
+[656] Reconciliation of Cash and Cash Equivalents
+[657] Cash in Hand 10,114,906 11,751,120 10,114,909 11,751,122
+[658] Reconciliation of Cash and Cash Equivalents
+[659] Balances with Banks 9,201,063 11,137,509 9,201,063 11,137,509
+[660] Cash in Hand 10,114,906 11,751,120 10,114,909 11,751,122
+[661] Money at Call and Short Notice 459,550 1,972,380 459,550 1,972,380
+[662] Balances with Banks 9,201,063 11,137,509 9,201,063 11,137,509
+[663] Deposits from Other Banks (3,655,259) (1,194,448) (3,655,259) (1,194,448)
+[664] Money at Call and Short Notice 459,550 1,972,380 459,550 1,972,380
+[665] 16,120,260 23,666,561 16,120,263 23,666,563
+[666] Deposits from Other Banks (3,655,259) (1,194,448) (3,655,259) (1,194,448)
+[667] 16,120,260 23,666,561 16,120,263 23,666,563
+[668] NATIONS TRUST BANK PLC
+[669] ANALYSIS OF LOANS & ADVANCES, COMMITMENTS, CONTINGENCIES AND IMPAIRMENT
+[670] (1) Product- w ise Gross L oans and A dv ances Bank/Group
+[671] 30.09.2025 31.12.2024
+[672] L K R' 000 L K R ' 000
+[673] (A udited)
+[674] By product – Domestic currency
+[675] Bills of Exchange 7 14,699
+[676] Trade Finance 97,856,268 61,719,106
+[677] Overdrafts 47,446,304 43,955,178
+[678] Term Loans 125,586,046 87,273,154
+[679] Staff Loans 4,585,307 3,818,152
+[680] Lease rentals receivable 28,982,870 23,109,775
+[681] Credit Cards 26,152,625 24,416,655
+[682] Pawning 628 1,184
+[683] Other Advances 262,917 262,917
+[684] 330, 872, 972 244, 570, 820
+[685] By product – F oreign currency
+[686] Trade Finance 32,518,124 34,182,315
+[687] Overdrafts 3,268,619 3,209,756
+[688] Guarantees - -
+[689] Bonds - -
+[690] Term Loans 71,546,902 26,895,898
+[691] 107, 333, 645 64, 287, 969
+[692] T otal 438, 206, 617 308, 858, 789
+[693] (2) Product- w ise Commitments and Contingencies Bank/Group
+[694] 30.09.2025 31.12.2024
+[695] L K R' 000 L K R ' 000
+[696] (A udited)
+[697] By product – Domestic currency
+[698] Guarantees 1,007,970 582,048
+[699] Bonds 22,424,508 20,575,648
+[700] Acceptances 4,719,687 3,545,406
+[701] Letters of Credit 11,960,586 7,350,830
+[702] Forward Contracts to buy/sell -Fixed Income Securities - 260,017
+[703] Undrawn Credit Lines 217,047,571 210,783,304
+[704] 257, 160, 322 243, 097, 253
+[705] By product – F oreign currency
+[706] Guarantees 187,961 388,397
+[707] Bonds 1,811,255 1,114,388
+[708] Acceptances 957,680 1,931,222
+[709] Letters of Credit 1,048,002 1,726,364
+[710] Forward Exchange Contracts 183,434,569 140,207,499
+[711] Undrawn Credit Lines 23,070,452 18,247,996
+[712] 210, 509, 919 163, 615, 866
+[713] T otal 467, 670, 241 406, 713, 119
+[714] (3) Bank/Group
+[715] Stage-wise Impairment on Loans & Advances, Commitments and
+[716] 30.09.2025 31.12.2024
+[717] Contingencies
+[718] L K R' 000 L K R ' 000
+[719] (A udited)
+[720] Gross L oans and A dv ances, Commitments and Contingencies 905, 876, 857 715,571,908
+[721] (Less): Accumulated impairment under; (Note 3.1)
+[722] Stage 1 (5,087,092) (4,237,137)
+[723] Stage 2 (4,846,760) (5,985,584)
+[724] Stage 3 (11,017,433) (11,794,752)
+[725] N et V alue of L oans and A dv ances, Commitments and Contingencies 884, 925, 572 693, 554, 435
+[726] (3.1) M ov ement in impairment during the period
+[727] Bank/Group
+[728] 2025 2024
+[729] L K R' 000 L K R ' 000
+[730] Stage 1 (A udited)
+[731] Opening balance as at 01 January 4,237,137 3,806,061
+[732] Charge/(Write back) to income statement 843,137 452,612
+[733] Write-off during the period - -
+[734] Effect on Change in Exchange rates 6,818 (21,536)
+[735] Closing balance 5, 087, 092 4, 237, 137
+[736] Stage 2
+[737] 5,985,584 6,124,932
+[738] Opening balance as at 01 January
+[739] (1,167,167) (80,023)
+[740] Charge/(Write back) to income statement
+[741] - -
+[742] Write-off during the period
+[743] 28,343 (59,325)
+[744] Effect on Change in Exchange rates
+[745] 4, 846, 760 5, 985, 584
+[746] Closing balance
+[747] Stage 3
+[748] Opening balance as at 01 January 11,794,752 12,179,282
+[749] (52,664) 1,395,432
+[750] Charge/(Write back) to income statement
+[751] (737,123) (1,779,962)
+[752] Write-off during the period
+[753] Effect on Change in Exchange rates 12,468 -
+[754] Closing balance 11, 017, 433 11, 794, 752
+[755] T otal I mpairment 20, 951, 285 22, 017, 473
+[756] * 2025 reflects the figures for 9 months ended 30.09.2025 and 2024 reflects the figures for 12 months ended 31.12.2024.
+[757] NATIONS TRUST BANK PLC
+[758] ANALYSIS OF DEPOSITS
+[759] (4) Due to Depositors - By Product
+[760] Bank Group
+[761] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[762] L K R' 000 L K R ' 000 L K R' 000 L K R ' 000
+[763] (A udited) (A udited)
+[764] By product – Domestic currency
+[765] Demand deposits (current accounts) 34,061,007 33,376,584 33,873,590 33,327,684
+[766] Savings Deposits 83,511,544 63,139,792 83,511,544 63,139,792
+[767] Fixed Deposits 199,760,037 168,759,465 199,596,041 168,678,814
+[768] Call Deposits 6,295 11,665 6,295 11,665
+[769] Certificate of Deposits 2,145 2,072 2,145 2,072
+[770] 317, 341, 028 265, 289, 578 316, 989, 615 265, 160, 027
+[771] F oreign Currency
+[772] Demand deposits (current accounts) 5,612,288 4,848,708 5,612,288 4,848,708
+[773] Savings Deposits 19,522,306 18,170,943 19,522,306 18,170,943
+[774] Fixed Deposits 123,612,592 96,475,687 123,612,592 96,475,687
+[775] Call Deposits - - - -
+[776] Certificate of Deposits - - - -
+[777] 148, 747, 186 119, 495, 338 148, 747, 186 119, 495, 338
+[778] T otal 466, 088, 214 384, 784, 916 465, 736, 801 384, 655, 365
+[779] NATIONS TRUST BANK PLC
+[780] FAIR VALUE OF FINANCIAL INSTRUMENTS
+[781] F air V alue of F inancial I nstruments
+[782] Fair Values of Financial Instruments are determined according to the following hierarchy as described below:
+[783] Level 1 - quoted market price (unadjusted): financial instruments with quoted prices in active markets.
+[784] Level 2 - valuation techniques using observable inputs: financial instruments with quoted prices for similar instruments in active markets or quoted prices for identical or similar instruments in inactive markets. Financial
+[785] instruments are valued using models where all significant inputs are observable.
+[786] Level 3 - valuation techniques with significant unobservable inputs: This category includes all instruments valued using valuation techniques where one or more significant inputs are unobservable.
+[787] There were no material changes in the fair value of financial assets categorised under Level 3 compared to the values reported as at 31 December 2024. The Group has not changed the valuation models and assumptions
+[788] used to measure the fair values of Level 03 financial instruments during the period ended 30 September 2025.
+[789] F inancial I nstruments Carried at F air V alue
+[790] Bank / Group As at 30.09.2025 As at 31.12.2024 (Audited)
+[791] L ev el 1 L ev el 2 L ev el 3 T otal L ev el 1 L ev el 2 L ev el 3 T otal
+[792] L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000
+[793] F inancial A ssets M easured at F air V alue
+[794] Derivative Financial Instruments - 510,891 - 510,891 - 224,298 - 224,298
+[795] Financial Assets at Fair Value through Profit or Loss 4,379,635 13,116,500 - 17,496,135 9,581,283 7,613,476 - 17,194,759
+[796] Financial Assets at Fair Value through Other Comprehensive Income 68,916,778 65,950,688 167,193 135,034,659 70,244,123 36,603,913 166,841 107,014,877
+[797] 73, 296, 413 79, 578, 079 167, 193 153, 041, 685 79, 825, 406 44, 441, 687 166, 841 124, 433, 934
+[798] F inancial L iabilities
+[799] Derivative Financial Instruments - 55,067 - 55,067 - 372,084 - 372,084
+[800] - 55, 067 - 55, 067 - 372, 084 - 372, 084
+[801] Fair Value of Financial Instruments Carried at Amortised Cost
+[802] Bank As at 31.12.2024 (Audited) As at 30.09.2025
+[803] Amortised Cost Level 1 Level 2 Level 3 Total Fair Amortised Cost Level 1 Level 2 Level 3 Total Fair
+[804] Value Value
+[805] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[806] Financial Assets
+[807] Debt Instruments 86,994,994 32,834,622 67,852,367 - 100,686,989 96,796,064 42,054,869 69,700,367 - 111,755,236
+[808] Loans and Advances to Customers- Gross 438,206,617 - 436,182,944 - 436,182,944 308,858,789 - 309,227,141 - 309,227,141
+[809] 525,201,611 32,834,622 504,035,311 - 536,869,933 405,654,853 42,054,869 378,927,508 - 420,982,377
+[810] Financial Liabilities
+[811] Due to Customers 466,088,214 - 468,652,815 - 468,652,815 384,784,916 - 386,373,873 - 386,373,873
+[812] Due to Other Borrowers 10,636,118 - 10,636,118 - 10,636,118 9,111,275 - 9,111,275 - 9,111,275
+[813] Debt Securities Issued 6,055,342 - 6,332,017 - 6,332,017 5,979,693 - 6,080,887 - 6,080,887
+[814] 482,779,674 - 485,620,950 - 485,620,950 399,875,884 - 401,566,035 - 401,566,035
+[815] Group As at 31.12.2024 (Audited) As at 30.09.2025
+[816] Amortised Cost Level 1 Level 2 Level 3 Total Fair Amortised Cost Level 1 Level 2 Level 3 Total Fair
+[817] Value Value
+[818] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[819] Financial Assets
+[820] Debt Instruments 86,994,994 32,834,622 67,852,367 - 100,686,989 96,796,064 42,054,869 69,700,367 - 111,755,236
+[821] Loans and Advances to Customers- Gross 438,206,617 - 436,182,944 - 436,182,944 308,858,789 - 309,227,141 - 309,227,141
+[822] 525,201,611 32,834,622 504,035,311 - 536,869,933 405,654,853 42,054,869 378,927,508 - 420,982,377
+[823] Financial Liabilities
+[824] Due to Customers 465,736,801 - 468,300,595 - 468,300,595 384,655,365 - 386,244,322 - 386,244,322
+[825] Due to Other Borrowers 10,131,338 - 10,131,338 - 10,131,338 9,118,377 - 9,111,275 - 9,111,275
+[826] Debt Securities Issued 6,055,342 - 6,332,017 - 6,332,017 5,979,694 - 6,080,887 - 6,080,887
+[827] 481,923,481 - 484,763,950 - 484,763,950 399,753,436 - 401,436,484 - 401,436,484
+[828]  Assets and Liabilities where fair value approximates carrying value
+[829] For below listed financial assets and liabilities with short-term maturities or with short-term re-pricing intervals, it is assumed that the carrying amounts approximate to their fair value.
+[830] Financial Liabilities
+[831] Financial Assets
+[832] Cash and Cash equivalents Due to banks
+[833] Balances with Central Bank of Sri Lanka Repurchase agreements
+[834] Placements with Banks
+[835] Reverse Repurchase Agreements
+[836] NATIONS TRUST BANK PLC
+[837] ANALYSIS OF FINANCIAL INSTRUMENTS BY MEASUREMENT BASIS
+[838] Bank As at 31 December 2024 (Audited) As at 30 September 2025
+[839] A C F V PL F V OCI T otal AC F V PL F V OCI T otal
+[840] LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000 LKR '000
+[841] F inancial A sset s
+[842] Cash and Cash Equivalents 19,773,816 - - 19,773,816 20,814,294 - - 20,814,294
+[843] Balances with Central Bank of Sri Lanka 838,410 - - 838,410 1,183,473 - - 1,183,473
+[844] Placements with banks 1,139,183 - - 1,139,183 2,472,925 - - 2,472,925
+[845] Reverse Repurchase Agreements 456,907 - - 456,907 2,389,147 - - 2,389,147
+[846] Derivative Financial Instruments - 510,891 - 510,891 - 224,298 - 224,298
+[847] - 17,496,135 - 17,496,135 - 17,194,759 - 17,194,759
+[848] Financial Assets Recognised through Profit or Loss - Measured at Fair Value
+[849] Financial Assets Recognised through Profit or Loss - Designated at fair value - - - - - - - -
+[850] - - 135,034,659 135,034,659 - - 107,014,877 107,014,877
+[851] Financial Assets at Fair Value through Other Comprehensive Income
+[852] 86,994,994 - - 86,994,994 96,796,064 - - 96,796,064
+[853] Financial Assets at Amortised Cost - Debt Instruments
+[854] Financial Assets at Amortised Cost - Loans and Advances 417,906,579 - - 417,906,579 287,362,553 - - 287,362,553
+[855] Total Financial Assets 527,109,889 18,007,026 135,034,659 680,151,574 411,018,456 17,419,057 107,014,877 535,452,390 527,109,889 18,007,026 135,034,659 680,151,574 411,018,456 17,419,057 107,014,877 535,452,390
+[856] F inancial L iabilities
+[857] Due to Banks 71,372,297 - - 71,372,297 27,403,357 - - 27,403,357
+[858] Derivative Financial Instruments - 55,067 - 55,067 - 372,084 - 372,084
+[859] Financial Liabilities at Amortised Cost
+[860] Due to Depositors 466,088,214 - - 466,088,214 384,784,916 - - 384,784,916
+[861] Due to debt securities holders - Repurchase Agreements 25,477,075 - - 25,477,075 21,985,170 - - 21,985,170
+[862] Due to Other Borrowers 10,636,118 - - 10,636,118 9,111,275 - - 9,111,275
+[863] Debt Securities Issued 6,055,342 - - 6,055,342 5,979,693 - - 5,979,693
+[864] Total Financial Liabilities 579,629,046 55,067 - 579,684,113 449,264,411 372,084 - 449,636,495
+[865] Group As at 30 September 2025 A s at 31 December 2024 (A udited)
+[866] A C F V PL F V OCI T otal AC F V PL F V OCI T otal
+[867] L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000
+[868] Financial Assets
+[869] Cash and Cash Equivalents 19,773,819 - - 19,773,819 20,814,297 - - 20,814,297
+[870] 838,410 - - 838,410 1,183,473 - - 1,183,473
+[871] Balances with Central Bank of Sri Lanka
+[872] 1,139,183 - - 1,139,183 2,472,925 - - 2,472,925
+[873] Placements with banks
+[874] 456,907 - - 456,907 2,389,147 - - 2,389,147
+[875] Reverse Repurchase Agreements
+[876] - 510,891 - 510,891 - 224,298 - 224,298
+[877] Derivative Financial Instruments
+[878] - 17,496,135 - 17,496,135 - 17,194,759 - 17,194,759
+[879] Financial Assets Recognised through Profit or Loss - Measured at Fair Value
+[880] Financial Assets Recognised through Profit or Loss - Designated at fair value - - - - - - - -
+[881] Financial Assets at Fair Value through Other Comprehensive Income - - 135,034,659 135,034,659 - - 107,014,877 107,014,877
+[882] Financial Assets at Amortised Cost - Debt Instruments 86,994,994 - - 86,994,994 96,796,064 - - 96,796,064
+[883] Financial Assets at Amortised Cost - Loans and Advances 417,906,579 - - 417,906,579 287,362,553 - - 287,362,553
+[884] Total Financial Assets 527,109,892 18,007,026 135,034,659 680,151,577 411,018,459 17,419,057 107,014,877 535,452,393
+[885] F inancial L iabilities
+[886] Due to Banks 71,372,297 - - 71,372,297 27,403,357 - - 27,403,357
+[887] Derivative Financial Instruments - 55,067 - 55,067 - 372,084 - 372,084
+[888] Financial Liabilities at Amortised Cost
+[889] Due to Depositors 465,736,801 - - 465,736,801 384,655,365 - - 384,655,365
+[890] Due to debt securities holders - Repurchase Agreements 22,955,398 - - 22,955,398 19,528,900 - - 19,528,900
+[891] Due to Other Borrowers 10,131,338 - - 10,131,338 9,118,377 - - 9,118,377
+[892] Debt Securities Issued 6,055,342 - - 6,055,342 5,979,693 - - 5,979,693
+[893] Total Financial Liabilities 576,251,176 55,067 - 576,306,243 446,685,692 372,084 - 447,057,776
+[894] Note
+[895] AC - Financial Instruments measured at Amortised cost
+[896] FVPL – Financial instruments measured at fair value through profit or loss
+[897] FVOCI – Financial instruments measured at fair value through other comprehensive income
+[898] NATIONS TRUST BANK PLC
+[899] SELECTED PERFORMANCE INDICATORS (AS PER REGULATORY REPORTING)
+[900] Item Bank Group
+[901] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[902] R egulatory Capital (LKR ’000)
+[903] Common Equity Tier 1 84,335,152 70,822,110 86,593,618 73,081,874
+[904] Core (Tier 1) Capital 84,335,152 70,822,110 86,593,618 73,081,874
+[905] 91,736,821 77,111,235
+[906] Total Regulatory Capital Base 89,480,403 74,851,471
+[907] Regulatory Capital Ratios (%)
+[908] Common Equity Tier 1 Capital Ratio (%)
+[909] (Minimum Requirement - 7.00%) 18.43 20.87 18.90 21.47
+[910] Tier 1 Capital Ratio (%)
+[911] (Minimum Requirement - 8.50%) 18.43 20.87 18.90 21.47
+[912] Total Capital Ratio (%)
+[913] (Minimum Requirement - 12.50%) 19.55 22.05 20.03 22.66
+[914] 11.83 12.15 12.96
+[915] BASEL III Leverage Ratio (Minimum Requirement - 3%) 12.57
+[916] Regulatory Liquidity
+[917] Total Stock of High-Quality Liquid Assets (LKR '000) 198,206,081 210,135,367
+[918] Liquidity Coverage Ratio (%) (Minimum Requirement: 100%)
+[919] Rupee 302.93 447.74
+[920] All Currency 192.23 320.56
+[921] Net Stable Funding Ratio (%) (Minimum Requirement : 100%) 133.77 154.73
+[922] Assets Quality
+[923] 1.03 1.60
+[924] Impaired Loans (Stage 3) Ratio (%) *
+[925] Impairment (Stage 3) to Stage 3 Loans Ratio (%)* 62.84 60.55
+[926] Income and Profitability
+[927] Net Interest Margin (%) 6.15 6.94
+[928] Return on Assets (before tax) (%) 4.62 4.92 4.71 5.00
+[929] Return on Equity (%) 23.50 24.67 23.20 24.22
+[930] Cost to income ratio (%) 31.07 34.02 30.68 33.72
+[931] Net Assets Value Per Share (LKR) 273.63 232.54 282.35 240.37
+[932] Memorandum Information
+[933] Credit Rating A(lka) A(lka)
+[934] Number of Employees 2483 2455 2501 2473
+[935] Number of Branches 91 95 91 95
+[936] Market Price Per Share (LKR) Non-Voting Voting
+[937] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[938] (Quarter ended) (Quarter ended) (Quarter ended) (Quarter ended)
+[939] Highest 324.00 189.75 480.00 225.00
+[940] Lowest 210.00 123.00 248.25 127.00
+[941] Last Traded Price 310.25 186.50 407.75 215.50
+[942] *Including Undrawn Portion of Credit.
+[943] DE BE N T URE I N F ORM A T I ON
+[944] The rated, unsecured, subordinated redeemable debentures 2019/26 of the Bank are listed on the Colombo Stock Exchange.
+[945] Market Values for the Quarter Ended Interest Rate of Comparable Other Ratios as at Date
+[946] Balance as at Interest
+[947] Interest Rates
+[948] Balance as at Issued Maturity
+[949] 30.09.2025 Government Securities of Last Trade
+[950] Debenture Categories
+[951] 31.12.2024 Payable CSE Listing
+[952] 30.09.2025 Date Date
+[953] Coupon Effective As at Issue Interest Yield to
+[954] (Audited) Frequency
+[955] Highest Lowest Period End 30.09.2025 31.12.2024
+[956] Rate Annual Yield Date Yield Maturity
+[957] LKR '000 LKR '000 LKR LKR LKR % % % % % % %
+[958] Not traded during the current period Not traded
+[959] Fixed Rate *NTB-BD-23/12/26 - C2442 - 12.9 Annually 23-Dec-19 23-Dec-26 12.90 12.90 8.35 9.42 10.11
+[960] 1,800,000 1,800,000
+[961] N/A N/A
+[962] Fixed Rate N/A Semi -Annually 9-Jul-21 9-Jul-26 8.90 9.10 8.25 9.27 7.43
+[963] 449,760 449,760
+[964] N/A N/A
+[965] Fixed Rate N/A Annually 9-Jul-21 9-Jul-26 9.15 9.15 8.25 9.27 7.43
+[966] 3,550,240 3,550,240
+[967] T otal Debentures 5, 800, 000 5, 800, 000
+[968] Ratios of Debt 30.09.2025 31.12.2024
+[969] **Debt/Equity Ratio (%) 13.11 14.97
+[970] Interest Cover (Times) 29.05 14.71
+[971] Quick Asset Ratio (%) 113.76 133.76
+[972] * BASEL III compliant Debentures.
+[973] ** Borrowings of which original maturity with five years or more are considered for debt.
+[974] NATIONS TRUST BANK PLC
+[975] SEGMENT INFORMATION
+[976] Bank Treasury Functions Others Unallocated/ Eliminations Total Group
+[977] F or the nine months ended 30 September 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024
+[978] L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000 L K R ' 000
+[979] Net Interest Income 8,567,705 9,552,695 20,338,631 17,062,973 164,653 173,930 (246,151) (150,320) 28,824,838 26,639,278
+[980] Inter Segment 3,941,206 4,322,893 (3,941,206) (4,322,893) - - - - - -
+[981] T ot al rev enue from ex t ernal cust omers 12, 508, 911 13, 875, 588 16, 397, 425 12, 740, 080 164, 653 173, 930 (246, 151) (150, 320) 28, 824, 838 26, 639, 278
+[982] Net Fee and Commission Income 6,160,606 6,128,458 172,038 63,237 339,972 264,179 (241,093) (552,606) 6,431,523 5,903,268
+[983] Net Gains/(Losses) from Trading 916,135 2,071,489 2,856,578 (5,081,218) - - (928,640) 40,931 2,844,073 (2,968,798)
+[984] Net Fair Value Gains/(Losses) on Financial Assets at Fair Value
+[985] - - (746,004) (124,493) - - - - (746,004) (124,493)
+[986] through Profit or Loss
+[987] Net Fair Value Gains/(Losses) on Financial Liabilities at Fair
+[988] - - - - - - - - - -
+[989] Value through Profit or Loss
+[990] Net Gains/(Losses) on Derecognition of Financial Assets at Fair
+[991] - - 1,692,301 1,376,139 - - - - 1,692,301 1,376,139
+[992] Value through Profit or Loss
+[993] Net Gains/(Losses) on Derecognition of Financial Assets at Fair
+[994] - - 847,130 (142,458) - - - - 847,130 (142,458)
+[995] Value through Other Comprehensive Income
+[996] Net Gains/(Losses) on Derecognition of Financial Assets at
+[997] - - - - - - - - - -
+[998] Amortised cost
+[999] 1,083,089 1,434,530 (2,287,136) 3,066,267 - - 27,128 37,197 (1,176,919) 4,537,994
+[1000] Net Other Operating Income/(Loss)
+[1001] Operating Income 20,668,741 23,510,065 18,932,332 11,897,554 504,625 438,109 (1,388,756) (624,798) 38,716,942 35,220,930
+[1002] Impairment Charge/(Reversal) (357,590) 459,064 1,920 (82,325) - - - - (355,670) 376,739
+[1003] Net Operating Income 21,026,331 23,051,001 18,930,412 11,979,879 504,625 438,109 (1,388,756) (624,798) 39,072,612 34,844,191
+[1004] Depreciation of Property, Plant and Equipment 178,873 140,929 8,396 5,180 14,380 14,403 28,914 19,414 230,563 179,926
+[1005] Depreciation of Right of Use (ROU) Assets 309,484 285,975 - - - 4,226 - 309,484 290,201
+[1006] Amortisation of Intangible Assets 200,177 212,638 31,977 41,119 105 93 1,364 1,022 233,623 254,872
+[1007] Capital Expenditures
+[1008] Property and Equipment 38,954 34,512 4,010 1,402 - - 1,182,247 137,510 1,225,211 173,424
+[1009] Other Intangible Assets 205,326 8,543 - 1,678 - - 299,083 96,595 504,409 106,816
+[1010] Total Assets (as at)
+[1011] 438,539,231 315,052,969 261,824,720 210,095,221 3,258,795 2,885,166 (12,465,520) (9,978,005) 691,157,226 518,055,351
+[1012] Total Liabilities (as at)
+[1013] 471,885,129 377,914,630 113,543,271 53,832,881 119,028 102,622 12,253,236 13,996,894 597,800,664 445,847,027
+[1014] N A T I ON S T RUST BA N K PL C
+[1015] E X PL A N A T ORY N OT E S
+[1016] (1) There are no changes to the accounting policies and methods of computation since the publication of the annual report for the year ended 31 December 2024.
+[1017] (2) During the quarter, there were no material changes in the composition of assets, liabilities and/or contingent liabilities. All known expenditure items have been accrued.
+[1018] (3)
+[1019] The Group Financial Statements comprise a consolidation of the Bank and its fully owned subsidiaries; Waldock Mackenzie Limited, Allied Properties Limited and Nations Insurance Brokers Limited.
+[1020] (4) These interim financial statements are presented in accordance with LKAS 34 - Interim Financial Reporting, Circular 05 of 2024 on Publication of Annual and Quarterly Financial Statements issued by Central Bank of
+[1021] Sri Lanka and other Disclosures by Licensed Banks, and provide the information as required in terms of Rule 7.4 of the Colombo Stock Exchange.
+[1022] (5) Impairment of financial assets
+[1023] Loans and Advances – ECL assessment
+[1024] A comprehensive assessment was carried out to estimate the Expected Credit Loss (ECL) for individually significant customers, factoring in projected delays in expected cash flows and prevailing macroeconomic
+[1025] conditions. Accordingly, adequate provisions were recognized in the financial statements to ensure sufficient coverage against potential impacts on the Bank’s loan portfolio. Customers demonstrating heightened
+[1026] credit risk were appropriately classified under Stage 2 or Stage 3. Furthermore, management overlays associated with higher-risk segments and geographies were reviewed and prudently scaled down, in line with
+[1027] reflected improvements in the broader economic environment.
+[1028] Other Financial Assets - Balances with Central Bank
+[1029] As at 30.09.2025, the Bank held a receivable balance from the Central Bank of Sri Lanka (CBSL) related to prior regulatory directions (Special Deposit Accounts and Incentive Scheme on Inward Workers' Remittances) .
+[1030] As per the communication received in December 2024, CBSL has prompted a reassessment of the recoverability of this balance. Based on this assessment, management has recognized an impairment provision
+[1031] against the receivable, considering the current status of settlement.
+[1032] (6) In terms of the Banking Act No.30 of 1998, as amended, John Keells Group and Central Finance Group are to reduce their respective shares carrying voting rights to 15% and the respective shareholders are required to
+[1033] take relevant action to comply with the said direction. Restriction on voting rights at 10% each is applicable to John Keells Group and Central Finance Group until the reduction of their respective holding to the
+[1034] prescribed levels.
+[1035] (7) The funds raised through debentures were fully utilized for the objectives mentioned in the prospectuses.
+[1036] (8) On 24 September 2025, Nations Trust Bank PLC entered into a binding Sale and Purchase Agreement with The Hongkong and Shanghai Banking Corporation, acting through its Sri Lanka Branch, to acquire its retail
+[1037] banking business in Sri Lanka for a total consideration of LKR 18 billion, subject to applicable taxes. The transaction was approved by the Board of Directors on 23 September 2025 and will be funded through internally
+[1038] generated funds, while maintaining all regulatory ratios. Completion is expected in the first half of 2026, subject to regulatory approvals and other conditions precedent.
+[1039] There are no material events that took place after the reporting date which require adjustment to or disclosure in these Financial Statements, other than the items disclosed under note (8) above.
+[1040] (9)
+[1041] NATIONS TRUST BANK PLC
+[1042] SHAREHOLDERS' INFORMATION
+[1043] T w enty L argest Shareholders as at 30 September 2025
+[1044] Voting Shares
+[1045] N ame of the Shareholder N o. of Shares % holding
+[1046] John Keells Holdings PLC 56,408,580 19.72
+[1047] HWIC Asia Fund 42,903,190 15.00
+[1048] Central Finance Company PLC A/C No 03 28,147,578 9.84
+[1049] Mackinnons Keells Limited 27,922,243 9.76
+[1050] Amaliya Private Limited 17,102,853 5.98
+[1051] CF Insurance Brokers (Pvt) Ltd 14,178,549 4.96
+[1052] CF Growth Fund Ltd A/C No.01 14,082,437 4.92
+[1053] Thread Capital Private Limited 10,650,309 3.72
+[1054] Hatton National Bank PLC - Capital Alliance Quantitative Equity Fund 5,185,747 1.81
+[1055] Hatton National Bank PLC A/C No 1 4,529,586 1.58
+[1056] J.B. Cocoshell (Pvt) Ltd 4,384,943 1.53
+[1057] Mr. M.F. Hashim 2,840,129 0.99
+[1058] Mr. N.R. Somaiya 1,615,175 0.56
+[1059] Mr. W.G.D.C. Ranaweera 1,361,506 0.48
+[1060] Invenco Capital (Private) Limited 1,003,102 0.35
+[1061] Mr. M.A. Jafferjee 974,377 0.34
+[1062] People's Leasing & Finance PLC/ M.E. Amarasinghe 923,997 0.32
+[1063] DFCC Bank PLC A/C No .02 840,229 0.29
+[1064] Mr. L.J.M.A. Jayasundara 800,000 0.28
+[1065] Odyssey Capital Partners (Private) Limited 795,000 0.28
+[1066] 236,649,530 82.71
+[1067] Others 49,366,377 17.29
+[1068] T otal 286, 015, 907 100.00
+[1069] Non-Voting Shares
+[1070] N ame of the Shareholder N o. of Shares % holding
+[1071] John Keells Holdings PLC 18,448,936 41.35
+[1072] Central Finance Company PLC A/C No 03 9,364,407 20.99
+[1073] HWIC Asia Fund 6,695,419 15.00
+[1074] Mackinnons Keells Limited 4,808,779 10.78
+[1075] CF Insurance Brokers (Pvt) Ltd
+[1076] 2,441,833 5.47
+[1077] CF Growth Fund Ltd A/C No.01 2,425,280 5.44
+[1078] Mr. M.G.H.I. Jafferjee 155,534 0.35
+[1079] The Incorporated Trustees of the Church of Ceylon 28,958 0.06
+[1080] Mr. K.N.J. Balendra 22,681 0.05
+[1081] Mr. S.J. Hirdaramani 21,060 0.05
+[1082] Mr. D.C. Fernando 17,919 0.04
+[1083] Vinik (Pvt) Limited 14,740 0.03
+[1084] People's Leasing & Finance PLC/Mr. A.B.K. Weeraman
+[1085] 12,108 0.03
+[1086] Mr. K.O.V.S.M.S. Wijesinghe 8,348 0.02
+[1087] Miss N.R. Fonseka 8,200 0.02
+[1088] Miss. T.T. Weerasinghe 7,368 0.02
+[1089] Mr. H.P. Savidu 6,391 0.01
+[1090] Mr. J.C.H. De Soysa 6,000 0.01
+[1091] Mr. K.S.N. Hirdaramani 4,770 0.01
+[1092] Mr. A.K. Gunaratne 4,089 0.01
+[1093] 44, 502, 820 99.74
+[1094] Others 118,755 0.26
+[1095] T otal 44, 621, 575 100.00
+[1096] 30.09.2025
+[1097] N umber %
+[1098] Number of shareholders representing the public holding (Voting) 8,255 35.79
+[1099] Number of shareholders representing the public holding (Non-Voting) 594 0.98
+[1100] LKR. 31.94 Bn
+[1101] Compliant under Option 1 - Float Adjusted Market Capitalization
+[1102] Directors' Holding in Shares as at 30 September 2025
+[1103] Name of the Director No of Shares
+[1104] Voting Non-Voting
+[1105] Mrs. R.S. Cader - -
+[1106] Mr. C.H.A.W. Wickramasuriya - -
+[1107] Mr. A.R. Fernando - -
+[1108] Dr. R. Shanmuganathan - -
+[1109] Mr. C.K. Hettiarachchi - -
+[1110] Mr. H.D. Gunetilleke (Director/CEO) - -
+[1111] Dr. S. Jha - -
+[1112] Mr. K.C. Subasinghe - -
+[1113] Mr. A.K. Wignaraja - -
+[1114] Dr. (Mrs) R.A. Perera - -
+[1115] Ms. M.C. Pietersz - -
+[1116] - -

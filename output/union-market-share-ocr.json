@@ -1,0 +1,22 @@
+{
+  "bank": "Union Bank",
+  "shortName": "Union Bank",
+  "assetBookSize": 103236184,
+  "segments": {
+    "housing": 0,
+    "personal": 0
+  },
+  "reportType": "Q3-2025",
+  "lastUpdated": "2025-09-30",
+  "source": "Union Bank Q3 2025 Interim Financial Statements",
+  "extractedAt": "2025-12-10T16:07:35.456Z",
+  "confidence": "high",
+  "previousYear": {
+    "assetBookSize": 77594428,
+    "segments": {
+      "housing": 0,
+      "personal": 0
+    },
+    "date": "2024-12-31"
+  }
+}

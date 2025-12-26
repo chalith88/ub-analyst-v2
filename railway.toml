@@ -1,0 +1,25 @@
+# Railway.toml - Configuration for UB Scraper deployment
+
+[build]
+builder = "DOCKERFILE"
+dockerfilePath = "Dockerfile"
+
+[deploy]
+# Uses ts-node for runtime flexibility (intentional design choice)
+startCommand = "npx ts-node -T src/server.ts"
+healthcheckPath = "/health"
+healthcheckTimeout = 100
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 10
+
+[[deploy.environmentVariables]]
+name = "NODE_ENV"
+value = "production"
+
+[[deploy.environmentVariables]]
+name = "PORT"
+value = "3000"
+
+[[deploy.environmentVariables]]
+name = "PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD"
+value = "1"

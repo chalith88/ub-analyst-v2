@@ -1,0 +1,1328 @@
+[
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.3,000,000",
+    "amount": "20,000",
+    "updatedAt": "2025-12-01T14:51:50.955Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Rs.3,000,001 - 10,000,000",
+    "amount": "30,000",
+    "updatedAt": "2025-12-01T14:51:50.957Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Rs.10,000,001- 30,000,000",
+    "amount": "35,000",
+    "updatedAt": "2025-12-01T14:51:50.957Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Rs 30,000,001- 50,000,000",
+    "amount": "40,000",
+    "updatedAt": "2025-12-01T14:51:50.958Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Rs.50,000,001- 100,000,000",
+    "amount": "50,000",
+    "updatedAt": "2025-12-01T14:51:50.958Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.100 Mn",
+    "amount": "75,000",
+    "updatedAt": "2025-12-01T14:51:50.958Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "updatedAt": "2025-12-01T14:51:50.960Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "updatedAt": "2025-12-01T14:51:50.960Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "updatedAt": "2025-12-01T14:51:50.961Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "updatedAt": "2025-12-01T14:51:50.961Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "updatedAt": "2025-12-01T14:51:50.961Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.964Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.964Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.964Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.966Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.966Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.966Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.967Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.967Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.967Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.968Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.968Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.968Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.968Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.968Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Professional Loan",
+    "updatedAt": "2025-12-01T14:51:50.968Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.971Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.971Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.971Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.971Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.972Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.972Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.972Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.972Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.972Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.973Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.973Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.973Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.973Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.973Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Pinnacle Loan",
+    "updatedAt": "2025-12-01T14:51:50.973Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Pensioner Loan",
+    "feeType": "Processing Fee",
+    "description": "Irrespective of the loan amount",
+    "amount": "2,500",
+    "updatedAt": "2025-12-01T14:51:50.975Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Education Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "updatedAt": "2025-12-01T14:51:50.976Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Education Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "updatedAt": "2025-12-01T14:51:50.977Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Education Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "updatedAt": "2025-12-01T14:51:50.977Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Education Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "updatedAt": "2025-12-01T14:51:50.978Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Education Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "updatedAt": "2025-12-01T14:51:50.978Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.979Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.980Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.981Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.981Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "One Loan",
+    "updatedAt": "2025-12-01T14:51:50.981Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Solar Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "updatedAt": "2025-12-01T14:51:50.983Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Solar Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "updatedAt": "2025-12-01T14:51:50.984Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Solar Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "updatedAt": "2025-12-01T14:51:50.985Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Solar Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "updatedAt": "2025-12-01T14:51:50.986Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Solar Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "updatedAt": "2025-12-01T14:51:50.987Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.988Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.989Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.989Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Armed Forced Loan",
+    "updatedAt": "2025-12-01T14:51:50.989Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.990Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.990Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Up to Rs.500,000",
+    "amount": "7,500",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.990Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,00,001- 2,000,000",
+    "amount": "10,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 2,000,001 - 5,000,000",
+    "amount": "15,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "LKR 5,000,001- 50,000,000",
+    "amount": "30,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Personal Loan",
+    "feeType": "Processing Fee",
+    "description": "Over Rs.50 Mn",
+    "amount": "75,000",
+    "notes": "Teacher's Loan",
+    "updatedAt": "2025-12-01T14:51:50.991Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Title Report",
+    "description": "Up to LKR 3,000,000",
+    "amount": "6,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:50.993Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Title Report",
+    "description": "Up to LKR 3,000,000",
+    "amount": "6,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:50.993Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Title Report",
+    "description": "LKR 3,000,001 - 25,000,000",
+    "amount": "10,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:50.993Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Title Report",
+    "description": "LKR 3,000,001 - 25,000,000",
+    "amount": "10,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:50.993Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Title Report",
+    "description": "Over Rs.25 Mn",
+    "amount": "15,000+VAT",
+    "updatedAt": "2025-12-01T14:51:50.993Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Title Report",
+    "description": "Over Rs.25 Mn",
+    "amount": "15,000+VAT",
+    "updatedAt": "2025-12-01T14:51:50.993Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "Up to LKR 1,000,000",
+    "amount": "10,000+ VAT",
+    "updatedAt": "2025-12-01T14:51:50.995Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "Up to LKR 1,000,000",
+    "amount": "10,000+ VAT",
+    "updatedAt": "2025-12-01T14:51:50.995Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 1,000,001 - LKR 5,000,000",
+    "amount": ".75%+ VAT minimum of Rs 15,000/-+ VAT",
+    "updatedAt": "2025-12-01T14:51:50.996Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 1,000,001 - LKR 5,000,000",
+    "amount": ".75%+ VAT minimum of Rs 15,000/-+ VAT",
+    "updatedAt": "2025-12-01T14:51:50.996Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 5,000,001 - LKR 10,000,000",
+    "amount": ".6% +VAT minimum of Rs. 40,000/-",
+    "updatedAt": "2025-12-01T14:51:50.997Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 5,000,001 - LKR 10,000,000",
+    "amount": ".6% +VAT minimum of Rs. 40,000/-",
+    "updatedAt": "2025-12-01T14:51:50.997Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 10,000,001 - LKR 20,000,000",
+    "amount": ".7%+VAT",
+    "updatedAt": "2025-12-01T14:51:50.997Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 10,000,001 - LKR 20,000,000",
+    "amount": ".7%+VAT",
+    "updatedAt": "2025-12-01T14:51:50.997Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 20,000,001 – Rs.50,000,000",
+    "amount": ".5%+VAT",
+    "updatedAt": "2025-12-01T14:51:50.998Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 20,000,001 – Rs.50,000,000",
+    "amount": ".5%+VAT",
+    "updatedAt": "2025-12-01T14:51:50.998Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 50,000,001 - LKR 100,000,000",
+    "amount": ".3%+VAT",
+    "updatedAt": "2025-12-01T14:51:50.999Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 50,000,001 - LKR 100,000,000",
+    "amount": ".3%+VAT",
+    "updatedAt": "2025-12-01T14:51:50.999Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 100,000,001 and above",
+    "amount": ".2%+VAT Max. of Rs.450,000",
+    "updatedAt": "2025-12-01T14:51:50.999Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Mortgage Bond",
+    "description": "LKR 100,000,001 and above",
+    "amount": ".2%+VAT Max. of Rs.450,000",
+    "updatedAt": "2025-12-01T14:51:50.999Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Personal/Corporate Guarantees",
+    "description": "Upto LKR 1,000,000",
+    "amount": "10,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.000Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Personal/Corporate Guarantees",
+    "description": "Upto LKR 1,000,000",
+    "amount": "10,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.000Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Personal/Corporate Guarantees",
+    "description": "LKR 1,000,001- 10,000,000",
+    "amount": "15,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.001Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Personal/Corporate Guarantees",
+    "description": "LKR 1,000,001- 10,000,000",
+    "amount": "15,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.001Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Personal/Corporate Guarantees",
+    "description": "LKR 10,000,001 -50,000,000",
+    "amount": "25,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.002Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Personal/Corporate Guarantees",
+    "description": "LKR 10,000,001 -50,000,000",
+    "amount": "25,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.002Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Personal/Corporate Guarantees",
+    "description": "LKR 50,000,001 and above",
+    "amount": "35,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.002Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Personal/Corporate Guarantees",
+    "description": "LKR 50,000,001 and above",
+    "amount": "35,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.002Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Deed of release (unless the amount is specified in the terms and conditions)",
+    "amount": "15,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.003Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Deed of release (unless the amount is specified in the terms and conditions)",
+    "amount": "15,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.003Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Deed of discharge",
+    "amount": "15,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.004Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Deed of discharge",
+    "amount": "15,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.004Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Execution of 47A declaration",
+    "amount": "4,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.004Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Execution of 47A declaration",
+    "amount": "4,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.004Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Condominium tripartite agreement - buyer",
+    "amount": "100% of the mortgage value when executing the tripartite agreement and Rs. 30,000/- when the mortgage bond is being executed",
+    "updatedAt": "2025-12-01T14:51:51.005Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Condominium tripartite agreement - buyer",
+    "amount": "100% of the mortgage value when executing the tripartite agreement and Rs. 30,000/- when the mortgage bond is being executed",
+    "updatedAt": "2025-12-01T14:51:51.005Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Condominium tripartite agreement - developer",
+    "amount": "50,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.005Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Condominium tripartite agreement - developer",
+    "amount": "50,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.005Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Site inspection charges",
+    "amount": "50 per km",
+    "updatedAt": "2025-12-01T14:51:51.006Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Site inspection charges",
+    "amount": "50 per km",
+    "updatedAt": "2025-12-01T14:51:51.006Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Home Loan",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Any other deed/document (supplementary agreement/deed of cancellation/additional mortgage/deed of declaration/deed of rectification/deed of confirmation/deed of postponement/addendum/instrument of cancellation of mortgage AND etc)",
+    "amount": "15,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.006Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  },
+  {
+    "bank": "DFCC Bank",
+    "product": "Loan Against Property",
+    "feeType": "Legal Fees - Other Charges",
+    "description": "Any other deed/document (supplementary agreement/deed of cancellation/additional mortgage/deed of declaration/deed of rectification/deed of confirmation/deed of postponement/addendum/instrument of cancellation of mortgage AND etc)",
+    "amount": "15,000 + VAT",
+    "updatedAt": "2025-12-01T14:51:51.006Z",
+    "source": "https://properties.dfcc.lk/dfccweb/uploads/7d073e00-f294-409f-ab28-2bc3b559b7b2/DFCC-Bank-PLC-Tariff-2025-Version-3.02.pdf"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "bank": "Bank of Ceylon",
+  "shortName": "BOC",
+  "assetBookSize": 1705124546,
+  "segments": {
+    "housing": 66148403,
+    "personal": 363605520
+  },
+  "previousYear": {
+    "assetBookSize": 1607455600,
+    "segments": {
+      "housing": 67997632,
+      "personal": 344020059
+    },
+    "date": "2024-12-31"
+  },
+  "reportType": "Q3-2025",
+  "lastUpdated": "2025-09-30",
+  "source": "Bank of Ceylon Q3 2025 Interim Financial Statements - Product-wise Gross Loans",
+  "extractedAt": "2025-12-10T16:06:39.712Z",
+  "confidence": "high"
+}

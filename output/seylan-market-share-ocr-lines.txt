@@ -1,0 +1,130 @@
+[0] SEYLAN BANK PLC
+[1] F I N A N C I A L S T A T E M E N T S
+[2] Nine Months ended 30th September, 2025
+[3] LKR'000 LKR'000
+[4] STATEMENT OF FINANCIAL POSITION STATEMENT OF COMPREHENSIVE INCOME
+[5] BANK BANK BANK
+[6] GROUP
+[7] For the Nine Months Ended For the Quarter Ended
+[8] 30th September 30th September
+[9] As at 30.09.2025 As at 31.12.2024 Growth As at 30.09.2025 As at 31.12.2024 Growth
+[10] 2025 2024 2024 Growth % 2025 Growth %
+[11] (Audited) % (Audited) %
+[12] Interest Income 60,066,268 63,696,556 (5.70) 20,647,128 19,750,787 4.54
+[13] Less: Interest Expenses 33,008,825 36,434,750 (9.40) 11,351,819 11,079,026 2.46
+[14] Assets
+[15] Net Interest Income 27,057,443 27,261,806 (0.75) 9,295,309 8,671,761 7.19
+[16] Cash and Cash Equivalents 18,964,213 17,384,396 9.09 18,964,214 17,384,436 9.09
+[17] Net Fee and Commission Income 6,760,588 5,828,577 15.99 2,444,587 2,089,675 16.98
+[18] Balances with Central Bank of Sri Lanka 5,263,491 8,719,115 (39.63 ) 5,263,491 8,719,115 (39.63 )
+[19] Other Operating Income 1,327,839 1,173,209 13.18 292,157 222,793 31.13
+[20] Total Operating Income 35,145,870 34,263,592 2.57 12,032,053 10,984,229 9.54
+[21] Placements with Banks and Finance Companies 30,608,931 50,156,002 (38.97 ) 30,608,931 50,156,002 (38.97 )
+[22] Less: Impairment Charges 772,287 4,149,782 (81.39) 281,331 1,194,117 (76.44)
+[23] Derivative Financial Instruments 10,484 17,398 (39.74 ) 10,484 17,398 (39.74 )
+[24] Less: Personnel Expenses 8,748,772 8,085,327 8.21 2,947,636 2,713,586 8.63
+[25] Less: Other Expenses 8,395,634 7,588,271 10.64 2,938,792 2,571,719 14.27
+[26] Financial Assets recognised through Profit or Loss 13,198,000 21,454,098 (38.48 ) 13,198,000 21,454,098 (38.48 )
+[27] Financial Assets at Amortised Cost
+[28] Operating Profit before Taxes 17,229,177 14,440,212 19.31 5,864,294 4,504,807 30.18
+[29] - Loans and Advances 533,755,460 462,950,751 15.29 533,755,460 462,950,751 15.29
+[30] Less: Income Tax and Other Taxes 8,902,139 7,847,125 13.44 3,025,958 2,470,050 22.51
+[31] - Debt and Other Instruments 132,633,152 136,224,930 (2.64 ) 132,727,864 136,314,858 (2.63 )
+[32] Profit for the Period 8,327,038 6,593,087 26.30 2,838,336 2,034,757 39.49
+[33] Financial Assets measured at Fair Value through Other Comprehensive Income 92,892,528 56,248,530 65.15 93,256,493 56,615,939 64.72
+[34] Other Comprehensive Income/(loss) for the Period, net of Taxes 1,590,076 (96,218) 1,752.58 (126,674) (223,550) 43.34
+[35] Investment in Subsidiary 1,153,602 1,153,602 - - - -
+[36] Total Comprehensive Income for the Period 9,917,114 6,496,869 52.64 2,711,662 1,811,207 49.72
+[37] GROUP GROUP
+[38] Property, Plant & Equipment 5,011,747 5,100,594 (1.74 ) 7,794,734 7,923,121 (1.62 )
+[39] For the Nine Months Ended For the Quarter Ended
+[40] Tax Assets - 205,963 (100.00 ) - - - 30th September 30th September
+[41] 2025 2024 2024 Growth % 2025 Growth %
+[42] Other Assets 19,648,509 20,074,460 (2.12 ) 18,105,145 18,531,459 (2.30 )
+[43] Interest Income 60,106,609 63,741,790 (5.70) 20,660,556 19,763,721 4.54
+[44] Less: Interest Expenses 32,765,235 36,195,703 (9.48) 11,270,494 11,002,950 2.43
+[45] Total Assets 853,140,117 779,689,839 9.42 853,684,816 780,067,177 9.44
+[46] Net Interest Income 27,341,374 27,546,087 (0.74) 9,390,062 8,760,771 7.18
+[47] Liabilities
+[48] Net Fee and Commission Income 6,756,286 5,827,806 15.93 2,441,658 2,089,568 16.85
+[49] Other Operating Income 1,285,221 1,141,659 12.57 331,063 246,580 34.26
+[50] Due to Banks 22,537,256 8,141,795 176.81 22,537,256 8,141,795 176.81
+[51] Total Operating Income 35,382,881 34,515,552 2.51 12,162,783 11,096,919 9.61
+[52] Derivative Financial Instruments 41,817 809 5,068.97 41,817 809 5,068.97
+[53] Less: Impairment Charges 772,287 4,149,782 (81.39) 281,331 1,194,117 (76.44)
+[54] Financial Liabilities at Amortised Cost
+[55] Less: Personnel Expenses 8,786,962 8,124,049 8.16 2,959,431 2,725,540 8.58
+[56] Less: Other Expenses 8,480,918 7,695,697 10.20 2,967,133 2,606,570 13.83
+[57] - Due to Depositors 674,854,107 646,817,333 4.33 674,854,107 646,817,333 4.33
+[58] Operating Profit before Taxes 17,342,714 14,546,024 19.23 5,954,888 4,570,692 30.28
+[59] - Due to Borrowers 5,057,992 1,485,675 240.45 5,057,992 1,485,675 240.45
+[60] Debt Securities Issued 38,989,658 25,128,383 55.16 38,989,658 25,128,383 55.16 Less: Income Tax and Other Taxes 8,972,252 7,918,561 13.31 3,050,713 2,494,204 22.31
+[61] Tax Liabilities 3,645,533 1,489,697 144.72 4,347,878 1,979,772 119.62
+[62] Profit for the Period 8,370,462 6,627,463 26.30 2,904,175 2,076,488 39.86
+[63] Profit Attributable to:
+[64] Other Liabilities & Provisions 29,832,934 26,137,675 14.14 26,484,312 22,837,598 15.97
+[65] Equity Holders of the Bank 8,330,425 6,604,193 26.14 2,887,512 2,065,926 39.77
+[66] Non-controlling Interest 40,037 23,270 72.05 16,663 10,562 57.76
+[67] Total Liabilities 774,959,297 709,201,367 9.27 772,313,020 706,391,365 9.33 Profit for the Period 8,370,462 6,627,463 26.30 2,904,175 2,076,488 39.86
+[68] Other Comprehensive Income/(loss) for the Period, net of Taxes 1,589,179 (86,325) 1,940.93 (129,973) (227,596) 42.89
+[69] Total Comprehensive Income for the Period 9,959,641 6,541,138 52.26 2,774,202 1,848,892 50.05
+[70] Equity
+[71] Total Comprehensive Income Attributable to:
+[72] Equity Holders of the Bank 9,919,831 6,514,873 52.26 2,758,374 1,839,354 49.96
+[73] Stated Capital 21,693,370 21,693,370 - 21,693,370 21,693,370 -
+[74] Non-controlling Interest 39,810 26,265 51.57 15,828 9,538 65.95
+[75] Statutory Reserve Fund 3,383,537 3,383,537 - 3,383,537 3,383,537 - Total Comprehensive Income for the Period 9,959,641 6,541,138 52.26 2,774,202 1,848,892 50.05
+[76] Retained Earnings 47,636,808 41,525,916 14.72 48,474,868 42,360,589 14.43
+[77] SELECTED PERFORMANCE INDICATORS
+[78] Other Reserves 5,467,105 3,885,649 40.70 6,748,208 5,167,422 30.59
+[79] BANK GROUP Item
+[80] Total Shareholders' Equity 78,180,820 70,488,472 10.91 80,299,983 72,604,918 10.60
+[81] 30.09.2025 31.12.2024 30.09.2025 31.12.2024
+[82] Regulatory Capital (LKR Mn.)
+[83] Common Equity Tier I 64,480 66,565 65,502 67,793
+[84] Non-controlling Interest - - - 1,071,813 1,070,894 0.09
+[85] Total (Tier I) Capital 64,480 66,565 65,502 67,793
+[86] Total Capital Base 96,615 86,837 97,637 88,064
+[87] Total Equity 78,180,820 70,488,472 10.91 81,371,796 73,675,812 10.45
+[88] Regulatory Capital Ratios (%)
+[89] Common Equity Tier I Capital Ratio 12.24 14.25 12.42 14.50
+[90] Total Equity & Liabilities 853,140,117 779,689,839 9.42 853,684,816 780,067,177 9.44
+[91] (Minimum Requirement - 7.00%)
+[92] Total Tier I Capital Ratio 12.24 14.25 12.42 14.50
+[93] Contingent Liabilities and Commitments 275,490,485 180,816,364 52.36 275,495,100 180,821,071 52.36
+[94] (Minimum Requirement - 8.50%)
+[95] Total Capital Ratio 18.34 18.59 18.52 18.84
+[96] (Minimum Requirement - 12.50%)
+[97] Certification;
+[98] Leverage Ratio (%) 7.11 8.16 7.22 8.30
+[99] I certify that the above Financial Statements are in compliance with the requirements of the Companies Act No. 07 of 2007.
+[100] (Minimum Requirement - 3.00%)
+[101] Regulatory Liquidity Requirement
+[102] Shanuka Jayarathna
+[103] Liquidity Coverage Ratio %
+[104] Rupee - (Minimum Requirement - 100%) 276.57 415.75
+[105] Chief Financial Officer - Designate
+[106] All Currency - (Minimum Requirement -100%) 317.20 491.37
+[107] Net Stable Funding Ratio (%) 132.90 144.76
+[108] (Minimum Requirement - 100%)
+[109] We the undersigned, being the Chairman, Director/ Chief Executive Officer of Seylan Bank PLC certify jointly that,
+[110] Assets Quality
+[111] Impaired Loans (Stage 3) Ratio (%) 1.48 2.10
+[112] a) the above statements have been prepared in compliance with the format and definitions prescribed by the Central Bank of Sri Lanka; and
+[113] Impairment (Stage 3) to Stage 3 Loans Ratio (%) 83.22 80.90
+[114] b) the information contained in these statements have been extracted from the un-audited Financial Statements of the Bank & Group unless indicated as audited.
+[115] Income & Profitability
+[116] Net Interest Margin (%) 4.48 4.90
+[117] Return on Assets (before Tax) (%) 2.12 2.14
+[118] (Sgd.) (Sgd.)
+[119] Return on Equity (%) 15.08 15.35
+[120] Justice Buwaneka Aluwihare PC Ramesh Jayasekara
+[121] Cost to Income Ratio (%) 48.78 47.05
+[122] Chairman Director/Chief Executive Officer
+[123] Memorandum Information
+[124] Credit Rating - Fitch A+ (lka) A+ (lka)
+[125] October 28, 2025
+[126] Number of Employees 3,252 3,211
+[127] Colombo
+[128] Number of Banking Centers 170 170
+[129] Head Office: Seylan Tower, No. 90, Galle Road, Colombo 3. | Tel: 011 245 6789 | E-mail: info@seylan.lk | Web: www.seylan.lk/about-us/investor-relation | SWIFT: SEYBLKLX

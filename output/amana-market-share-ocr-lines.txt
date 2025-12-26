@@ -1,0 +1,696 @@
+[0] Amana Bank PLC (PB 3618 PQ)
+[1] Interim Financial Statements
+[2] 30 September 2025
+[3] Vision
+[4] To be an admired leader in providing equitable financial solutions,
+[5] not limited to numerics, but also in earning the trust of our
+[6] customers, employees, shareholders and country.
+[7] Mission
+[8] To adopt a unique and people friendly approach in
+[9] banking with a passion for continuous improvement,
+[10] enabling growth and enriching lives.
+[11] Amãna Bank records stellar performance in Q3 2025
+[12] • Q3 PAT soar s by 98%
+[13] • 9 Month P BT reaches LKR 2.7 Bn
+[14] • YTD Advances up by 30% with industry low NPA of 1.1%
+[15] Amãna Bank continued its strong profitability momentum by nearly doubling its profits in Q3 to reach
+[16] a YTD PBT of LKR 2.7 billion (39% YoY) and PAT of LKR 1.6 billion (44% YoY), setting a new record by
+[17] achieving the Bank’s 2024 full - year PBT in 9 months. During Q3, PBT soared by 91% YoY to LKR 1.2
+[18] billion and after taxation, profit stood at LKR 0.7 b illion , re cording a 98% YoY growth .
+[19] On the Bank’s top - line performance, Net Financing Income during Q3 grew significantly by 42% YoY to
+[20] reach LKR 2.26 billion, resulting in a 19% YoY increase in Net Financing Income for the 9 months ended
+[21] 30 September 2025 to reach LKR 6.1 billion , supported by a healthy financing margin of 4.2 %. The
+[22] Bank’s Net Fee and Commission Income recorded strong growth of 53% YoY during Q3 to reach LKR
+[23] 417.1 million and 35% YoY during the nine months to surpass the LKR 1 billion mark. This contributed
+[24] to Total Operati ng Income rising to LKR 2. 8 billion in Q3 and LKR 7. 5 billion as of 30 September 2025 ,
+[25] translating to a YoY growth of 3 4% and 15 % respectively.
+[26] The r e sultant impact of improved business environment, proactive customer engagement , and
+[27] strengthened portfolio quality , enabled the Bank to achieve a reversal in its Impairment Charges,
+[28] leading to a 49% increase in Net Operating Income to LKR 3.0 billion for Q3 and a 24% increase to LKR
+[29] 7. 6 billion for the 9 months ended 30 September 2025.
+[30] The Bank improved its Cost - to - Income Ratio to 49% in Q3, while also strengthening its overall ratio to
+[31] 51% as of 30 September 2025, compared to 52% recorded at the end of both Q1 and H1 2025 and
+[32] 53% in 2024 . This improvement resulted in the Bank’s Operating Profit Before All Taxes reaching LKR
+[33] 3. 8 billion for the 9 months and LKR 1. 7 billion for Q3, reflecting year - on - year growth of 40% and 91%,
+[34] respectively. Reinforcing its strong financial trajectory, the Bank recorded a Total Comprehensive
+[35] Income of LKR 1. 9 billion for the period, reflecting 70% YoY growth.
+[36] T he Bank recorded a commendable 30% increase or LKR 33.2 billion growth in customer advances
+[37] during the 9 months , thereby contributing to the national economy through the Bank’s development -
+[38] focussed financing model , to close advances at LKR 144.5 billion , while also setting an industry
+[39] benchmark of 71% of Total Assets consisting of Advances .
+[40] This performance was achieved while continuing to have one of the lowest industry - wide Stage 3
+[41] Impaired financing ratio of 1. 1 % owing to the Bank’s effective risk management and underwriting
+[42] standards, driven by its unique people friendly approach. The Bank’s deposits grew by LKR 15 billion
+[43] to close the quarter with LKR 169.5 billion while maintaining an industry best CASA ratio of over 4 3 %.
+[44] The Bank’s Total Assets which recently crossed the milestone of LKR 200 billion, closed at LKR 202.6
+[45] billion as of 30 September 2025, a 11% growth from YE 2024.
+[46] 1
+[47] Reinforcing its upward profitability trend, the Bank’s Return on Equity climbed to 9.0%, with Return
+[48] on Assets rising to 1.9%. The Bank’s Common Equity Tier 1 ratio closed at 12.7%, whilst Total Capital
+[49] ratio was at 14.6 %, well above the regulatory minimum requirement of 7% and 12.5% respectively ,
+[50] testifying the Bank’s stability . Further, the Bank’s Liquidity Coverage Ratio s - Rupee and A ll Currency
+[51] stood at 234.0% and 173.1% respectively as at 30 September 2025 , whilst the Net Stable Funding Ratio
+[52] was 132. 5%, all of which comfortably exceeded the minimum requirement of 100% each .
+[53] th
+[54] Recently, the Bank paid its 8 successive interim dividend of LKR 1.30 per share totalling to a n all - time
+[55] high pay - out of LKR 716.5 million , continuing the trend of creating value to its shareholders.
+[56] During the quarter under review, Amana Bank emerged as the Best Bank in Sri Lanka at the prestigious
+[57] Indian Chamber of Commerce (ICC) Emerging Asia Banking Awards 2025, adjudicated by PwC.
+[58] Competing within the robust lo cal bank ing industry , this pinnacle award, recognises Amana Bank’s
+[59] continuous performance and growth during the last three years, customer - centric approach, and
+[60] pioneering role in promoting its non - interest based people friendly and development focussed
+[61] banking model. In addi tion to this cove ted title, Amana Bank was also honoured with the award for
+[62] Best Performance on Asset Quality, reflecting the Bank’s disciplined credit management, prudent risk
+[63] assessment, and strong financial resilience. The Bank was also conferred the title ‘South Asia’s Islamic
+[64] Bank of the Decade’ at the I slamic F inance F orum of S outh A sia Awards 2025.
+[65] Commenting on the Bank’s recent performance Chairman Asgi Akbarally stated “Our strong financial
+[66] performance in 2025 reaffirms the soundness of our strategy and our commitment to delivering
+[67] sustainable value to shareholders. We have continued to enhance profitability while maintaining
+[68] disciplined growth and a robust balance sheet , positioning Amãna Bank as a resilient institution in a
+[69] dynamic operating environment. This consistent trajectory of performance and purpose was further
+[70] validated when the Bank was recognised as the Best Bank in Sri Lanka at the ICC Emerging Asia Awards
+[71] — an honour that celebrates the collective dedication of the Amana Bank Team.”
+[72] Also sharing his comments Managing Director/CEO Mohamed Azmeer stated “Our performance in Q3,
+[73] where profits nearly doubled, demonstrates the effectiveness of the Bank’s focused execution of our
+[74] plans. The significant growth in advances, achieved while maintaining one of the lowest Stage 3
+[75] impairment ratios in the industry, underscores the strength of our business model and disciplined
+[76] portfolio management. As we continue our journey, we remain committed to offering a people -
+[77] friendly and development - focused banking experience that empowers individuals and businesses to
+[78] progress with confidence and purpose. Building on this momentum, we remain optimistic of further
+[79] elevating our performance and look forward to closing another year with resounding success.”
+[80] Amãna Bank PLC is a stand - alone institution licensed by the Central Bank of Sri Lanka and listed on the
+[81] Colombo Stock Exchange with Jeddah - based IsDB Group being the principal shareholder of the Bank.
+[82] The IsDB Group is a ‘AAA’ rated multilateral developmen t financial institution with a membership of
+[83] 57 countries. Testifying its position as a leading practitioner of the non - interest based banking model,
+[84] Amãna Banks continued to be recognized amongst the Top 25 Strongest Islamic Banks in the World
+[85] by The Asia n Banker.
+[86] Amãna Bank does not have any subsidiaries, associates, or affiliated institutions apart from its
+[87] engagement with OrphanCare as its Founding Sponsor.
+[88] 2
+[89] Amãna Bank PLC (PB 3618 PQ)
+[90] STATEMENT OF PROFIT OR LOSS
+[91] NINE MONTHS ENDED QUARTER ENDED
+[92] FOR THE
+[93] 30 SEPTEMBER 30 SEPTEMBER
+[94] 2025 2024 2025 2024
+[95] Change Change
+[96] % %
+[97] (Rs. '000) (Rs. '000) (Rs '000) (Rs '000)
+[98] Financing Income 12,427,702 11,701,029 6% 4,437,116 3,650,183 22%
+[99] Financing Expenses (6,339,560) (6,569,316) (3%) (2,181,753) (2,058,122) 6%
+[100] Net Financing Income 6,088,142 5,131,713 19% 2,255,363 1,592,061 42%
+[101] Net Fee and Commission Income 1,069,308 792,358 35% 417,132 273,412 53%
+[102] Net Trading Income 297,457 571,798 (48%) 76,334 201,918 (62%)
+[103] Net Gains / (Losses) from Financial Investments at Fair Value
+[104] 17,290 3,744 362% 13,907 (609) 2,384%
+[105] through Profit or Loss
+[106] Net Gains / (Losses) from Derecognition of Financial Assets (827) (1,420) (42%) (695) (870) (20%)
+[107] Net Other Operating Income 4,040 2,783 45% 2,481 1,741 43%
+[108] Total Operating Income 7,475,410 6,500,976 15% 2,764,522 2,067,653 34%
+[109] Impairment (Charges) / Reversals 112,435 (386,212) 129% 256,125 (34,487) 843%
+[110] Net Operating Income 7,587,845 6,114,764 24% 3,020,647 2,033,166 49%
+[111] Personnel Expenses 1,902,935 1,687,888 13% 642,672 560,678 15%
+[112] Depreciation and Amortisation of Property, Plant, Equipment and
+[113] 267,054 239,806 11% 89,312 80,850 10%
+[114] Right-of-Use Assets
+[115] Other Operating Expenses 1,646,080 1,493,098 10% 627,387 523,257 20%
+[116] Total Operating Expenses 3,816,069 3,420,792 12% 1,359,371 1,164,785 17%
+[117] Operating Profit Before VAT on Financial Services and
+[118] 3,771,776 2,693,972 40% 1,661,276 868,381 91%
+[119] Social Security Contribution Levy
+[120] VAT on Financial Services (905,819) (618,233) 47% (404,648) (207,034) 95%
+[121] Social Security Contribution Levy (119,678) (92,887) 29% (48,333) (29,916) 62%
+[122] Profit Before Tax 2,746,279 1,982,852 39% 1,208,295 631,431 91%
+[123] Tax Expense (1,139,033) (863,514) 32% (502,383) (275,514) 82%
+[124] Profit for the Period 1,607,246 1,119,338 44% 705,912 355,917 98%
+[125] Earnings Per Share -
+[126] - Basic / Diluted (in Rs.) 2.92 2.03 44% 1.28 0.65 98%
+[127] 3
+[128] Amãna Bank PLC (PB 3618 PQ)
+[129] STATEMENT OF COMPREHENSIVE INCOME
+[130] NINE MONTHS ENDED QUARTER ENDED
+[131] FOR THE
+[132] 30 SEPTEMBER 30 SEPTEMBER
+[133] 2025 2024 2025 2024
+[134] Change Change
+[135] % %
+[136] (Rs. '000) (Rs. '000) (Rs '000) (Rs '000)
+[137] Profit for the Period 1,607,246 1,119,338 44% 705,912 355,917 98%
+[138] Other Comprehensive Income/(Loss)
+[139] Other Comprehensive Income not to be Reclassified to Profit or Loss in
+[140] Subsequent Periods:
+[141] Financial Assets - Fair Value through Other Comprehensive Income:
+[142] Net Gain / (Loss) on Financial Assets - Fair Value through Other
+[143] 259,196 (18,906) 1,471% 229,485 (10,804) 2,224%
+[144] Comprehensive Income
+[145] 259,196 (18,906) 1,471% 229,485 (10,804) 2,224%
+[146] Net Comprehensive Income not to be Reclassified to Profit or Loss in
+[147] 259,196 (18,906) 1,471% 229,485 (10,804) 2,224%
+[148] Subsequent Periods:
+[149] Other Comprehensive Income / (Loss) for the Period Net of Tax 259,196 (18,906) 1,471% 229,485 (10,804) 2,224%
+[150] Total Comprehensive Income for the Period 1,866,442 1,100,432 70% 935,397 345,113 171%
+[151] 4
+[152] Amãna Bank PLC (PB 3618 PQ)
+[153] STATEMENT OF FINANCIAL POSITION
+[154] 30 SEP 2025 31 DEC 2024
+[155] Change
+[156] AS AT
+[157] (AUDITED)
+[158] %
+[159] (Rs. '000) (Rs. '000)
+[160] Assets
+[161] Cash and Cash Equivalents 14,807,468 17,070,765 (13%)
+[162] Balances with Central Bank of Sri Lanka 6,739,555 7,078,039 (5%)
+[163] Placements with Banks 27,551,640 38,311,690 (28%)
+[164] Placements with Licensed Finance Companies 1,015,913 507,640 100%
+[165] Derivative Financial Assets 2,331 177,461 (99%)
+[166] Financial Assets Designated at Fair Value through Profit or Loss 110,358 70,217 57%
+[167] Financial Assets at Amortised Cost - Financing and Receivables to Other Customers 144,547,193 111,301,849 30%
+[168] Financial Assets Measured at Fair Value through Other Comprehensive Income 348,711 74%
+[169] 607,999
+[170] Other Assets - Financial 2,008,647 2,829,580 (29%)
+[171] Property, Plant, Equipment And Right-of-Use Assets 3,023,850 2,968,027 2%
+[172] Intangible Assets 490,772 337,563 45%
+[173] Other Assets - Non Financial 853,827 510,950 67%
+[174] Deferred Tax Assets 824,317 824,317 -
+[175] Total Assets 202,583,870 182,336,809 11%
+[176] Liabilities
+[177] Due to Banks 18,949 13,473%
+[178] 2,572,028
+[179] Derivative Financial Liabilities 836 22,857 (96%)
+[180] Financial Liabilities at Amortised Cost - Due to Depositors 169,463,676 154,405,710 10%
+[181] Other Liabilities - Financial
+[182] 4,088,181 4,099,975 (0%)
+[183] Current Tax Liabilities 996,660 473,465 111%
+[184] Dividend Payable
+[185] 77,479 99,471 (22%)
+[186] Retirement Benefit Liability 207,286 186,731 11%
+[187] Other Liabilities - Non Financial 187,790 147%
+[188] 464,445
+[189] Total Liabilities 177,870,591 159,494,948 12%
+[190] Shareholders' Funds
+[191] Stated Capital 17,633,461 17,633,461 -
+[192] ESOP Reserve 83,494 78,518 6%
+[193] Statutory Reserve Fund 355,174 355,174 -
+[194] Revaluation Reserve 1,006,066 1,006,066 -
+[195] Fair Value Reserve 360,794 101,598 255%
+[196] Retained Earnings 44%
+[197] 5,274,290 3,667,044
+[198] Total Equity 24,713,279 22,841,861 8%
+[199] Total Liabilities and Shareholders' Funds 202,583,870 182,336,809 11%
+[200] Net Asset Value per Ordinary Share 44.84 41.45
+[201] Commitments and Contingencies 52,657,606 49,602,675
+[202] CERTIFICATION:
+[203] I certify that these Financial Statements comply with the requirements of the Companies Act No. 07 of 2007.
+[204] SGD
+[205] M. Ali Wahid
+[206] Chief Financial Officer
+[207] 12 November 2025
+[208] We, the undersigned, being Chairman and Managing Director / Chief Executive Officer of Amana Bank PLC certify jointly that:-
+[209] (a) the above statements have been prepared in compliance with the format and definitions prescribed by the Central Bank of Sri Lanka
+[210] and Rule 7.4 of Colombo Stock Exchange.
+[211] (b) the information contained in these statements have been extracted from the unaudited Financial Statements of the Bank unless
+[212] indicated as audited.
+[213] SGD SGD
+[214] Ali Asghar Akbarally Mohamed Azmeer
+[215] Chairman Managing Director / CEO
+[216] 12 November 2025 12 November 2025
+[217] 5
+[218] Amãna Bank PLC (PB 3618 PQ)
+[219] STATEMENT OF CHANGES IN EQUITY
+[220] Stated Statutory
+[221] ESOP Revaluation Fair Value Retained
+[222] Total
+[223] Capital Reserve Reserve Reserve Reserve Earnings
+[224] Fund
+[225] As at 31 December 2023 (Audited) 17,633,461 50,979 266,441 1,007,191 71,888 2,666,624 21,696,584
+[226] Profit for the nine months ended 30 September 2024 - - - - - 1,119,338 1,119,338
+[227] Other Comprehensive Income for the nine months ended 30 September 2024 - - - - (18,906) - (18,906)
+[228] Share-Based Payment Expense - 20,654 - - - - 20,654
+[229] As at 30 September 2024 17,633,461 71,633 266,441 1,007,191 52,982 3,785,962 22,817,670
+[230] Profit for the three months ended 31 December 2024 - - - - - 655,328 655,328
+[231] Other Comprehensive Income for the three months ended 31 December 2024 - - - - 48,616 (25,287) 23,329
+[232] Interim Dividend 2024 - - - - - (661,351) (661,351)
+[233] Share-Based Payment Expenses - 6,885 - - - - 6,885
+[234] Transfers to Statutory Reserve Fund - - 88,733 - - (88,733) -
+[235] Transferred to Retained Earnings - - - (1,125) - 1,125 -
+[236] As at 31 December 2024 (Audited) 17,633,461 78,518 355,174 1,006,066 101,598 3,667,044 22,841,861
+[237] Profit for the nine months ended 30 September 2025 - - - - - 1,607,246 1,607,246
+[238] Other Comprehensive Income for the nine months ended 30 September 2025 - - - - 259,196 - 259,196
+[239] Share-Based Payment Expenses - 4,976 - - - - 4,976
+[240] As at 30 September 2025 17,633,461 83,494 355,174 1,006,066 360,794 5,274,290 24,713,279
+[241] 6
+[242] Amãna Bank PLC (PB 3618 PQ)
+[243] STATEMENT OF CASH FLOWS
+[244] FOR THE
+[245] NINE MONTHS ENDED
+[246] 30 SEPTEMBER
+[247] 2025 2024
+[248] (Rs. '000) (Rs. '000)
+[249] Cash Flows from Operating Activities
+[250] Financing Income Received 12,665,055 12,131,633
+[251] Fees and Commission Received 1,069,020 790,938
+[252] Financing Expenses Paid (6,038,295) (7,448,340)
+[253] Foreign Exchange Income 297,457 571,798
+[254] Gratuity Payments Made (7,845) (12,434)
+[255] Payments to Employees and Suppliers (4,541,136) (3,845,873)
+[256] Operating Profit/(Loss) before Changes in Operating Assets and Liabilities 3,444,256 2,187,722
+[257] (Increase) / Decrease in Operating Assets
+[258] Financing and Receivable to Other Customers (33,146,311) (15,147,108)
+[259] Other Assets 397,442 22,752
+[260] Balance with Central Bank of Sri Lanka 338,484 556,130
+[261] Increase / (Decrease) in Operating Liabilities
+[262] Due to Other Customers 14,809,953 13,720,456
+[263] Due to Banks 2,553,079 (299,935)
+[264] Other Liabilities 393,240 (669,931)
+[265] Net Cash Flow from Operating Activities before Income Tax (11,209,857) 370,086
+[266] Income Tax Paid (615,838) (999,964)
+[267] Net Cash From / (Used In) Operating Activities (11,825,695) (629,878)
+[268] Cash Flows From/(Used In) Investing Activities
+[269] Acquisition of Property, Plant & Equipment (136,660) (245,332)
+[270] Proceeds from Sale of Property, Plant and Equipment - -
+[271] Acquisition of Intangible Assets (285,814) (21,456)
+[272] Investments in Placements with Banks 10,521,022 6,546,997
+[273] Investments in Placements with Licensed Finance Companies (500,002) (500,000)
+[274] Financial Assets Recognised through Profit or Loss - Measured at Fair Value (22,851) (130,955)
+[275] Dividend Received from Financial Assets 3,501 2,783
+[276] Financial Assets Recognised through OCI - Measured at Fair Value (92) -
+[277] 9,579,104 5,652,037 Net Cash From / (Used In) Investing Activities
+[278] Cash Flows From / (Used In) Financing Activities
+[279] Rights Issue of Shares - -
+[280] Share Issue Expenses - -
+[281] Dividend Paid (21,992) (2)
+[282] Net Cash From / (Used In) Financing Activities (21,992) (2)
+[283] Net Increase / (Decrease) in Cash and Cash Equivalents (2,268,583) 5,022,157
+[284] Cash and Cash Equivalents at the Beginning of the Year 17,077,573 11,107,767
+[285] Cash and Cash Equivalents at the End of the Period - Gross of Allowance for Impairment 14,808,990 16,129,924
+[286] CASH AND CASH EQUIVALENTS
+[287] 2025 2024
+[288] (Rs. '000) (Rs. '000)
+[289] Cash in Hand
+[290] 8,889,106 11,136,718
+[291] Balances with Banks
+[292] 5,919,884 4,993,206
+[293] 14,808,990 16,129,924
+[294] Less: Allowance for Impairment
+[295] (1,522) (7,837)
+[296] Total
+[297] 14,807,468 16,122,087
+[298] 7
+[299] Amãna Bank PLC (PB 3618 PQ)
+[300] NOTES TO THE FINANCIAL STATEMENTS
+[301] 01. ANALYSIS OF FINANCIAL INSTRUMENTS BY MEASUREMENT BASIS
+[302] Financial instruments are measured on an ongoing basis either at fair value or at amortised cost. The summary of significant accounting policies stated in the
+[303] Annual Financial Statements describes how the classes of financial instruments are measured, and how income and expenses, including fair value gains and
+[304] losses, are recognised. The following table analyses the carrying amounts of the financial instruments by category as defined in SLFRS 9 and by headings of the
+[305] Statement of Financial Position.
+[306] RUPEES IN THOUSANDS
+[307] FAIR VALUE
+[308] TOTAL
+[309] FAIR VALUE
+[310] AMORTIZED THROUGH OTHER
+[311] THROUGH PROFIT
+[312] AS AT 30.9.2025 COST COMPREHENSIVE
+[313] OR LOSS
+[314] INCOME
+[315] Financial Assets
+[316] Cash and Cash Equivalents - 14,807,468 - 14,807,468
+[317] Balances with Central Bank of Sri Lanka - 6,739,555 - 6,739,555
+[318] Placements with Banks - 27,551,640 - 27,551,640
+[319] Placements with Licensed Finance Companies - 1,015,913 - 1,015,913
+[320] Derivative Financial Assets 2,331 - - 2,331
+[321] Financial Assets Designated at Fair Value through Profit or Loss 110,358 - - 110,358
+[322] Financial Assets at Amortised Cost - Financing and Receivables to Other Customers - 144,547,193 - 144,547,193
+[323] Financial Assets measured at Fair Value through Other Comprehensive Income - - 607,999 607,999
+[324] Other Assets - Financial - 2,008,647 - 2,008,647
+[325] Total Financial Assets 112,689 196,670,416 607,999 197,391,104
+[326] Financial Liabilities
+[327] Due to Banks - 2,572,028 - 2,572,028
+[328] Derivative Financial Liabilities 836 - - 836
+[329] Financial Liabilities at Amortised Cost - Due to Depositors - 169,463,676 - 169,463,676
+[330] Other Liabilities - Financial - 4,088,181 - 4,088,181
+[331] Total Financial Liabilities 836 176,123,885 - 176,124,721
+[332] FAIR VALUE
+[333] TOTAL FAIR VALUE
+[334] AMORTIZED THROUGH OTHER
+[335] THROUGH PROFIT
+[336] AS AT 31.12.2024 COST COMPREHENSIVE
+[337] OR LOSS
+[338] INCOME
+[339] (AUDITED)
+[340] Financial Assets
+[341] Cash and Cash Equivalents - 17,070,765 - 17,070,765
+[342] Balances with Central Bank of Sri Lanka - 7,078,039 - 7,078,039
+[343] Placements with Banks - 38,311,690 - 38,311,690
+[344] Placements with Licensed Finance Companies - 507,640 - 507,640
+[345] Derivative Financial Assets 177,461 - - 177,461
+[346] Financial Assets Designated at Fair Value through Profit or Loss 70,217 - - 70,217
+[347] Financial Assets at Amortised Cost - Financing and Receivables to Other Customers - 111,301,849 - 111,301,849
+[348] Financial Assets measured at Fair Value through Other Comprehensive Income - - 348,711 348,711
+[349] Other Assets - Financial - 2,829,580 - 2,829,580
+[350] Total Financial Assets 247,678 177,099,563 348,711 177,695,952
+[351] Financial Liabilities
+[352] Due to Banks - 18,949 - 18,949
+[353] Derivative Financial Liabilities 22,857 - - 22,857
+[354] Financial Liabilities at Amortised Cost - Due to Depositors - 154,405,710 - 154,405,710
+[355] Other Liabilities - Financial - 4,099,975 - 4,099,975
+[356] Total Financial Liabilities 22,857 158,524,634 - 158,547,491
+[357] 02. FINANCING AND RECEIVABLES TO OTHER CUSTOMERS
+[358] RUPEES IN THOUSANDS
+[359] ANALYSIS OF FINANCING AND RECEIVABLES TO OTHER CUSTOMERS
+[360] 30.9.2025 31.12.2024
+[361] (AUDITED)
+[362] Gross Financing and Receivables to Other Customers 150,668,217 117,521,906
+[363] Accumulated Impairment
+[364] Stage 1 (1,437,546) (1,560,406)
+[365] Stage 2 (2,011,126) (2,233,037)
+[366] Stage 3 (2,672,352) (2,426,614)
+[367] Net Financing and Receivables to Other Customers 144,547,193 111,301,849
+[368] 8
+[369] Amãna Bank PLC (PB 3618 PQ)
+[370] NOTES TO THE FINANCIAL STATEMENTS
+[371] ANALYSIS OF FINANCING AND RECEIVABLES TO OTHER CUSTOMERS - (Contd…)
+[372] FINANCING AND RECEIVABLES TO OTHER CUSTOMERS - BY PRODUCT
+[373] RUPEES IN THOUSANDS
+[374] 30.9.2025 31.12.2024
+[375] By Product - Domestic Currency
+[376] (AUDITED)
+[377] Overdraft 14,295,519 13,291,096
+[378] Trade Finance 7,618,714 1,992,493
+[379] Lease Receivables 14,426,637 9,126,642
+[380] Staff Facilities 1,626,526 1,170,618
+[381] Term Financing 88,136,081 71,397,952
+[382] Gold Facilities 13,862,629 11,683,154
+[383] Others 371,904 145,889
+[384] Sub Total 140,338,010 108,807,844
+[385] By Product - Foreign Currency
+[386] Overdraft 781,958 757,750
+[387] Term Financing 9,366,129 5,513,572
+[388] Trade Finance 79,790 2,378,280
+[389] Others 102,330 64,460
+[390] Sub Total 10,330,207 8,714,062
+[391] Total 150,668,217 117,521,906
+[392] 03. IMPAIRMENT ALLOWANCE FOR FINANCING AND RECEIVABLES TO OTHER CUSTOMERS
+[393] A reconciliation of the allowance for impairment losses for Financing and Receivables to Other Customers, under SLFRS 9 is as follows:
+[394] RUPEES IN THOUSANDS
+[395] STAGE 1 STAGE 2 STAGE 3 TOTAL IMPAIRMENT
+[396] ECL allowance as at 1 January 2025 under SLFRS 9 1,560,406 2,233,037 2,426,614 6,220,057
+[397] Charge/(Write Back) for the year (122,860) (221,911) 245,738 (99,033)
+[398] Amounts written off - - - -
+[399] As at 30 September 2025 1,437,546 2,011,126 2,672,352 6,121,024
+[400] RUPEES IN THOUSANDS
+[401] STAGE 1 STAGE 2 STAGE 3 TOTAL IMPAIRMENT
+[402] (AUDITED)
+[403] ECL allowance as at 1 January 2024 under SLFRS 9 1,131,910 2,675,414 2,121,820 5,929,144
+[404] Charge/(Write Back) for the year 428,496 (442,377) 304,794 290,913
+[405] Amounts written off - - - -
+[406] As at 31 December 2024 1,560,406 2,233,037 2,426,614 6,220,057
+[407] 9
+[408] Amãna Bank PLC (PB 3618 PQ)
+[409] NOTES TO THE FINANCIAL STATEMENTS
+[410] 04. COMMITMENTS AND CONTINGENCIES
+[411] RUPEES IN THOUSANDS
+[412] ANALYSIS OF COMMITMENTS AND CONTINGENCIES 30.9.2025 31.12.2024
+[413] (AUDITED)
+[414] Gross Commitments and Contingencies 52,718,229 49,691,818
+[415] Allowance for Impairment
+[416] Stage 1 (35,346) (58,671)
+[417] Stage 2 (12,040) (18,898)
+[418] Stage 3 (13,237) (11,574)
+[419] Net Financing and Receivables to Other Customers 52,657,606 49,602,675
+[420] FINANCING AND RECEIVABLES TO OTHER CUSTOMERS - BY PRODUCT
+[421] RUPEES IN THOUSANDS
+[422] 30.9.2025 31.12.2024
+[423] (AUDITED)
+[424] Commitments for Unutilised Facilities 12,845,102 14,218,545
+[425] Letters of Credit 9,769,982 4,836,373
+[426] Guarantees, Bonds 8,111,505 6,313,056
+[427] Outward Clearing Cheques 1,353,915 794,832
+[428] Acceptances 7,427,433 5,814,914
+[429] Bills for Collection and Others 4,087,987 3,536,910
+[430] Promissory Forward Sales 1,149,690 11,588,490
+[431] Promissory Forward Purchases 7,972,615 2,588,698
+[432] Total 52,718,229 49,691,818
+[433] 05. DUE TO OTHER CUSTOMERS - BY PRODUCT
+[434] ANALYSIS OF DEPOSITS RUPEES IN THOUSANDS
+[435] 30.9.2025 31.12.2024
+[436] By Product - Domestic Currency
+[437] (AUDITED)
+[438] Demand Deposits 11,657,495 10,893,877
+[439] Savings Deposits 55,037,305 49,742,595
+[440] Time Deposits 75,187,780 66,056,875
+[441] Sub Total 141,882,580 126,693,347
+[442] By Product - Foreign Currency
+[443] Demand Deposits 1,715,506 1,419,139
+[444] Savings Deposits 4,714,623 5,890,455
+[445] Time Deposits 21,150,967 20,402,769
+[446] Sub Total 27,581,096 27,712,363
+[447] Total 169,463,676 154,405,710
+[448] 10
+[449] Amãna Bank PLC (PB 3618 PQ)
+[450] NOTES TO THE FINANCIAL STATEMENTS
+[451] 06. FAIR VALUE OF FINANCIAL ASSETS AND LIABILITIES
+[452] All financial assets and liabilities for which fair value is measured or disclosed in the financial statements are categorised within the fair value heirarchy, as
+[453] described below.
+[454] • Level 1 Quoted price (unadjusted) in active markets for the identical assets or liabilities. This level includes listed equity securities and / or debt
+[455] instruments.
+[456] • Level 2 Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e.
+[457] derived from prices).
+[458] Inputs for asset or liability that are not based on observable market data (unobservable inputs). This level includes equity and / or debt
+[459] • Level 3
+[460] instruments with significant unobservable components.
+[461] RUPEES IN THOUSANDS
+[462] LEVEL 1 LEVEL 2 LEVEL 3
+[463] TOTAL
+[464] As at 30 September 2025
+[465] Financial Assets
+[466] Derivative Financial Assets - 2,331 - 2,331
+[467] Financial Assets Designated at Fair Value through Profit or Loss 110,358 - - 110,358
+[468] Financial Assets Measured at Fair Value through Other Comprehensive
+[469] 605,006 - 2,993 607,999 Income
+[470] 715,364 2,331 2,993 720,688
+[471] Financial Liaiblities
+[472] Derivative Financial Liabilities - 836 - 836
+[473] - 836 - 836
+[474] RUPEES IN THOUSANDS
+[475] LEVEL 1 LEVEL 2 LEVEL 3 TOTAL
+[476] As at 31 December 2024 (AUDITED)
+[477] Financial Assets
+[478] Derivative Financial Assets - 177,461 - 177,461
+[479] Financial Assets Designated at Fair Value through Profit or Loss 70,217 - - 70,217
+[480] Financial Assets Measured at Fair Value through Other Comprehensive
+[481] 345,718 - 2,993 348,711 Income
+[482] 415,935 177,461 2,993 596,389
+[483] Financial Liaiblities
+[484] Derivative Financial Liabilities - 22,857 - 22,857
+[485] - 22,857 - 22,857
+[486] Derivative Financial Assets and Liabilities:
+[487] Derivative products are promissory forward foreign exchange transactions, valued using a valuation technique with market-observable inputs. The most
+[488] frequently applied valuation techniques include promissory forward foreign exchange spot and Net Present Value.
+[489] Financial Assets Recognised through Profit or Loss - Measured at Fair Value, Financial Assets Measured at Fair Value through Other Comprehensive Income
+[490] The estimated fair values are based on quoted and observable market prices.
+[491] Financial Instruments not carried at Fair Value
+[492] Set out below is a comparison, by class, of the carrying amounts and fair values of the Bank’s financial instruments that are not carried at fair value in the
+[493] Financial Statements. This table does not include the fair values of Non–Financial Assets and Non–Financial Liabilities.
+[494] RUPEES IN THOUSANDS
+[495] 30.9.2025 31.12.2024
+[496] CARRYING VALUE FAIR VALUE CARRYING VALUE FAIR VALUE
+[497] (AUDITED) (AUDITED)
+[498] Financial Assets
+[499] Cash and Cash Equivalents 14,807,468 14,807,468 17,070,765 17,070,765
+[500] Balance with Central Bank of Sri Lanka 6,739,555 6,739,555 7,078,039 7,078,039
+[501] Placements with Banks 27,551,640 27,551,640 38,311,690 38,311,690
+[502] Placements with Other Companies 1,015,913 1,015,913 507,640 507,640
+[503] Financial Assets at Amortised Cost - Financing and Receivables to Other
+[504] 144,547,193 135,248,523 111,301,849 100,640,222 Customers
+[505] Other Assets - Financial 2,008,647 2,008,647 2,829,580 2,829,580
+[506] 196,670,416 187,371,746 177,099,563 166,437,936
+[507] Financial Liabilities
+[508] Due to Banks 2,572,028 2,572,028 18,949 18,949
+[509] Financial Liabilities at Amortised Cost - Due to Depositors 169,463,676 169,463,676 154,405,710 154,405,710
+[510] Other Liabilities - Financial 4,088,181 4,088,181 4,099,975 4,099,975
+[511] 176,123,885 176,123,885 158,524,634 158,524,634
+[512] The following describes the methodologies and assumptions used to determine fair values for those financial instruments which are not already recorded at
+[513] fair value in the Financial Statements:
+[514] Balances with Banks, Balances with Licensed Finance Companies, Other Financial Assets and Other Financial Liabilities
+[515] For the above, the carrying value is a reasonable estimate of fair values.
+[516] Financial Assets at Amortised Cost - Financing and Receivables to Other Customers
+[517] The fair value of the above are estimated by discounting the estimated future cash flows using the prevailing market rates for financing as of the reporting
+[518] date with similar credit risks and maturities (Level 3).
+[519] Financial Liabilities at Amortised Cost - Due to Depositors
+[520] The fair values of the above are deemed to approximate their carrying amounts as rate of returns are determined at the end of their holding periods based
+[521] on the profit generated from the relevant investments.
+[522] 11
+[523] Amãna Bank PLC (PB 3618 PQ)
+[524] NOTES TO THE FINANCIAL STATEMENTS
+[525] 07. SELECTED PERFORMANCE INDICATORS (AS PER REGULATORY REPORTING)
+[526] AS AT 30.9.2025 AS AT 31.12.2024
+[527] (AUDITED)
+[528] Regulatory Capital (Rs. '000)
+[529] Common Equity Tier 1 (before applicable adjustments) 22,635,798 21,716,638
+[530] Common Equity Tier 1 (after applicable adjustments) 21,149,306 20,414,588
+[531] Tier 1 Capital 21,149,306 20,414,588
+[532] Total Capital 24,377,481 23,882,001
+[533] Regulatory Capital Ratios (%)
+[534] Common Equity Tier 1 Capital Ratio (Minimum Requirement 7.0%) 12.7% 15.0%
+[535] Tier I Capital Ratio (Minimum Requirement 8.5%) 12.7% 15.0%
+[536] Total Capital Ratio (Minimum Requirement 12.5%) 14.6% 17.6%
+[537] Leverage Ratio % (Minimum Requirement 3%) 9.8% 10.6%
+[538] Regulatory Liquidity
+[539] Liquidity Coverage Ratio (%) (Minimum Requirement 100%)
+[540] - Rupee (%) 234.0% 368.5%
+[541] - All Currency (%) 173.1% 252.8%
+[542] Net Stable Funding Ratio (%) (Minimum Requirement 100%) 132.5% 129.4%
+[543] Assets Quality (Quality of Financing and Advance Portfolio)
+[544] Impaired Financing and Advances (Stage 3) Ratio (%) 1.1% 1.3%
+[545] Impairment (Stage 3) to Stage 3 Financing and Advances Ratio (%) 59.0% 59.6%
+[546] Profitability
+[547] Financing Margin (%) 4.2% 4.0%
+[548] Return on Assets (Before Tax) (%) 1.9% 1.6%
+[549] Return on Equity (%) 9.0% 8.0%
+[550] Cost to Income (%) 51.0% 53.0%
+[551] Memorandum Information
+[552] Credit Rating - Fitch Ratings BBB-(lka) BBB-(lka)
+[553] - Lanka Rating Agency BBB+ -
+[554] Number of Employees 935 899
+[555] Number of Branches 33 33
+[556] 12
+[557] Amãna Bank PLC (PB 3618 PQ)
+[558] NOTES TO THE FINANCIAL STATEMENTS
+[559] 08. SEGMENT INFORMATION
+[560] The following table presents information on total income, profit, total assets and liabilities regarding the Bank’s operating segments.
+[561] RUPEES IN THOUSANDS
+[562] TOTAL
+[563] FOR THE PERIOD ENDED CONSUMER BUSINESS TOTAL UNALLOCATED /
+[564] TREASURY
+[565] 30 SEPTEMBER 2025 BANKING BANKING BANKING ELIMINATION
+[566] Income
+[567] Financing Income 3,143,260 7,774,227 10,917,487 1,510,215 - 12,427,702
+[568] Net Fee and Commission Income 373,462 675,018 1,048,480 13,142 7,686 1,069,308
+[569] Net Trading Income - - - 297,457 297,457
+[570] Net Gains / (Losses) from Financial
+[571] Investments at Fair Value Through
+[572] Profit or Loss - - - 17,290 - 17,290
+[573] Net Gains / (Losses) from
+[574] Derecognition of Financial Assets - - - (827) - (827)
+[575] Other Operating Income - - - 4,040 - 4,040
+[576] Total Income 3,516,722 8,449,245 11,965,967 1,841,317 7,686 13,814,970
+[577] Less
+[578] Financing Expenses (6,277,097) (2,517) (59,946) (6,339,560)
+[579] Impairment (Charges) / Reversals 100,552 11,883 - 112,435
+[580] Operating Expenses (2,702,913) (1,113,156) - (3,816,069)
+[581] 3,086,509 737,527 (52,260) 3,771,776 Operating Profit Before VAT on FS & SSCL
+[582] (1,025,497)
+[583] VAT on FS & SSCL
+[584] Profit Before Tax 2,746,279
+[585] Tax Expense (1,139,033)
+[586] Profit After Tax 1,607,246
+[587] Total Assets 33,775,066 100,280,683 134,055,749 34,528,246 33,999,875 202,583,870
+[588] Total Liabilities 132,025,336 37,438,340 169,463,676 2,551,405 5,855,510 177,870,591
+[589] RUPEES IN THOUSANDS
+[590] TOTAL
+[591] FOR THE PERIOD ENDED CONSUMER BUSINESS TOTAL UNALLOCATED /
+[592] TREASURY
+[593] 30 SEPTEMBER 2024 BANKING BANKING BANKING ELIMINATION
+[594] Income
+[595] Financing Income 2,965,717 6,734,239 9,699,956 2,001,073 - 11,701,029
+[596] Net Fee and Commission Income 296,908 439,836 736,744 28,127 27,487 792,358
+[597] Net Trading Income - - - 571,798 - 571,798
+[598] Net Gains / (Losses) from Financial
+[599] Investments at Fair Value Through
+[600] Profit or Loss
+[601] - - - 3,744 - 3,744
+[602] Net Gains / (Losses) from
+[603] Derecognition of Financial Assets - - - (1,420) - (1,420)
+[604] Other Operating Income - - - 2,783 - 2,783
+[605] Total Income 3,262,625 7,174,075 10,436,700 2,606,105 27,487 13,070,292
+[606] Less
+[607] Financing Expenses (6,494,994) (10,640) (63,682) (6,569,316)
+[608] Impairment (Charges) / Reversals (388,319) 2,107 - (386,212)
+[609] Operating Expenses (2,428,762) (992,030) - (3,420,792)
+[610] 1,124,625 1,605,542 (36,195) 2,693,972 Operating Profit Before VAT on FS
+[611] (711,120)
+[612] VAT on FS & SSCL
+[613] Profit Before Tax 1,982,852
+[614] Tax Expense (863,514)
+[615] Profit After Tax 1,119,338
+[616] Total Assets 26,948,774 77,468,086 104,416,860 41,378,838 26,724,546 172,520,244
+[617] Total Liabilities 114,982,094 30,741,068 145,723,162 8,706 3,970,706 149,702,574
+[618] 13
+[619] Amãna Bank PLC (PB 3618 PQ)
+[620] EXPLANATORY NOTES
+[621] 1. These Interim Financial Statements have been prepared in accordance with LKAS 34 - Interim Financial Reporting and
+[622] present information required by Listing Rules of Colombo Stock Exchange.
+[623] 2. The interim condensed Financial Statements do not include all the information and disclosure required in the Annual
+[624] Financial Statements, and should be read in conjunction with Annual Financial Statements as at 31 December 2024.
+[625] 3. There are no material events that took place after the Statement of Financial Position date which require adjustment to
+[626] or disclosures in the Financial Statements.
+[627] On 18 September 2025, the Board of Directors declared an interim dividend of Rs. 1.30 per share for the financial year
+[628] 2025. As required by Section 56 (2) of the Companies Act No. 07 of 2007, the Board of Directors having determined that
+[629] the Bank satisfied the solvency test in accordance with Section 57 of the Companies Act No. 07 of 2007, subsequently
+[630] obtained the certificate to this effect from the Bank’s auditors, Messrs. Ernst & Young. The interim dividend was paid
+[631] during October 2025.
+[632] 4.
+[633] The accounting policies adopted in the presentation of the interim condensed Financial Statements are consistent with
+[634] those followed in the preparation of the Bank's Annual Financial Statements for the year ended 31 December 2024.
+[635] 5. Comparative figures have been restated wherever necessary to conform to the current period's presentation.
+[636] There has not been a significant change in the nature of the contingent liabilities as disclosed in the Annual Report of
+[637] 6.
+[638] 2024.
+[639] 7.
+[640] Market Price of Ordinary Shares (the Bank listed its ordinary shares on the Colombo Stock Exchange on 29 January 2014) :
+[641] 2025 2024 *
+[642] Rs. Rs.
+[643] Last Traded Price as at 30 September 27.50 22.60
+[644] Highest Market Price during the quarter ended 30 September 29.50 23.70
+[645] Lowest Market Price during the quarter ended 30 September 21.90 2.20
+[646] * During July 2024, the Bank consolidated its shares in the ratio of every existing Ten (10) shares in to One (1) share. In view
+[647] of this, the share price details mentioned above for 2024 represents values prior to such consolidation.
+[648] 14
+[649] Amãna Bank PLC (PB 3618 PQ)
+[650] EXPLANATORY NOTES
+[651] 09. TWENTY LARGEST SHAREHOLDERS AS AT 30 SEPTEMBER 2025
+[652] No Name of Shareholder No. of Shares %
+[653] 1 IB Growth Fund (Labuan) LLP 137,277,245 24.91%
+[654] 2 Sampath Bank PLC / Senthilverl Holdings (Pvt) Ltd 79,802,630 14.48%
+[655] 3 Mr. Osman Kassim / Mrs. Khairunnissa Kassim / Mr. Abdullah Osman Kassim 29,641,198 5.38%
+[656] 4 Cargills Bank Limited / Senthilverl Holdings (Pvt) Ltd 29,022,673 5.27%
+[657] 5 Bank Islam Malaysia Berhad 20,949,916 3.80%
+[658] 6 AB Bank PLC 20,949,916 3.80%
+[659] 7 Quick Tea Pvt Ltd 20,476,459 3.72%
+[660] 8 Islamic Development Bank 18,339,298 3.33%
+[661] 9 Akbar Brothers Pvt Ltd A/C No 1 18,302,459 3.32%
+[662] 10 E.W. Balasuriya & Co. (Pvt) Ltd Acc No 01 13,043,478 2.37%
+[663] 11 Domon Ltd 11,573,996 2.10%
+[664] 12 Mr. Feroz Omar 9,684,895 1.76%
+[665] 13 P M Mohamedali & Co 8,753,665 1.59%
+[666] 14 Mrs. Shahida Hamid 8,238,697 1.49%
+[667] 15 Mrs. Tarab Iqbal Ismail 8,238,697 1.49%
+[668] 16 Mr.Mohamed Ashroff Omar 8,238,697 1.49%
+[669] 17 Millennium Capital Investments Pte Ltd 8,138,133 1.48%
+[670] 18 Mrs. Farhat Farook Kassim 7,162,192 1.30%
+[671] 19 Mr. Hanif Yusoof 6,747,826 1.22%
+[672] 20 Mr. Shafik Kassim 6,445,236 1.17%
+[673] Sub total 471,027,306 85.47%
+[674] Other Shareholders (Number of Shareholders 9,223) 80,098,440 14.53%
+[675] Total 551,125,746 100.00%
+[676] Percentage of Public Holding as at 30 September 2025 44.66%
+[677] Number of Shareholders 9,222
+[678] Float adjusted market capitalisation Rs 6.74 Bn
+[679] Bank complies with the minimum public holding requirement under option 3 as specified by rule 7.13.1 (a) of the Listing Rules of
+[680] Colombo Stock Exchange (Requirements of above option are; (a) Public Holding %: 7.5%, (b) Number of Public Shareholders:
+[681] 500)
+[682] 10. DIRECTORS' HOLDING IN SHARES AS AT 30 SEPTEMBER 2025
+[683] Name No. of Shares
+[684] Mr. Ali Asghar Akbarally Nil
+[685] Mr. Mohamed Azmeer 300,000
+[686] Mr. K M P B Abdullah Nil
+[687] Mr. Tishan Subasinghe Nil
+[688] Mr. M Ataur Rahman Chowdhury Nil
+[689] Mr. S M Asim Raza Nil
+[690] Mr. Mohamed Adamaly Nil
+[691] Mr. Mohammad Hassan Nil
+[692] Mr. Delvin Pereira Nil
+[693] Mr. Azreen Zaheer Nil
+[694] Mr. Senthilverl Senthi Nandhanan Nil
+[695] 15

@@ -1,0 +1,22 @@
+{
+  "bank": "DFCC Bank",
+  "shortName": "DFCC",
+  "assetBookSize": 459129541,
+  "segments": {
+    "housing": 0,
+    "personal": 0
+  },
+  "reportType": "Q3-2025",
+  "lastUpdated": "2025-09-30",
+  "source": "DFCC Bank Q3 2025 Interim Financial Statements",
+  "extractedAt": "2025-12-10T16:07:17.454Z",
+  "confidence": "high",
+  "previousYear": {
+    "assetBookSize": 383260618,
+    "segments": {
+      "housing": 0,
+      "personal": 0
+    },
+    "date": "2024-12-31"
+  }
+}
