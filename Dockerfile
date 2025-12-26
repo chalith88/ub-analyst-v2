@@ -72,8 +72,8 @@ COPY src ./src
 # Copy built client from builder
 COPY --from=builder /app/client/dist ./client/dist
 
-# Create output directory first
-RUN mkdir -p /app/output && chmod 777 /app/output
+# Create output directories for data persistence
+RUN mkdir -p /app/output/history && chmod 777 /app/output
 
 # Copy pre-scraped market share data for Railway deployment
 COPY output/market-share-aggregated.json ./output/
