@@ -44,9 +44,9 @@ import { scrapeCBSL } from "./scrapers/cbsl";
 import { scrapeHnbTariff } from "./scrapers/hnb-tariff";
 import { scrapeSeylanTariff } from "./scrapers/seylan-tariff";
 
-// V2: Rate history and monitoring
-import { saveRateSnapshot as saveV2RateSnapshot, getHistoricalRates, getRateTrend, getBanksWithHistory } from "./scrapers/rate-history";
-import { getScraperHealth } from "./scrapers/scraper-monitor";
+// V2: Rate history and monitoring (temporarily disabled for debugging)
+// import { saveRateSnapshot as saveV2RateSnapshot, getHistoricalRates, getRateTrend, getBanksWithHistory } from "./scrapers/rate-history";
+// import { getScraperHealth } from "./scrapers/scraper-monitor";
 import { scrapeSampathTariff } from "./scrapers/sampath-tariff";
 import { scrapeCombankTariff } from "./scrapers/combank_tariff";
 import { scrapeNdbTariff } from "./scrapers/ndb-tariff";
@@ -1514,6 +1514,8 @@ if (process.env.NODE_ENV === "production") {
   app.use(express.static(clientDistPath));
   
 
+// V2 ROUTES TEMPORARILY DISABLED FOR DEBUGGING
+/*
 // Get banks with historical data
 app.get('/api/history/banks', async (req, res) => {
   try {
@@ -1573,6 +1575,7 @@ app.get('/api/health/scrapers', async (req, res) => {
 
   // Catch-all route to serve index.html for client-side routing
   app.get("*", (_req, res) => {
+*/
     res.sendFile(path.join(clientDistPath, "index.html"));
   });
 }
