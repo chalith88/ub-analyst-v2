@@ -1675,6 +1675,27 @@ function UBRateAnalyst() {
   </div>
 )}
 
+        {/* V2 Feature: Historical Trends */}
+        {page === "trends" && (
+          <div className="mt-6 text-white/80 space-y-6">
+            <HistoricalTrends />
+          </div>
+        )}
+
+        {/* V2 Feature: Scraper Health Dashboard */}
+        {page === "health" && (
+          <div className="mt-6 text-white/80 space-y-6">
+            <ScraperHealthDashboard />
+          </div>
+        )}
+
+        {/* V2 Feature: Tariff Comparison Matrix */}
+        {page === "tariff-matrix" && (
+          <div className="mt-6 text-white/80 space-y-6">
+            <TariffComparisonMatrix allTariffs={{}} />
+          </div>
+        )}
+
       </div>
 
       {/* Global Footer (copyright) */}

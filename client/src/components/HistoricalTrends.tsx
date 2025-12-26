@@ -2,19 +2,6 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from 'recharts';
 
-interface TrendData {
-  bank: string;
-  product: string;
-  tenure: string;
-  dataPoints: Array<{
-    date: string;
-    rateWithSalary?: string;
-    rateWithoutSalary?: string;
-  }>;
-  trend: 'up' | 'down' | 'stable';
-  changePercent: number;
-}
-
 export function HistoricalTrends() {
   const [banks, setBanks] = useState<string[]>([]);
   const [selectedBank, setSelectedBank] = useState('hnb');

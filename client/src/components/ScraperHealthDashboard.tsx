@@ -31,12 +31,6 @@ export function ScraperHealthDashboard() {
       });
   }, []);
 
-  const getHealthColor = (rate: number) => {
-    if (rate >= 90) return 'text-green-400';
-    if (rate >= 70) return 'text-yellow-400';
-    return 'text-red-400';
-  };
-
   const getHealthBadge = (rate: number) => {
     if (rate >= 90) return 'bg-green-900/20 text-green-400 border-green-700';
     if (rate >= 70) return 'bg-yellow-900/20 text-yellow-400 border-yellow-700';
