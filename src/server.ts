@@ -1509,25 +1509,6 @@ if (process.env.NODE_ENV === "production") {
   const clientDistPath = path.join(__dirname, "..", "client", "dist");
   app.use(express.static(clientDistPath));
   
-  // Catch-all route to serve index.html for client-side routing
-  app.get("*", (_req, res) => {
-    res.sendFile(path.join(clientDistPath, "index.html"));
-  });
-}
-
-/* ---------------- Start server ---------------- */
-app.listen(PORT, () => {
-  console.log(`🚀 UB Scraper API running at http://localhost:${PORT}`);
-});
-
-
-
-
-
-
-// ============================================
-// V2 Features: Historical Rate Tracking
-// ============================================
 
 // Get banks with historical data
 app.get('/api/history/banks', async (req, res) => {
@@ -1584,4 +1565,25 @@ app.get('/api/health/scrapers', async (req, res) => {
     console.error('[API] Error getting scraper health:', error);
     res.status(500).json({ error: 'Failed to get scraper health' });
   }
+});
+
+  // Catch-all route to serve index.html for client-side routing
+  app.get("*", (_req, res) => {
+    res.sendFile(path.join(clientDistPath, "index.html"));
+  });
+}
+
+/* ---------------- Start server ---------------- */
+app.listen(PORT, () => {
+  console.log(`🚀 UB Scraper API running at http://localhost:${PORT}`);
+});
+
+
+
+
+
+
+// ============================================
+// V2 Features: Historical Rate Tracking
+// ============================================
 });
