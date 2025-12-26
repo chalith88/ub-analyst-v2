@@ -10268,28 +10268,7 @@ function FtpFileUploader({
         <Btn className="px-4 py-2 rounded-lg bg-white/10 disabled:opacity-60" disabled={busy} onClick={() => setStaged([])}>Clear Preview</Btn>
         <Btn className="px-4 py-2 rounded-lg bg-white/10 disabled:opacity-60" disabled={busy || !initialMonths.length} onClick={resetAll}>Reset</Btn>
         {busy && <span className="text-white/60 text-sm ml-2">Parsing…</span>}
-      </div>
-            
-        {/* V2 Feature: Historical Trends */}
-        {page === "trends" && (
-          <div className="mt-6 text-white/80 space-y-6">
-            <HistoricalTrends />
-          </div>
-        )}
-
-        {/* V2 Feature: Scraper Health Dashboard */}
-        {page === "health" && (
-          <div className="mt-6 text-white/80 space-y-6">
-            <ScraperHealthDashboard />
-          </div>
-        )}
-
-        {/* V2 Feature: Tariff Comparison Matrix */}
-        {page === "tariff-matrix" && (
-          <div className="mt-6 text-white/80 space-y-6">
-            <TariffComparisonMatrix allTariffs={{}} />
-          </div>
-        )}</div>
+      </div>`n      </div>
   );
 }
 export default function AppWithAuth() {
@@ -10297,6 +10276,7 @@ export default function AppWithAuth() {
   if (!ok) return <LoginGate onSuccess={() => setOk(true)} />;
   return <UBRateAnalyst />;
 }
+
 
 
 
