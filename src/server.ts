@@ -43,6 +43,10 @@ import { scrapeAmana } from "./scrapers/amana";
 import { scrapeCBSL } from "./scrapers/cbsl";
 import { scrapeHnbTariff } from "./scrapers/hnb-tariff";
 import { scrapeSeylanTariff } from "./scrapers/seylan-tariff";
+
+// V2: Rate history and monitoring
+import { saveRateSnapshot, getHistoricalRates, getRateTrend, getBanksWithHistory } from "./scrapers/rate-history";
+import { getScraperHealth } from "./scrapers/scraper-monitor";
 import { scrapeSampathTariff } from "./scrapers/sampath-tariff";
 import { scrapeCombankTariff } from "./scrapers/combank_tariff";
 import { scrapeNdbTariff } from "./scrapers/ndb-tariff";
