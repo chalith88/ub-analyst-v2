@@ -19,6 +19,9 @@ import {
 import * as dfccCalculator from "./banks/dfcc";
 import * as nsbCalculator from "./banks/nsb";
 import * as bocCalculator from "./banks/boc";
+import { HistoricalTrends } from './components/HistoricalTrends';
+import { ScraperHealthDashboard } from './components/ScraperHealthDashboard';
+import { TariffComparisonMatrix } from './components/TariffComparisonMatrix';
 import ubLogo from "./assets/unionbank-logo.png";
 import hnbLogo from "./assets/hnb.png";
 import ndbLogo from "./assets/ndb.png";
@@ -1108,7 +1111,7 @@ function inferMonthFromFilename(name: string): string | null {
   return null;
 }
 function UBRateAnalyst() {
-  const [page, setPage] = useState<"dashboard" | "interest" | "tariffs" | "compare" | "news" | "admin" | "scrapers">(
+  const [page, setPage] = useState<"dashboard" | "interest" | "tariffs" | "compare" | "news" | "admin" | "scrapers" | "trends" | "health" | "tariff-matrix">(
   "dashboard"
 );
 
@@ -1282,7 +1285,7 @@ function UBRateAnalyst() {
 
         {/* Nav */}
         <div className="mt-4 flex gap-3 overflow-x-auto">
-          {(["dashboard", "interest", "tariffs", "compare", "news", "admin", "scrapers"] as const).map((p) => (
+          {(["dashboard", "interest", "tariffs", "compare", "news", "admin", "scrapers", "trends", "health", "tariff-matrix"] as const).map((p) => (
   <Btn
     key={p}
     onClick={() => setPage(p)}
@@ -1295,7 +1298,7 @@ function UBRateAnalyst() {
      p === "tariffs" ? "Tariffs" :
      p === "compare" ? "Compare" :
      p === "news" ? "News" :
-     p === "admin" ? "Admin" : "Scrapers"}
+     p === "admin" ? "Admin" : p === "trends" ? " Trends" : p === "health" ? " Health" : p === "tariff-matrix" ? " Tariff Matrix" : "Scrapers"}
   </Btn>
 ))}
 
@@ -10241,7 +10244,27 @@ function FtpFileUploader({
         <Btn className="px-4 py-2 rounded-lg bg-white/10 disabled:opacity-60" disabled={busy || !initialMonths.length} onClick={resetAll}>Reset</Btn>
         {busy && <span className="text-white/60 text-sm ml-2">Parsing…</span>}
       </div>
-    </div>
+            
+        {/* V2 Feature: Historical Trends */}
+        {page === "trends" && (
+          <div className="mt-6 text-white/80 space-y-6">
+            <HistoricalTrends />
+          </div>
+        )}
+
+        {/* V2 Feature: Scraper Health Dashboard */}
+        {page === "health" && (
+          <div className="mt-6 text-white/80 space-y-6">
+            <ScraperHealthDashboard />
+          </div>
+        )}
+
+        {/* V2 Feature: Tariff Comparison Matrix */}
+        {page === "tariff-matrix" && (
+          <div className="mt-6 text-white/80 space-y-6">
+            <TariffComparisonMatrix allTariffs={{}} />
+          </div>
+        )}</div>
   );
 }
 export default function AppWithAuth() {
@@ -10249,3 +10272,8 @@ export default function AppWithAuth() {
   if (!ok) return <LoginGate onSuccess={() => setOk(true)} />;
   return <UBRateAnalyst />;
 }
+
+
+
+
+
