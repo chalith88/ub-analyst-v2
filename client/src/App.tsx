@@ -1293,12 +1293,16 @@ function UBRateAnalyst() {
       page === p ? "bg-[#3b82f6] text-white shadow-lg" : "bg-white/10"
     }`}
   >
-    {p === "dashboard" ? "Dashboard" :
-     p === "interest" ? "Interest Rates" :
-     p === "tariffs" ? "Tariffs" :
-     p === "compare" ? "Compare" :
-     p === "news" ? "News" :
-     p === "admin" ? "Admin" : p === "trends" ? " Trends" : p === "health" ? " Health" : p === "tariff-matrix" ? " Tariff Matrix" : "Scrapers"}
+    {p === "dashboard" ? "🏠 Dashboard" :
+     p === "interest" ? "💰 Interest Rates" :
+     p === "tariffs" ? "📋 Tariffs" :
+     p === "compare" ? "⚖️ Compare" :
+     p === "news" ? "📰 News" :
+     p === "admin" ? "⚙️ Admin" :
+     p === "scrapers" ? "🔧 Scrapers" :
+     p === "trends" ? "📈 Trends" :
+     p === "health" ? "🏥 Health" :
+     p === "tariff-matrix" ? "💵 Tariff Matrix" : p}
   </Btn>
 ))}
 
