@@ -3,7 +3,7 @@
  * Side-by-side fee comparison across all banks for each product
  */
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { motion } from 'framer-motion';
 
 interface TariffRow {
