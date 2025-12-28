@@ -101,22 +101,31 @@ export function getLatestRateSnapshot(bank: string, product: string, tenureYears
   let whereClause = "WHERE bank = ? AND product = ?";
   const params: any[] = [bank, product];
   
+  // Debug logging
+  console.log(`[getLatestRateSnapshot] bank=${bank}, product=${product}, tenureYears=${tenureYears}, type=${type}, beforeTimestamp=${beforeTimestamp}`);
+  
   // Only filter by type if it's explicitly provided (not undefined)
   // If type is null or empty string, treat as "no type filter"
   if (type !== undefined && type !== null && type !== "") {
     whereClause += " AND type = ?";
     params.push(type);
+    console.log(`[getLatestRateSnapshot] Added type filter: ${type}`);
   }
   
   if (tenureYears !== undefined && tenureYears !== null) {
     whereClause += " AND tenure_years = ?";
     params.push(tenureYears);
+    console.log(`[getLatestRateSnapshot] Added tenure filter: ${tenureYears}`);
   }
   
   if (beforeTimestamp) {
     whereClause += " AND scraped_at < ?";
     params.push(beforeTimestamp);
+    console.log(`[getLatestRateSnapshot] Added timestamp filter: ${beforeTimestamp}`);
   }
+  
+  console.log(`[getLatestRateSnapshot] WHERE: ${whereClause}`);
+  console.log(`[getLatestRateSnapshot] PARAMS: ${JSON.stringify(params)}`);
   
   const stmt = db.prepare(`
     SELECT 
@@ -130,8 +139,14 @@ export function getLatestRateSnapshot(bank: string, product: string, tenureYears
     LIMIT 1
   `);
   
-  const result = stmt.get(...params);
-  return result as RateSnapshot | null;
+  try {
+    const result = stmt.get(...params);
+    return result as RateSnapshot | null;
+  } catch (error: any) {
+    console.error(`[getLatestRateSnapshot] ERROR:`, error.message);
+    console.error(`[getLatestRateSnapshot] Query had ${whereClause.split('?').length - 1} placeholders but ${params.length} parameters`);
+    throw error;
+  }
 }
 
 export function detectRateChanges(newRates: RateSnapshot[]): RateChange[] {
