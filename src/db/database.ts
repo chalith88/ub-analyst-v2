@@ -96,36 +96,29 @@ export function saveRateSnapshot(snapshot: RateSnapshot) {
 }
 
 export function getLatestRateSnapshot(bank: string, product: string, tenureYears?: number, type?: string | null, beforeTimestamp?: string): RateSnapshot | null {
-  // Get the most recent snapshot, optionally before a specific timestamp
-  // Build WHERE clause dynamically based on provided parameters
+  // Normalize type to null if empty/undefined for consistent comparison
+  const normalizedType = (type && type !== "") ? type : null;
+  
   let whereClause = "WHERE bank = ? AND product = ?";
   const params: any[] = [bank, product];
   
-  // Debug logging
-  console.log(`[getLatestRateSnapshot] bank=${bank}, product=${product}, tenureYears=${tenureYears}, type=${type}, beforeTimestamp=${beforeTimestamp}`);
-  
-  // Only filter by type if it's explicitly provided (not undefined)
-  // If type is null or empty string, treat as "no type filter"
-  if (type !== undefined && type !== null && type !== "") {
+  // Always include type in comparison (null = no specific type)
+  if (normalizedType !== null) {
     whereClause += " AND type = ?";
-    params.push(type);
-    console.log(`[getLatestRateSnapshot] Added type filter: ${type}`);
+    params.push(normalizedType);
+  } else {
+    whereClause += " AND (type IS NULL OR type = '')";
   }
   
   if (tenureYears !== undefined && tenureYears !== null) {
     whereClause += " AND tenure_years = ?";
     params.push(tenureYears);
-    console.log(`[getLatestRateSnapshot] Added tenure filter: ${tenureYears}`);
   }
   
   if (beforeTimestamp) {
     whereClause += " AND scraped_at < ?";
     params.push(beforeTimestamp);
-    console.log(`[getLatestRateSnapshot] Added timestamp filter: ${beforeTimestamp}`);
   }
-  
-  console.log(`[getLatestRateSnapshot] WHERE: ${whereClause}`);
-  console.log(`[getLatestRateSnapshot] PARAMS: ${JSON.stringify(params)}`);
   
   const stmt = db.prepare(`
     SELECT 
@@ -139,14 +132,8 @@ export function getLatestRateSnapshot(bank: string, product: string, tenureYears
     LIMIT 1
   `);
   
-  try {
-    const result = stmt.get(...params);
-    return result as RateSnapshot | null;
-  } catch (error: any) {
-    console.error(`[getLatestRateSnapshot] ERROR:`, error.message);
-    console.error(`[getLatestRateSnapshot] Query had ${whereClause.split('?').length - 1} placeholders but ${params.length} parameters`);
-    throw error;
-  }
+  const result = stmt.get(...params);
+  return result as RateSnapshot | null;
 }
 
 export function detectRateChanges(newRates: RateSnapshot[]): RateChange[] {
