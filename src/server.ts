@@ -1573,11 +1573,10 @@ app.get('/api/health/scrapers', async (req, res) => {
   }
 });
 
-  // Catch-all route to serve index.html for client-side routing
-  app.get("*", (_req, res) => {
-    res.sendFile(path.join(clientDistPath, "index.html"));
-  });
-}
+// Catch-all route to serve index.html for client-side routing
+app.get("*", (_req, res) => {
+  res.sendFile(path.join(clientDistPath, "index.html"));
+});
 
 /* ---------------- Start server ---------------- */
 app.listen(PORT, () => {
