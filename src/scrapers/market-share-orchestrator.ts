@@ -276,6 +276,18 @@ export async function getMarketShareData(forceRefresh = false): Promise<MarketSh
 export function clearMarketShareCache(): void {
   cachedData = null;
   skipPreScrapedData = true; // Prevent loading pre-scraped data until scrapers run again
+  
+  // Delete the pre-scraped JSON file so data doesn't persist
+  try {
+    const aggregatedPath = path.join(process.cwd(), "output", "market-share-aggregated.json");
+    if (fs.existsSync(aggregatedPath)) {
+      fs.unlinkSync(aggregatedPath);
+      console.log("🗑️  Deleted market-share-aggregated.json");
+    }
+  } catch (error) {
+    console.warn("⚠️  Could not delete market-share-aggregated.json:", error);
+  }
+  
   console.log("🗑️  Market share cache cleared (pre-scraped data disabled)");
 }
 

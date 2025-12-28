@@ -60,10 +60,11 @@ async function scrape(): Promise<MarketShareResult | null> {
       const textContent = await page.getTextContent();
       const lineMap = new Map<number, string[]>();
       for (const item of textContent.items) {
-        if ("str" in item && item.str.trim()) {
+        if ("str" in item && item.str && item.str.trim()) {
           const y = Math.round(item.transform[5]);
           if (!lineMap.has(y)) lineMap.set(y, []);
-          lineMap.get(y)!.push(item.str);
+          const arr = lineMap.get(y);
+          if (arr) arr.push(item.str);
         }
       }
       Array.from(lineMap.keys()).sort((a, b) => b - a).forEach(y => {

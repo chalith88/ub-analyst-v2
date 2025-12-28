@@ -43,10 +43,6 @@ import { scrapeAmana } from "./scrapers/amana";
 import { scrapeCBSL } from "./scrapers/cbsl";
 import { scrapeHnbTariff } from "./scrapers/hnb-tariff";
 import { scrapeSeylanTariff } from "./scrapers/seylan-tariff";
-
-// V2: Rate history and monitoring
-import { saveRateSnapshot as saveV2RateSnapshot, getHistoricalRates, getRateTrend, getBanksWithHistory } from "./scrapers/rate-history";
-import { getScraperHealth } from "./scrapers/scraper-monitor";
 import { scrapeSampathTariff } from "./scrapers/sampath-tariff";
 import { scrapeCombankTariff } from "./scrapers/combank_tariff";
 import { scrapeNdbTariff } from "./scrapers/ndb-tariff";
@@ -888,8 +884,22 @@ async function handlePdfScrape(
     const outDir = await ensureOutputDir();
     const outPath = path.join(outDir, outFile);
     const rows = await scraper(pdfUrl, outPath);
-    if (req.query.show === "true") res.json(rows);
-    else res.type("json").send(await fs.readFile(outPath, "utf8"));
+    
+    // Track rate changes
+    const changes = await trackRateChanges(bankName, rows);
+    
+    if (req.query.show === "true") {
+      res.json({
+        bank: bankName,
+        count: rows.length,
+        rows: rows,
+        changes: changes.length > 0 ? changes : undefined,
+        hasChanges: changes.length > 0,
+        changesCount: changes.length
+      });
+    } else {
+      res.type("json").send(await fs.readFile(outPath, "utf8"));
+    }
   } catch (err) {
     console.error(`Error scraping ${bankName}:`, err);
     res.status(500).send({ error: String(err) });
@@ -923,8 +933,16 @@ app.get("/scrape/hnb", async (req, res) => {
 app.get("/scrape/seylan", async (req, res) => {
   try {
     const data = await scrapeSeylan({ show: req.query.show === "true", slow: Number(req.query.slow || 0) });
+    const changes = await trackRateChanges("Seylan", data);
     await maybeSave("Seylan", data, req.query.save === "true");
-    res.json(data);
+    res.json({
+      bank: "Seylan",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
   } catch (e: any) { res.status(500).json({ error: String(e?.message || e) }); }
 });
 
@@ -937,24 +955,48 @@ app.get("/scrape/sampath", (req, res) =>
 app.get("/scrape/combank", async (req, res) => {
   try {
     const data = await scrapeCombank({ show: req.query.show === "true", slow: Number(req.query.slow || 0) });
+    const changes = await trackRateChanges("ComBank", data);
     await maybeSave("ComBank", data, req.query.save === "true");
-    res.json(data);
+    res.json({
+      bank: "ComBank",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
   } catch (e: any) { res.status(500).json({ error: String(e?.message || e) }); }
 });
 
 app.get("/scrape/ndb", async (req, res) => {
   try {
     const data = await scrapeNDB({ show: req.query.show === "true", slow: Number(req.query.slow || 0) });
+    const changes = await trackRateChanges("NDB", data);
     await maybeSave("NDB", data, req.query.save === "true");
-    res.json(data);
+    res.json({
+      bank: "NDB",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
   } catch (e: any) { res.status(500).json({ error: String(e?.message || e) }); }
 });
 
 app.get("/scrape/unionb", async (req, res) => {
   try {
     const data = await scrapeUnionBank({ show: req.query.show === "true", slow: Number(req.query.slow || 0) });
+    const changes = await trackRateChanges("UnionBank", data);
     await maybeSave("UnionBank", data, req.query.save === "true");
-    res.json(data);
+    res.json({
+      bank: "UnionBank",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
   } catch (e: any) { res.status(500).json({ error: String(e?.message || e) }); }
 });
 
@@ -970,7 +1012,15 @@ app.get("/scrape/peoples", async (req, res) => {
     ]);
     
     const data = [...regular, ...pensioner];
-    res.json(data);
+    const changes = await trackRateChanges("People's Bank", data);
+    res.json({
+      bank: "People's Bank",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
   } catch (err: any) {
     console.error("Error scraping People's Bank:", err);
     res.status(500).json({ error: err?.message || String(err) });
@@ -984,24 +1034,48 @@ app.get("/scrape/dfcc", async (req, res) => {
       scrapeDFCCSolarLoan({ show: req.query.show === "true", slow: Number(req.query.slow || 0) })
     ]);
     const combined = [...data, ...solarData];
+    const changes = await trackRateChanges("DFCC", combined);
     await maybeSave("DFCC", combined, req.query.save === "true");
-    res.json(combined);
+    res.json({
+      bank: "DFCC",
+      count: combined.length,
+      rows: combined,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
   } catch (err) { res.status(500).send({ error: String(err) }); }
 });
 
 app.get("/scrape/nsb", async (req, res) => {
   try {
     const data = await scrapeNSB({ show: req.query.show === "true", slow: Number(req.query.slow || 0) });
+    const changes = await trackRateChanges("NSB", data);
     await maybeSave("NSB", data, req.query.save === "true");
-    res.json(data);
+    res.json({
+      bank: "NSB",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
   } catch (err: any) { res.status(500).json({ error: err?.message || String(err) }); }
 });
 
 app.get("/scrape/boc", async (req, res) => {
   try {
     const data = await scrapeBOC(req.query as any);
+    const changes = await trackRateChanges("BOC", data);
     await maybeSave("BOC", data, req.query.save === "true");
-    res.json(data);
+    res.json({
+      bank: "BOC",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
   } catch (err: any) { res.status(500).json({ error: String(err?.message || err) }); }
 });
 
@@ -1020,18 +1094,46 @@ app.get("/scrape/cargills", async (req, res) => {
     ]);
     
     const data = [...regular, ...pensioner];
-    res.json(data);
+    const changes = await trackRateChanges("Cargills", data);
+    res.json({
+      bank: "Cargills",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
   } catch (e: any) { res.status(500).json({ error: e?.message || String(e) }); }
 });
 
-app.get("/scrape/ntb", async (_req, res) => {
-  try { res.json(await scrapeNTB()); }
-  catch (e: any) { res.status(500).json({ error: String(e?.message || e) }); }
+app.get("/scrape/ntb", async (req, res) => {
+  try {
+    const data = await scrapeNTB();
+    const changes = await trackRateChanges("NTB", data);
+    res.json({
+      bank: "NTB",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
+  } catch (e: any) { res.status(500).json({ error: String(e?.message || e) }); }
 });
 
-app.get("/scrape/amana", async (_req, res) => {
-  try { res.json(await scrapeAmana()); }
-  catch (e: any) { res.status(500).json({ error: String(e?.message || e) }); }
+app.get("/scrape/amana", async (req, res) => {
+  try {
+    const data = await scrapeAmana();
+    const changes = await trackRateChanges("Amana", data);
+    res.json({
+      bank: "Amana",
+      count: data.length,
+      rows: data,
+      changes: changes.length > 0 ? changes : undefined,
+      hasChanges: changes.length > 0,
+      changesCount: changes.length
+    });
+  } catch (e: any) { res.status(500).json({ error: String(e?.message || e) }); }
 });
 
 /** CBSL AWPR monthly series */
@@ -1508,72 +1610,11 @@ app.get("/scrape/tariffs-all", async (req, res) => {
   }
 });
 
-// ============================================
-// V2 Features: Historical Rate Tracking
-// ============================================
-
-// Get banks with historical data
-app.get('/api/history/banks', async (req, res) => {
-  try {
-    const banks = getBanksWithHistory();
-    res.json({ banks });
-  } catch (error) {
-    console.error('[API] Error getting banks with history:', error);
-    res.status(500).json({ error: 'Failed to get historical data' });
-  }
-});
-
-// Get historical rates for a specific bank
-app.get('/api/history/:bank', async (req, res) => {
-  try {
-    const { bank } = req.params;
-    const days = parseInt(req.query.days as string) || 30;
-    const history = getHistoricalRates(bank, days);
-    res.json({ bank, history });
-  } catch (error) {
-    console.error('[API] Error getting historical rates:', error);
-    res.status(500).json({ error: 'Failed to get historical rates' });
-  }
-});
-
-// Get rate trend for specific product and tenure
-app.get('/api/history/:bank/:product/:tenure', async (req, res) => {
-  try {
-    const { bank, product, tenure } = req.params;
-    const days = parseInt(req.query.days as string) || 30;
-    const trend = getRateTrend(bank, product, tenure, days);
-
-    if (!trend) {
-      return res.status(404).json({ error: 'No historical data found' });
-    }
-
-    res.json(trend);
-  } catch (error) {
-    console.error('[API] Error getting rate trend:', error);
-    res.status(500).json({ error: 'Failed to get rate trend' });
-  }
-});
-
-// ============================================
-// V2 Features: Scraper Health Monitoring
-// ============================================
-
-// Get scraper health metrics
-app.get('/api/health/scrapers', async (req, res) => {
-  try {
-    const health = getScraperHealth();
-    res.json({ scrapers: health });
-  } catch (error) {
-    console.error('[API] Error getting scraper health:', error);
-    res.status(500).json({ error: 'Failed to get scraper health' });
-  }
-});
-
 /* ---------------- Production: serve client static files ---------------- */
 if (process.env.NODE_ENV === "production") {
   const clientDistPath = path.join(__dirname, "..", "client", "dist");
   app.use(express.static(clientDistPath));
-
+  
   // Catch-all route to serve index.html for client-side routing
   app.get("*", (_req, res) => {
     res.sendFile(path.join(clientDistPath, "index.html"));
@@ -1584,3 +1625,7 @@ if (process.env.NODE_ENV === "production") {
 app.listen(PORT, () => {
   console.log(`🚀 UB Scraper API running at http://localhost:${PORT}`);
 });
+
+
+
+
