@@ -1584,13 +1584,3 @@ if (process.env.NODE_ENV === "production") {
 app.listen(PORT, () => {
   console.log(`🚀 UB Scraper API running at http://localhost:${PORT}`);
 });
-
-
-
-
-
-
-// ============================================
-// V2 Features: Historical Rate Tracking
-// ============================================
-});
