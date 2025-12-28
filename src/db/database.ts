@@ -95,22 +95,20 @@ export function saveRateSnapshot(snapshot: RateSnapshot) {
   );
 }
 
-export function getLatestRateSnapshot(bank: string, product: string, tenureYears?: number, type?: string, beforeTimestamp?: string): RateSnapshot | null {
+export function getLatestRateSnapshot(bank: string, product: string, tenureYears?: number, type?: string | null, beforeTimestamp?: string): RateSnapshot | null {
   // Get the most recent snapshot, optionally before a specific timestamp
   // Build WHERE clause dynamically based on provided parameters
   let whereClause = "WHERE bank = ? AND product = ?";
   const params: any[] = [bank, product];
   
-  if (type !== undefined) {
-    if (type === null) {
-      whereClause += " AND type IS NULL";
-    } else {
-      whereClause += " AND type = ?";
-      params.push(type);
-    }
+  // Only filter by type if it's explicitly provided (not undefined)
+  // If type is null or empty string, treat as "no type filter"
+  if (type !== undefined && type !== null && type !== "") {
+    whereClause += " AND type = ?";
+    params.push(type);
   }
   
-  if (tenureYears !== undefined) {
+  if (tenureYears !== undefined && tenureYears !== null) {
     whereClause += " AND tenure_years = ?";
     params.push(tenureYears);
   }
