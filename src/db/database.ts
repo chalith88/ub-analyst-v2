@@ -95,7 +95,7 @@ export function saveRateSnapshot(snapshot: RateSnapshot) {
   );
 }
 
-export function getLatestRateSnapshot(bank: string, product: string, tenureYears?: number, type?: string | null, beforeTimestamp?: string): RateSnapshot | null {
+export function getLatestRateSnapshot(bank: string, product: string, tenureYears?: number, beforeTimestamp?: string, type?: string | null): RateSnapshot | null {
   // Normalize type to null if empty/undefined for consistent comparison
   const normalizedType = (type && type !== "") ? type : null;
   
@@ -144,7 +144,7 @@ export function detectRateChanges(newRates: RateSnapshot[]): RateChange[] {
 
     // Get latest snapshot BEFORE the current scraped_at timestamp
     // Include type to distinguish between Fixed/Floating/etc products
-    const oldRate = getLatestRateSnapshot(newRate.bank, newRate.product, newRate.tenureYears, newRate.type, newRate.scrapedAt);
+    const oldRate = getLatestRateSnapshot(newRate.bank, newRate.product, newRate.tenureYears, newRate.scrapedAt, newRate.type);
     
     if (oldRate && oldRate.rate !== newRate.rate) {
       const changeAmount = newRate.rate - oldRate.rate;
