@@ -1508,13 +1508,9 @@ app.get("/scrape/tariffs-all", async (req, res) => {
   }
 });
 
-/* ---------------- Production: serve client static files ---------------- */
-if (process.env.NODE_ENV === "production") {
-  const clientDistPath = path.join(__dirname, "..", "client", "dist");
-  app.use(express.static(clientDistPath));
-  
-
-// V2 ROUTES RE-ENABLED
+// ============================================
+// V2 Features: Historical Rate Tracking
+// ============================================
 
 // Get banks with historical data
 app.get('/api/history/banks', async (req, res) => {
@@ -1546,11 +1542,11 @@ app.get('/api/history/:bank/:product/:tenure', async (req, res) => {
     const { bank, product, tenure } = req.params;
     const days = parseInt(req.query.days as string) || 30;
     const trend = getRateTrend(bank, product, tenure, days);
-    
+
     if (!trend) {
       return res.status(404).json({ error: 'No historical data found' });
     }
-    
+
     res.json(trend);
   } catch (error) {
     console.error('[API] Error getting rate trend:', error);
@@ -1573,10 +1569,16 @@ app.get('/api/health/scrapers', async (req, res) => {
   }
 });
 
-// Catch-all route to serve index.html for client-side routing
-app.get("*", (_req, res) => {
-  res.sendFile(path.join(clientDistPath, "index.html"));
-});
+/* ---------------- Production: serve client static files ---------------- */
+if (process.env.NODE_ENV === "production") {
+  const clientDistPath = path.join(__dirname, "..", "client", "dist");
+  app.use(express.static(clientDistPath));
+
+  // Catch-all route to serve index.html for client-side routing
+  app.get("*", (_req, res) => {
+    res.sendFile(path.join(clientDistPath, "index.html"));
+  });
+}
 
 /* ---------------- Start server ---------------- */
 app.listen(PORT, () => {
