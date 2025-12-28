@@ -101,9 +101,13 @@ export function getLatestRateSnapshot(bank: string, product: string, tenureYears
   let whereClause = "WHERE bank = ? AND product = ?";
   const params: any[] = [bank, product];
   
-  if (type !== undefined && type !== null) {
-    whereClause += " AND (type = ? OR (type IS NULL AND ? IS NULL))";
-    params.push(type, type);
+  if (type !== undefined) {
+    if (type === null) {
+      whereClause += " AND type IS NULL";
+    } else {
+      whereClause += " AND type = ?";
+      params.push(type);
+    }
   }
   
   if (tenureYears !== undefined) {
