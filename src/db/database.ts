@@ -95,30 +95,11 @@ export function saveRateSnapshot(snapshot: RateSnapshot) {
   );
 }
 
-export function getLatestRateSnapshot(bank: string, product: string, tenureYears?: number, beforeTimestamp?: string, type?: string | null): RateSnapshot | null {
-  // Normalize type to null if empty/undefined for consistent comparison
-  const normalizedType = (type && type !== "") ? type : null;
-  
-  let whereClause = "WHERE bank = ? AND product = ?";
-  const params: any[] = [bank, product];
-  
-  // Always include type in comparison (null = no specific type)
-  if (normalizedType !== null) {
-    whereClause += " AND type = ?";
-    params.push(normalizedType);
-  } else {
-    whereClause += " AND (type IS NULL OR type = '')";
-  }
-  
-  if (tenureYears !== undefined && tenureYears !== null) {
-    whereClause += " AND tenure_years = ?";
-    params.push(tenureYears);
-  }
-  
-  if (beforeTimestamp) {
-    whereClause += " AND scraped_at < ?";
-    params.push(beforeTimestamp);
-  }
+export function getLatestRateSnapshot(bank: string, product: string, tenureYears?: number, beforeTimestamp?: string): RateSnapshot | null {
+  // Get the most recent snapshot, optionally before a specific timestamp
+  const whereClause = tenureYears !== undefined 
+    ? "WHERE bank = ? AND product = ? AND tenure_years = ?" + (beforeTimestamp ? " AND scraped_at < ?" : "")
+    : "WHERE bank = ? AND product = ?" + (beforeTimestamp ? " AND scraped_at < ?" : "");
   
   const stmt = db.prepare(`
     SELECT 
@@ -131,6 +112,10 @@ export function getLatestRateSnapshot(bank: string, product: string, tenureYears
     ORDER BY scraped_at DESC
     LIMIT 1
   `);
+
+  const params: any[] = [bank, product];
+  if (tenureYears !== undefined) params.push(tenureYears);
+  if (beforeTimestamp) params.push(beforeTimestamp);
   
   const result = stmt.get(...params);
   return result as RateSnapshot | null;
@@ -143,8 +128,7 @@ export function detectRateChanges(newRates: RateSnapshot[]): RateChange[] {
     if (!newRate.rate || !isFinite(newRate.rate)) continue;
 
     // Get latest snapshot BEFORE the current scraped_at timestamp
-    // Include type to distinguish between Fixed/Floating/etc products
-    const oldRate = getLatestRateSnapshot(newRate.bank, newRate.product, newRate.tenureYears, newRate.scrapedAt, newRate.type);
+    const oldRate = getLatestRateSnapshot(newRate.bank, newRate.product, newRate.tenureYears, newRate.scrapedAt);
     
     if (oldRate && oldRate.rate !== newRate.rate) {
       const changeAmount = newRate.rate - oldRate.rate;
