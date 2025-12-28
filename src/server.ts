@@ -1034,15 +1034,16 @@ app.get("/scrape/dfcc", async (req, res) => {
       scrapeDFCCSolarLoan({ show: req.query.show === "true", slow: Number(req.query.slow || 0) })
     ]);
     const combined = [...data, ...solarData];
-    const changes = await trackRateChanges("DFCC", combined);
+    // Temporarily disable rate tracking to diagnose error
+    // const changes = await trackRateChanges("DFCC", combined);
     await maybeSave("DFCC", combined, req.query.save === "true");
     res.json({
       bank: "DFCC",
       count: combined.length,
-      rows: combined,
-      changes: changes.length > 0 ? changes : undefined,
-      hasChanges: changes.length > 0,
-      changesCount: changes.length
+      rows: combined
+      // changes: changes.length > 0 ? changes : undefined,
+      // hasChanges: changes.length > 0,
+      // changesCount: changes.length
     });
   } catch (err) { res.status(500).send({ error: String(err) }); }
 });
